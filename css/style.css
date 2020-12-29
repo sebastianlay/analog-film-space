@@ -1,0 +1,281 @@
+/* reset */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* main styles */
+
+body {
+  padding: 50px 75px;
+  min-width: 460px;
+  background: #ddd;
+  text-align: left;
+  overflow-y: scroll;
+}
+
+body, input, button, select, article, label {
+  font: 16px/1.5 'Ek Mukta', sans-serif;
+}
+
+em {
+  font-style: italic;
+}
+
+input, button, select {
+  margin: 0 10px 10px 0;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #fff;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:active, button.active {
+  background: #eee;
+}
+
+.asc:after {
+  content: ' ↑';
+}
+
+.desc:after {
+  content: ' ↓';
+}
+
+nav {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav button:last-child {
+  margin-right: 0;
+}
+
+select {
+  padding: 3px 10px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h1 span {
+  color: #fff;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 20px;
+}
+
+header {
+  margin: 0 auto 50px auto;
+}
+
+main {
+  font-size: 0;
+}
+
+main > div {
+  font-size: 28px;
+  display: none;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 0;
+}
+
+li {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: inline-block;
+  margin: 120px 10px 10px 10px;
+  padding: 19px;
+  width: 330px;
+  height: 370px;
+  position: relative;
+  background: #fff;
+  text-align: center;
+}
+
+#faq li {
+  margin-top: 10px;
+  text-align: left;
+}
+
+li.left {
+  text-align: left;
+}
+
+li img {
+  width: 250px;
+  height: 200px;
+  margin: -120px 0 -20px 0;
+  display: inline-block;
+}
+
+li p {
+  margin: 20px;
+  font-size: 16px;
+}
+
+li p span {
+  display: block;
+}
+
+li aside {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-top: 1px solid #ddd;
+  background: #f3f3f3;
+  border-radius: 0 0 5px 5px;
+  display: flex;
+}
+
+li aside div, .link {
+  text-align: center;
+  font-size: 16px;
+  color: #666;
+  padding: 15px;
+  border-right: 1px solid #ddd;
+  flex-grow: 1;
+}
+
+li aside div:last-child {
+  border-right: none;
+}
+
+a {
+  color: #000;
+}
+
+a:hover, h1 a {
+  text-decoration: none;
+}
+
+a.active {
+  font-weight: 700;
+}
+
+h1 a:hover {
+  color: #aaa;
+}
+
+strong {
+  font-weight: 700;
+}
+
+p span:first-child {
+  margin-bottom: 20px;
+}
+
+p span a {
+  margin-right: 20px;
+}
+
+p span a:last-child {
+  margin-right: 0;
+}
+
+li a.link {
+  display: block;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  right: 0;
+  bottom: -60px;
+  background: #fff;
+  z-index: 2;
+  border-radius: 0 0 5px 5px;
+  color: #000;
+}
+
+li a.link:active {
+  background: #ddd;
+}
+
+[v-cloak] {
+  display: none;
+}
+
+/* media queries */
+
+@media (max-width: 600px) {
+
+body {
+  padding: 25px 50px 50px 50px;
+}
+
+input, select {
+  display: block;
+  width: 100%;
+}
+
+}

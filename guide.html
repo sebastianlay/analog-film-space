@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>analog film space - guide</title>
+  <link href="favicon.png" rel="icon">
+  <link href="favicon.png" rel="shortcut icon">
+  <link href="css/style.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Ek+Mukta:400,700" rel="stylesheet">
+</head>
+<body>
+  <div id="guide">
+    <header>
+      <h1><a href="index.html">analog film<span>.space</span></a></h1>
+      <p>a database of currently available 35mm, 110 and medium format film stocks</p>
+      <p><a href="index.html">overview</a> / <a href="faq.html">frequently asked questions</a> / <a href="guide.html" class="active">film guide</a> / <a href="random.html">random film</a></p>
+    </header>
+    <main>
+      <ul>
+        <li class="left">
+          <h2>{{currenttitle}}</h2>
+          <p v-html="currenttext"></p>
+          <p v-if="previousstep">« <a href="#" v-on:click="goto(previousstep)">go to previous question</a></p>
+          <p v-if="films.length">« <a href="#" v-on:click="goto(1)">start over</a></p>
+        </li>
+        <li v-for="answer in answers" class="left">
+          <h2>{{answer.title}}</h2>
+          <p v-html="answer.text"></p>
+          <aside>
+            <div><a href="#" v-on:click="goto(answer.next)">choose this one</a> »</div>
+          </aside>
+        </li>
+        <li v-for="film in films">
+          <img :src="film.image" :alt="film.name">
+          <h2>{{film.name}}</h2>
+          <p>
+            <span v-if="film.description">{{film.description}}</span>
+            <span>
+              <a v-if="film.flickr" :href="film.flickr" target="_blank" rel="noopener">flickr</a>
+              <a v-if="film.lomography" :href="film.lomography" target="_blank" rel="noopener">lomography</a>
+              <a v-if="film.datasheet" :href="film.datasheet" target="_blank" rel="noopener">datasheet</a>
+            </span>
+          </p>
+          <aside>
+            <div title="film type">{{film.color}} {{film.type}}</div>
+            <div title="film format">{{film.format}}</div>
+            <div title="film launched/updated" v-if="film.launched">{{film.launched}}</div>
+            <div title="price range">{{formatPrice(film.price)}}</div>
+          </aside>
+        </li>
+      </ul>
+    </main>
+  </div>
+  <script src="js/current-films.js"></script>
+  <script src="js/guide.js"></script>
+  <script src="js/vue.js"></script>
+  <script src="js/script-guide.js"></script>
+</body>
+</html>
