@@ -19,14 +19,14 @@
     </header>
     <main>
       <aside>
-        <input placeholder="search" v-model="search" />
-        <select v-model="type">
+        <input placeholder="search" v-model="search" aria-label="search" />
+        <select v-model="type" aria-label="film type">
           <option value="all">all types</option> 
           <option value="black & white">black & white</option>
           <option value="colornegative">color negative</option>
           <option value="colorslide">color slide</option>
         </select>
-        <select v-model="format">
+        <select v-model="format" aria-label="film format">
           <option value="all">all formats</option> 
           <option value="110">110 - pocket film</option>
           <option value="120">120 - medium format</option>
