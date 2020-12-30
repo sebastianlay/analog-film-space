@@ -62,7 +62,7 @@ html {
 body {
   padding: 50px 75px;
   min-width: 460px;
-  background: #ddd;
+  background: #ccc;
   text-align: left;
   overflow-y: scroll;
 }
@@ -78,7 +78,7 @@ em {
 input, button, select {
   margin: 0 10px 10px 0;
   padding: 5px 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #bbb;
   border-radius: 5px;
   background: #fff;
 }
@@ -151,7 +151,7 @@ ul {
 }
 
 li {
-  border: 1px solid #ccc;
+  border: 1px solid #bbb;
   border-radius: 5px;
   display: inline-block;
   margin: 120px 10px 10px 10px;
@@ -242,23 +242,6 @@ p span a {
 
 p span a:last-child {
   margin-right: 0;
-}
-
-li a.link {
-  display: block;
-  position: absolute;
-  width: 100%;
-  left: 0;
-  right: 0;
-  bottom: -60px;
-  background: #fff;
-  z-index: 2;
-  border-radius: 0 0 5px 5px;
-  color: #000;
-}
-
-li a.link:active {
-  background: #ddd;
 }
 
 [v-cloak] {
