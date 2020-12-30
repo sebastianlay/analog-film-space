@@ -21,14 +21,14 @@
         <li class="left">
           <h2>{{currenttitle}}</h2>
           <p v-html="currenttext"></p>
-          <p v-if="previousstep">« <a href="#" v-on:click="goto(previousstep)">go to previous question</a></p>
-          <p v-if="films.length">« <a href="#" v-on:click="goto(1)">start over</a></p>
+          <p v-if="previousstep">« <a href="" v-on:click.prevent="goto(previousstep)">go to previous question</a></p>
+          <p v-if="films.length">« <a href="" v-on:click.prevent="goto(1)">start over</a></p>
         </li>
         <li v-for="answer in answers" class="left">
           <h2>{{answer.title}}</h2>
           <p v-html="answer.text"></p>
           <aside>
-            <div><a href="#" v-on:click="goto(answer.next)">choose this one</a> »</div>
+            <div><a href="" v-on:click.prevent="goto(answer.next)">choose this one</a> »</div>
           </aside>
         </li>
         <li v-for="film in films">
