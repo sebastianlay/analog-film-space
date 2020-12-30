@@ -1,2 +1,6 @@
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+
+<filesMatch ".(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+  Header set Cache-Control "max-age=8380800, public"
+</filesMatch>
