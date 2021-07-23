@@ -39,7 +39,7 @@
       </aside>
       <ul v-cloak>
         <li v-for="film in films">
-          <img :src="'images/small/' + film.image" :srcset="'images/small/' + film.image + ' 1x, images/' + film.image + ' 2x'" :alt="film.name">
+          <img :src="'images/small/' + film.image" :srcset="'images/small/' + film.image + ' 1x, images/' + film.image + ' 2x'" :alt="film.name" loading="lazy">
           <h2>{{film.name}}</h2>
           <p>
             <span v-if="film.description">{{film.description}}</span>
