@@ -18,24 +18,28 @@
     </header>
     <main>
       <aside>
-        <input placeholder="search" v-model="search" aria-label="search" />
-        <select v-model="type" aria-label="film type">
-          <option value="all">all types</option> 
-          <option value="black & white">black & white</option>
-          <option value="colornegative">color negative</option>
-          <option value="colorslide">color slide</option>
-        </select>
-        <select v-model="format" aria-label="film format">
-          <option value="all">all formats</option> 
-          <option value="110">110 - pocket film</option>
-          <option value="120">120 - medium format</option>
-          <option value="135">135 - 35mm film</option>
-        </select>
-        <br><label>sort by</label> 
-        <button v-on:click="sort" v-bind:class="[ sortBy === 'popularity' ? 'active' : '', sortBy === 'popularity' ? sortDir : '' ]">popularity</button>
-        <button v-on:click="sort" v-bind:class="[ sortBy === 'name' ? 'active' : '', sortBy === 'name' ? sortDir : '' ]">name</button>
-        <button v-on:click="sort" v-bind:class="[ sortBy === 'price' ? 'active' : '', sortBy === 'price' ? sortDir : '' ]">price</button>
-        <button v-on:click="sort" v-bind:class="[ sortBy === 'iso' ? 'active' : '', sortBy === 'iso' ? sortDir : '' ]">ISO</button>
+        <section>
+          <input placeholder="search" v-model="search" aria-label="search" />
+          <select v-model="type" aria-label="film type">
+            <option value="all">all types</option> 
+            <option value="black & white">black & white</option>
+            <option value="colornegative">color negative</option>
+            <option value="colorslide">color slide</option>
+          </select>
+          <select v-model="format" aria-label="film format">
+            <option value="all">all formats</option> 
+            <option value="110">110 - pocket film</option>
+            <option value="120">120 - medium format</option>
+            <option value="135">135 - 35mm film</option>
+          </select>
+        </section>
+        <section>
+          <label>sort by</label> 
+          <button v-on:click="sort" v-bind:class="[ sortBy === 'popularity' ? 'active' : '', sortBy === 'popularity' ? sortDir : '' ]">popularity</button>
+          <button v-on:click="sort" v-bind:class="[ sortBy === 'name' ? 'active' : '', sortBy === 'name' ? sortDir : '' ]">name</button>
+          <button v-on:click="sort" v-bind:class="[ sortBy === 'price' ? 'active' : '', sortBy === 'price' ? sortDir : '' ]">price</button>
+          <button v-on:click="sort" v-bind:class="[ sortBy === 'iso' ? 'active' : '', sortBy === 'iso' ? sortDir : '' ]">ISO</button>
+        </section>
       </aside>
       <ul v-cloak>
         <li v-for="film in films">

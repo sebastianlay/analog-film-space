@@ -99,7 +99,7 @@ html {
 
 body {
   padding: 50px 75px;
-  min-width: 460px;
+  min-width: 370px;
   background: #ccc;
   text-align: left;
   overflow-y: scroll;
@@ -114,7 +114,7 @@ em {
 }
 
 input, button, select {
-  margin: 0 10px 10px 0;
+  margin: 0 10px 0 0;
   padding: 5px 10px;
   border: 1px solid #bbb;
   border-radius: 5px;
@@ -147,12 +147,19 @@ nav button:last-child {
   margin-right: 0;
 }
 
+aside > section {
+  display: flex;
+  align-items: stretch;
+  margin-bottom: 10px;
+}
+
 select {
   padding: 3px 10px;
 }
 
 label {
   margin-right: 10px;
+  line-height: 36px;
 }
 
 h1 {
@@ -208,6 +215,7 @@ li {
 
 li.left {
   text-align: left;
+  margin: 10px;
 }
 
 li img {
@@ -288,15 +296,37 @@ p span a:last-child {
 
 /* media queries */
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
+
+  body {
+    padding: 50px;
+  }
+  
+  }
+
+@media (max-width: 700px) {
 
 body {
-  padding: 25px 50px 50px 50px;
+  padding: 30px 10px;
 }
 
-input, select {
-  display: block;
-  width: 100%;
+header {
+  width: 330px;
+  margin: 20px auto 50px auto;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+aside > section {
+  flex-direction: column;
+  width: 330px;
+  margin: 20px auto;
+}
+
+input, button, select {
+  margin: 0 0 5px 0;
 }
 
 }
