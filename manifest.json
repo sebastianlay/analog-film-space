@@ -1,0 +1,12 @@
+{
+  "name": "analog film",
+  "short_name": "analog film",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ccc",
+  "description": "a database of currently available 35mm, 110 and medium format film stocks",
+  "icons": [{
+    "src": "favicon.svg",
+    "sizes": "any"
+  }]
+}
