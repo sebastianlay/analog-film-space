@@ -4,9 +4,10 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ccc",
+  "theme_color": "#000",
   "description": "a database of currently available 35mm, 110 and medium format film stocks",
   "icons": [{
     "src": "favicon.svg",
-    "sizes": "any"
+    "sizes": "any maskable"
   }]
 }

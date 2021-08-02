@@ -101,6 +101,7 @@ body {
   padding: 50px 75px;
   min-width: 360px;
   background: #ccc;
+  color: #000;
   text-align: left;
   overflow-y: scroll;
 }
@@ -258,6 +259,8 @@ li aside div:last-child {
 
 a {
   color: #000;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 a:hover, h1 a {

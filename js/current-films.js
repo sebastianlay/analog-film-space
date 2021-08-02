@@ -1437,7 +1437,7 @@ var currentfilms = [
     "emulsion": "",
     "price": 1,
     "popularity": 98624,
-    "description": "consumer film that can be used universally and is suitable for a variety of applications with a higher ISO than the Kodak ColorPlus",
+    "description": "consumer film that can be used universally and is suitable for a variety of applications",
     "launched": 2007,
     "datasheet": "datasheets/kodak-ultramax-400.pdf",
     "lomography": "https://www.lomography.com/films/871945457-kodak-ultramax-400-35mm/photos",
