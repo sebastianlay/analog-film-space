@@ -6,8 +6,15 @@
   "background_color": "#ccc",
   "theme_color": "#000",
   "description": "a database of currently available 35mm, 110 and medium format film stocks",
-  "icons": [{
-    "src": "favicon.svg",
-    "sizes": "any maskable"
-  }]
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon-precomposed.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
 }
