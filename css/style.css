@@ -164,10 +164,11 @@ label {
 
 h1 {
   font-size: 48px;
+  font-weight: 700;
 }
 
 h1 span {
-  color: #fff;
+  font-weight: 400;
 }
 
 h2 {
