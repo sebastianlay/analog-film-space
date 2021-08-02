@@ -99,7 +99,7 @@ html {
 
 body {
   padding: 50px 75px;
-  min-width: 370px;
+  min-width: 360px;
   background: #ccc;
   text-align: left;
   overflow-y: scroll;
@@ -151,10 +151,6 @@ aside > section {
   display: flex;
   align-items: stretch;
   margin-bottom: 10px;
-}
-
-select {
-  padding: 3px 10px;
 }
 
 label {
@@ -227,7 +223,7 @@ li img {
 }
 
 li p {
-  margin: 20px;
+  margin: 20px 10px;
   font-size: 16px;
 }
 
@@ -284,7 +280,7 @@ p span:first-child {
 }
 
 p span a {
-  margin-right: 20px;
+  margin-right: 15px;
 }
 
 p span a:last-child {
@@ -300,15 +296,15 @@ p span a:last-child {
 @media (max-width: 1000px) {
 
   body {
-    padding: 50px;
+    padding: 30px;
   }
   
   }
 
-@media (max-width: 700px) {
+@media (max-width: 670px) {
 
 body {
-  padding: 30px 10px;
+  padding: 30px 10px 0 10px;
 }
 
 header {
@@ -317,7 +313,15 @@ header {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 36px;
+}
+
+li {
+  margin: 120px 0 10px 0;
+}
+
+li.left {
+  margin: 10px 0;
 }
 
 aside > section {
