@@ -107,6 +107,7 @@ body {
 
 body, input, button, select, article, label {
   font: 16px/1.5 'Ek Mukta', sans-serif;
+  letter-spacing: 0;
 }
 
 em {
@@ -169,7 +170,7 @@ h1 span {
 
 h2 {
   font-size: 20px;
-  margin: 20px;
+  margin: 20px 10px;
 }
 
 header {
@@ -212,7 +213,7 @@ li {
 
 li.left {
   text-align: left;
-  margin: 10px;
+  margin: 120px 10px 10px 10px;
 }
 
 li img {
