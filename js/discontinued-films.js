@@ -15,5 +15,22 @@ var discontinuedfilms = [
     "lomography": "https://www.lomography.com/films/871939313-fujifilm-superia-venus-800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Superia%20Venus%20800%22",
     "image": "images/fujifilm-superia-venus-800-135.png"
-  }
+  },
+  {
+    "company": "Adox",
+    "name": "Adox Color Implosion",
+    "iso": "100",
+    "format": "135",
+    "color": "color",
+    "type": "negative",
+    "emulsion": "",
+    "price": 2,
+    "popularity": 5065,
+    "description": "film with a partially collapsed color coupling system for unpredictable results. effective speed is ISO 100",
+    "launched": 2012,
+    "datasheet": "",
+    "lomography": "https://www.lomography.com/films/871951418-adox-color-implosion/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20Color%20Implosion%22",
+    "image": "adox-color-implosion-135.png"
+  },
 ]

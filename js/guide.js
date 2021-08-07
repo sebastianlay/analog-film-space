@@ -616,10 +616,6 @@ var guide = [
     "text": "Definitely try those films while they are made!",
     "films": [
       {
-        "name": "Adox Color Implosion",
-        "format": "135"
-      },
-      {
         "name": "Cinestillfilm Cinestill 50D",
         "format": "135"
       },
