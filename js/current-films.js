@@ -99,7 +99,7 @@ var currentfilms = [
     "datasheet": "datasheets/adox-hr-50.pdf",
     "lomography": "https://www.lomography.com/films/871968181-adox-hr-50/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20HR-50%22",
-    "image": "random.png"
+    "image": "adox-hr-50-135.png"
   },
   {
     "company": "Adox",
