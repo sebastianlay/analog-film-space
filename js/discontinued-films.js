@@ -33,4 +33,21 @@ var discontinuedfilms = [
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20Color%20Implosion%22",
     "image": "adox-color-implosion-135.png"
   },
+  {
+    "company": "Film Washi",
+    "name": "Film Washi X",
+    "iso": "",
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "",
+    "price": 0,
+    "popularity": 0,
+    "description": "",
+    "launched": 2015,
+    "datasheet": "",
+    "lomography": "",
+    "flickr": "",
+    "image": "film-washi-x-400-135.png"
+  },
 ]
