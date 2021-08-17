@@ -57,6 +57,8 @@ const app = new Vue({
             return a.price - b.price;
           case 'iso':
             return a.iso - b.iso;
+          case 'date':
+            return a.launched - b.launched;
         }
       });
       if(sortDir === 'asc') {

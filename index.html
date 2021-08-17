@@ -57,6 +57,7 @@
           <button v-on:click="sort" v-bind:class="[ sortBy === 'popularity' ? 'active' : '', sortBy === 'popularity' ? sortDir : '' ]">popularity</button>
           <button v-on:click="sort" v-bind:class="[ sortBy === 'name' ? 'active' : '', sortBy === 'name' ? sortDir : '' ]">name</button>
           <button v-on:click="sort" v-bind:class="[ sortBy === 'price' ? 'active' : '', sortBy === 'price' ? sortDir : '' ]">price</button>
+          <button v-on:click="sort" v-bind:class="[ sortBy === 'date' ? 'active' : '', sortBy === 'date' ? sortDir : '' ]">date</button>
           <button v-on:click="sort" v-bind:class="[ sortBy === 'iso' ? 'active' : '', sortBy === 'iso' ? sortDir : '' ]">ISO</button>
         </section>
       </aside>
