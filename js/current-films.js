@@ -2871,5 +2871,39 @@ var currentfilms = [
     "lomography" : "https://www.lomography.com/films/871957145-rollei-superpan-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Superpan%20200%22",
     "image": "rollei-superpan-200-135.png"
+  },
+  {
+    "company": "Street Candy",
+    "name": "Street Candy MTN 100",
+    "iso": "100",
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "",
+    "price": 2,
+    "popularity": 1,
+    "description": "motion picture film, probably produced by Orwo",
+    "launched": 2021,
+    "datasheet": "datasheets/street-candy-mtn-100.pdf",
+    "lomography": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Street%20Candy%20MTN%20100%22",
+    "image": "street-candy-mtn-100-135.png"
+  },
+  {
+    "company": "Street Candy",
+    "name": "Street Candy ATM 400",
+    "iso": "400",
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "",
+    "price": 2,
+    "popularity": 228,
+    "description": "panchromatic film, intended for surveillance cameras",
+    "launched": 2018,
+    "datasheet": "datasheets/street-candy-atm-400.pdf",
+    "lomography": "https://www.lomography.com/films/871967677-street-candy-atm-400/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Street%20Candy%20ATM%20400%22",
+    "image": "street-candy-atm-400-135.png"
   }
 ]
