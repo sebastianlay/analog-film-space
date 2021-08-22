@@ -1854,6 +1854,23 @@ var currentfilms = [
   },
   {
     "company": "Lomography",
+    "name": "Lomography Babylon 13",
+    "iso": "13",
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "",
+    "price": 2,
+    "popularity": 131,
+    "description": "cinematic panchromatic film, probably a rebranded version of Orwo DN21",
+    "launched": 2020,
+    "datasheet": "datasheets/lomography-babylon-13.pdf",
+    "lomography": "https://www.lomography.com/films/871969874-babylon-kino-b-w-35-mm-iso-13/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Babylon%2013%22",
+    "image": "lomography-babylon-13-135.png"
+  },
+  {
+    "company": "Lomography",
     "name": "Lomography Berlin 400",
     "iso": "400",
     "format": "120",
@@ -2021,6 +2038,23 @@ var currentfilms = [
     "lomography": "https://www.lomography.com/films/871942379-lomography-earl-grey-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Earl%20Grey%22",
     "image": "lomography-earl-grey-100-135.png"
+  },
+  {
+    "company": "Lomography",
+    "name": "Lomography Fantôme 8",
+    "iso": "8",
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "",
+    "price": 2,
+    "popularity": 116,
+    "description": "cinematic panchromatic film, probably a rebranded version of Orwo DP31",
+    "launched": 2020,
+    "datasheet": "datasheets/lomography-fantome-8.pdf",
+    "lomography": "https://www.lomography.com/films/871969872-fantome-kino-b-w-35-mm-iso-8/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Fantome%208%22",
+    "image": "lomography-fantome-8-135.png"
   },
   {
     "company": "Lomography",
