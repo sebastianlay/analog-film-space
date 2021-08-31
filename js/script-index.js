@@ -44,21 +44,19 @@ const app = new Vue({
       var sortBy = this.sortBy;
       var sortDir = this.sortDir;
       var sorted = this.filteredfilms.sort(function (a, b) {
+        var first = a.name.toLowerCase() + a.format;
+        var second = b.name.toLowerCase() + b.format;
         switch(sortBy) {
           case 'popularity':
-            return a.popularity - b.popularity;
+            return a.popularity - b.popularity || first.localeCompare(second);
           case 'name':
-            var first = a.name.toLowerCase() + a.format;
-            var second = b.name.toLowerCase() + b.format;
-            if(first < second) return -1;
-            if(first > second) return 1;
-            return 0;
+            return first.localeCompare(second);
           case 'price':
-            return a.price - b.price;
+            return a.price - b.price || first.localeCompare(second);
           case 'iso':
-            return a.iso - b.iso;
+            return a.iso - b.iso || first.localeCompare(second);
           case 'date':
-            return a.launched - b.launched;
+            return a.launched - b.launched || first.localeCompare(second);
         }
       });
       if(sortDir === 'asc') {
