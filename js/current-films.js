@@ -2,7 +2,7 @@ var currentfilms = [
   {
     "company": "Adox",
     "name": "Adox CHS 100 II",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -19,7 +19,7 @@ var currentfilms = [
   {
     "company": "Adox",
     "name": "Adox CHS 100 II",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -36,7 +36,7 @@ var currentfilms = [
   {
     "company": "Adox",
     "name": "Adox CMS 20 II",
-    "iso": "20",
+    "iso": 20,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -53,7 +53,7 @@ var currentfilms = [
   {
     "company": "Adox",
     "name": "Adox CMS 20 II",
-    "iso": "20",
+    "iso": 20,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -70,7 +70,7 @@ var currentfilms = [
   {
     "company": "Adox",
     "name": "Adox HR-50",
-    "iso": "50",
+    "iso": 50,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -87,7 +87,7 @@ var currentfilms = [
   {
     "company": "Adox",
     "name": "Adox Scala 50",
-    "iso": "50",
+    "iso": 50,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -104,7 +104,7 @@ var currentfilms = [
   {
     "company": "Adox",
     "name": "Adox Scala 160",
-    "iso": "160",
+    "iso": 160,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -121,7 +121,7 @@ var currentfilms = [
   {
     "company": "Adox",
     "name": "Adox Silvermax 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -138,7 +138,7 @@ var currentfilms = [
   {
     "company": "Agfaphoto",
     "name": "Agfaphoto APX 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -155,7 +155,7 @@ var currentfilms = [
   {
     "company": "Agfaphoto",
     "name": "Agfaphoto APX 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -172,7 +172,7 @@ var currentfilms = [
   {
     "company": "Agfaphoto",
     "name": "Agfaphoto CT Precisa 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "color",
     "type": "slide",
@@ -189,7 +189,7 @@ var currentfilms = [
   {
     "company": "Bergger",
     "name": "Bergger Pancro 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -206,7 +206,7 @@ var currentfilms = [
   {
     "company": "Bergger",
     "name": "Bergger Pancro 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -223,7 +223,7 @@ var currentfilms = [
   {
     "company": "CatLABS",
     "name": "CatLABS X FILM 80",
-    "iso": "80",
+    "iso": 80,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -240,7 +240,7 @@ var currentfilms = [
   {
     "company": "CatLABS",
     "name": "CatLABS X FILM 320",
-    "iso": "320",
+    "iso": 320,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -257,7 +257,7 @@ var currentfilms = [
   {
     "company": "Cinestillfilm",
     "name": "Cinestillfilm Cinestill 50D",
-    "iso": "50",
+    "iso": 50,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -274,7 +274,7 @@ var currentfilms = [
   {
     "company": "Cinestillfilm",
     "name": "Cinestillfilm Cinestill 50D",
-    "iso": "50",
+    "iso": 50,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -291,7 +291,7 @@ var currentfilms = [
   {
     "company": "Cinestillfilm",
     "name": "Cinestillfilm Cinestill 800T",
-    "iso": "800",
+    "iso": 800,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -308,7 +308,7 @@ var currentfilms = [
   {
     "company": "Cinestillfilm",
     "name": "Cinestillfilm Cinestill 800T",
-    "iso": "800",
+    "iso": 800,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -325,7 +325,7 @@ var currentfilms = [
   {
     "company": "Cinestillfilm",
     "name": "Cinestill bwXX 250",
-    "iso": "250",
+    "iso": 250,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -342,7 +342,7 @@ var currentfilms = [
   {
     "company": "Cinestillfilm",
     "name": "Cinestill bwXX 250",
-    "iso": "250",
+    "iso": 250,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -359,7 +359,7 @@ var currentfilms = [
   {
     "company": "dubblefilm",
     "name": "dubblefilm Apollo",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -376,7 +376,7 @@ var currentfilms = [
   {
     "company": "dubblefilm",
     "name": "dubblefilm Bubblegum",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -393,7 +393,7 @@ var currentfilms = [
   {
     "company": "dubblefilm",
     "name": "dubblefilm Jelly",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -410,7 +410,7 @@ var currentfilms = [
   {
     "company": "dubblefilm",
     "name": "dubblefilm Pacific",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -427,7 +427,7 @@ var currentfilms = [
   {
     "company": "dubblefilm",
     "name": "dubblefilm Solar",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -444,7 +444,7 @@ var currentfilms = [
   {
     "company": "dubblefilm",
     "name": "dubblefilm Stereo",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -461,7 +461,7 @@ var currentfilms = [
   {
     "company": "dubblefilm",
     "name": "dubblefilm DAILY color",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -478,7 +478,7 @@ var currentfilms = [
   {
     "company": "dubblefilm",
     "name": "dubblefilm DAILY black&white",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -495,7 +495,7 @@ var currentfilms = [
   {
     "company": "Ferrania",
     "name": "Ferrania P30",
-    "iso": "80",
+    "iso": 80,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -512,7 +512,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi A 12",
-    "iso": "12",
+    "iso": 12,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -529,7 +529,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi D 500",
-    "iso": "500",
+    "iso": 500,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -546,7 +546,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi F 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -563,7 +563,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi F 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -580,7 +580,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi I 80",
-    "iso": "80",
+    "iso": 80,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -597,7 +597,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi R 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -614,7 +614,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi S 50",
-    "iso": "50",
+    "iso": 50,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -631,7 +631,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi S 50",
-    "iso": "50",
+    "iso": 50,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -648,7 +648,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi V 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -665,7 +665,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi V 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -682,7 +682,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi W 25",
-    "iso": "25",
+    "iso": 25,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -699,7 +699,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi W 25",
-    "iso": "25",
+    "iso": 25,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -716,7 +716,7 @@ var currentfilms = [
   {
     "company": "Film Washi",
     "name": "Film Washi Z 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -733,7 +733,7 @@ var currentfilms = [
   {
     "company": "Foma",
     "name": "Foma Fomapan 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -750,7 +750,7 @@ var currentfilms = [
   {
     "company": "Foma",
     "name": "Foma Fomapan 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -767,7 +767,7 @@ var currentfilms = [
   {
     "company": "Foma",
     "name": "Foma Fomapan 200",
-    "iso": "200",
+    "iso": 200,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -784,7 +784,7 @@ var currentfilms = [
   {
     "company": "Foma",
     "name": "Foma Fomapan 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -801,7 +801,7 @@ var currentfilms = [
   {
     "company": "Foma",
     "name": "Foma Fomapan 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -818,7 +818,7 @@ var currentfilms = [
   {
     "company": "Foma",
     "name": "Foma Fomapan 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -835,7 +835,7 @@ var currentfilms = [
   {
     "company": "Foma",
     "name": "Foma Fomapan R 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -852,7 +852,7 @@ var currentfilms = [
   {
     "company": "Foma",
     "name": "Foma Retropan 320",
-    "iso": "320",
+    "iso": 320,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -869,7 +869,7 @@ var currentfilms = [
   {
     "company": "Foma",
     "name": "Foma Retropan 320",
-    "iso": "320",
+    "iso": 320,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -886,7 +886,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Neopan Acros 100 II",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -903,7 +903,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Neopan Acros 100 II",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -920,7 +920,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm C200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -937,7 +937,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Pro 160NS",
-    "iso": "160",
+    "iso": 160,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -954,7 +954,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Pro 400H",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -971,7 +971,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Pro 400H",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -988,7 +988,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Provia 100F",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "color",
     "type": "slide",
@@ -1005,7 +1005,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Provia 100F",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "color",
     "type": "slide",
@@ -1022,7 +1022,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Superia 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1039,7 +1039,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Superia X-TRA 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1056,7 +1056,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Velvia 50",
-    "iso": "50",
+    "iso": 50,
     "format": "120",
     "color": "color",
     "type": "slide",
@@ -1073,7 +1073,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Velvia 50",
-    "iso": "50",
+    "iso": 50,
     "format": "135",
     "color": "color",
     "type": "slide",
@@ -1090,7 +1090,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Velvia 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "color",
     "type": "slide",
@@ -1107,7 +1107,7 @@ var currentfilms = [
   {
     "company": "Fujifilm",
     "name": "Fujifilm Velvia 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "color",
     "type": "slide",
@@ -1124,7 +1124,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford Delta 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1141,7 +1141,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford Delta 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1158,7 +1158,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford Delta 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1175,7 +1175,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford Delta 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1192,7 +1192,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford Delta 3200",
-    "iso": "3200",
+    "iso": 3200,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1209,7 +1209,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford Delta 3200",
-    "iso": "3200",
+    "iso": 3200,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1226,7 +1226,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford FP4 Plus 125",
-    "iso": "125",
+    "iso": 125,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1243,7 +1243,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford FP4 Plus 125",
-    "iso": "125",
+    "iso": 125,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1260,7 +1260,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford HP5 Plus 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1277,7 +1277,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford HP5 Plus 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1294,7 +1294,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford Ortho Plus 80",
-    "iso": "80",
+    "iso": 80,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1311,7 +1311,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford Ortho Plus 80",
-    "iso": "80",
+    "iso": 80,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1328,7 +1328,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford PAN F Plus 50",
-    "iso": "50",
+    "iso": 50,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1345,7 +1345,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford PAN F Plus 50",
-    "iso": "50",
+    "iso": 50,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1362,7 +1362,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford SFX 200",
-    "iso": "200",
+    "iso": 200,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1379,7 +1379,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford SFX 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1396,7 +1396,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford XP2 super 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1413,7 +1413,7 @@ var currentfilms = [
   {
     "company": "Ilford",
     "name": "Ilford XP2 super 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1430,7 +1430,7 @@ var currentfilms = [
   {
     "company": "JCH",
     "name": "JCH Street Pan 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1447,7 +1447,7 @@ var currentfilms = [
   {
     "company": "JCH",
     "name": "JCH Street Pan 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1464,7 +1464,7 @@ var currentfilms = [
   {
     "company": "Kentmere",
     "name": "Kentmere 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1481,7 +1481,7 @@ var currentfilms = [
   {
     "company": "Kentmere",
     "name": "Kentmere 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1498,7 +1498,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak ColorPlus 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1515,7 +1515,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Ektachrome E100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "color",
     "type": "slide",
@@ -1532,7 +1532,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Ektachrome E100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "color",
     "type": "slide",
@@ -1549,7 +1549,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Ektar 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -1566,7 +1566,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Ektar 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1583,7 +1583,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Gold 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1600,7 +1600,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Portra 160",
-    "iso": "160",
+    "iso": 160,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -1617,7 +1617,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Portra 160",
-    "iso": "160",
+    "iso": 160,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1634,7 +1634,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Portra 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -1651,7 +1651,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Portra 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1668,7 +1668,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Portra 800",
-    "iso": "800",
+    "iso": 800,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -1685,7 +1685,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Portra 800",
-    "iso": "800",
+    "iso": 800,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1702,7 +1702,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak T-MAX 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1719,7 +1719,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak T-MAX 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1736,7 +1736,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak T-MAX 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1753,7 +1753,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak T-MAX 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1770,7 +1770,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak T-MAX P3200",
-    "iso": "3200",
+    "iso": 3200,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1787,7 +1787,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak TRI-X 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -1804,7 +1804,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak TRI-X 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1821,7 +1821,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak Pro Image 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1838,7 +1838,7 @@ var currentfilms = [
   {
     "company": "Kodak",
     "name": "Kodak UltraMax 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1855,7 +1855,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! ALIEN 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1872,7 +1872,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! KATZ 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1889,7 +1889,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! LIEBE 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1906,7 +1906,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! LUFT 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -1923,7 +1923,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! MONOLIT 3",
-    "iso": "3",
+    "iso": 3,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1940,7 +1940,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! MONOLIT 64",
-    "iso": "64",
+    "iso": 64,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1957,7 +1957,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! MONOLIT 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1974,7 +1974,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! MONOLIT 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -1991,7 +1991,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! REKORDER 100-200",
-    "iso": "150",
+    "iso": 150,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2008,7 +2008,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! ROTWILD No2 100-400",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2025,7 +2025,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! UFO 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2042,7 +2042,7 @@ var currentfilms = [
   {
     "company": "KONO!",
     "name": "KONO! WINTERMÄRCHEN 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2059,7 +2059,7 @@ var currentfilms = [
   {
     "company": "Kosmo",
     "name": "Kosmo Foto Mono 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -2076,7 +2076,7 @@ var currentfilms = [
   {
     "company": "Kosmo",
     "name": "Kosmo Foto Mono 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2093,7 +2093,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Babylon 13",
-    "iso": "13",
+    "iso": 13,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2110,7 +2110,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Berlin 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -2127,7 +2127,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Berlin 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2144,7 +2144,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Color Negative 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -2161,7 +2161,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Color Negative 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2178,7 +2178,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Color Negative 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -2195,7 +2195,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Color Negative 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2212,7 +2212,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Color Negative 800",
-    "iso": "800",
+    "iso": 800,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -2229,7 +2229,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Color Negative 800",
-    "iso": "800",
+    "iso": 800,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2246,7 +2246,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Earl Grey 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -2263,7 +2263,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Earl Grey 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2280,7 +2280,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Fantôme 8",
-    "iso": "8",
+    "iso": 8,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2297,7 +2297,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Lady Grey 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -2314,7 +2314,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Lady Grey 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2331,7 +2331,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Lobster 200",
-    "iso": "200",
+    "iso": 200,
     "format": "110",
     "color": "color",
     "type": "negative",
@@ -2348,7 +2348,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Lomochrome Metropolis 100-400",
-    "iso": "200",
+    "iso": 200,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -2365,7 +2365,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Lomochrome Metropolis 100-400",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2382,7 +2382,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Lomochrome Metropolis 100-400",
-    "iso": "200",
+    "iso": 200,
     "format": "110",
     "color": "color",
     "type": "negative",
@@ -2399,7 +2399,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Lomochrome Purple 100-400",
-    "iso": "200",
+    "iso": 200,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -2416,7 +2416,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Lomochrome Purple 100-400",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2433,7 +2433,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Lomochrome Purple 100-400",
-    "iso": "200",
+    "iso": 200,
     "format": "110",
     "color": "color",
     "type": "negative",
@@ -2450,7 +2450,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Orca 100",
-    "iso": "100",
+    "iso": 100,
     "format": "110",
     "color": "black & white",
     "type": "",
@@ -2467,7 +2467,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Peacock 200",
-    "iso": "200",
+    "iso": 200,
     "format": "110",
     "color": "color",
     "type": "slide",
@@ -2484,7 +2484,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Potsdam 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -2501,7 +2501,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Potsdam 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2518,7 +2518,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Redscale 50-200",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "color",
     "type": "negative",
@@ -2535,7 +2535,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Redscale 50-200",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2552,7 +2552,7 @@ var currentfilms = [
   {
     "company": "Lomography",
     "name": "Lomography Tiger 200",
-    "iso": "200",
+    "iso": 200,
     "format": "110",
     "color": "color",
     "type": "negative",
@@ -2569,7 +2569,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Rasp",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2586,7 +2586,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Volvox",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2603,7 +2603,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Texture",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2620,7 +2620,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Plexus",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2637,7 +2637,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Lazer",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2654,7 +2654,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Streak",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2671,7 +2671,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Tesla 1",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2688,7 +2688,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Tesla 2",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2705,7 +2705,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Kosmos",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2722,7 +2722,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Nebula",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2739,7 +2739,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Kolor",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2756,7 +2756,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog 460nm",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2773,7 +2773,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog 600nm",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -2790,7 +2790,7 @@ var currentfilms = [
   {
     "company": "Revolog",
     "name": "Revolog Snovlox",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2807,7 +2807,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Crossbird",
-    "iso": "200",
+    "iso": 200,
     "format": "120",
     "color": "color",
     "type": "slide",
@@ -2824,7 +2824,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Crossbird",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "color",
     "type": "slide",
@@ -2841,7 +2841,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Infrared 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -2858,7 +2858,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Infrared 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2875,7 +2875,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Ortho 25",
-    "iso": "25",
+    "iso": 25,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -2892,7 +2892,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Ortho 25",
-    "iso": "25",
+    "iso": 25,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2909,7 +2909,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Retro 80S",
-    "iso": "80",
+    "iso": 80,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -2926,7 +2926,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Retro 80S",
-    "iso": "80",
+    "iso": 80,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2943,7 +2943,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Retro 400S",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -2960,7 +2960,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Retro 400S",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -2977,7 +2977,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei RPX 25",
-    "iso": "25",
+    "iso": 25,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -2994,7 +2994,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei RPX 25",
-    "iso": "25",
+    "iso": 25,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -3011,7 +3011,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei RPX 100",
-    "iso": "100",
+    "iso": 100,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -3028,7 +3028,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei RPX 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -3045,7 +3045,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei RPX 400",
-    "iso": "400",
+    "iso": 400,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -3062,7 +3062,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei RPX 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -3079,7 +3079,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Superpan 200",
-    "iso": "200",
+    "iso": 200,
     "format": "120",
     "color": "black & white",
     "type": "",
@@ -3096,7 +3096,7 @@ var currentfilms = [
   {
     "company": "Rollei",
     "name": "Rollei Superpan 200",
-    "iso": "200",
+    "iso": 200,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -3113,7 +3113,7 @@ var currentfilms = [
   {
     "company": "Street Candy",
     "name": "Street Candy MTN 100",
-    "iso": "100",
+    "iso": 100,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -3130,7 +3130,7 @@ var currentfilms = [
   {
     "company": "Street Candy",
     "name": "Street Candy ATM 400",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "black & white",
     "type": "",
@@ -3147,7 +3147,7 @@ var currentfilms = [
   {
     "company": "YODICA",
     "name": "YODICA Andromeda",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -3164,7 +3164,7 @@ var currentfilms = [
   {
     "company": "YODICA",
     "name": "YODICA Antares",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -3181,7 +3181,7 @@ var currentfilms = [
   {
     "company": "YODICA",
     "name": "YODICA Atlas",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -3198,7 +3198,7 @@ var currentfilms = [
   {
     "company": "YODICA",
     "name": "YODICA Callisto",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -3215,7 +3215,7 @@ var currentfilms = [
   {
     "company": "YODICA",
     "name": "YODICA Pegasus",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -3232,7 +3232,7 @@ var currentfilms = [
   {
     "company": "YODICA",
     "name": "YODICA Polaris",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -3249,7 +3249,7 @@ var currentfilms = [
   {
     "company": "YODICA",
     "name": "YODICA Sirio",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
@@ -3266,7 +3266,7 @@ var currentfilms = [
   {
     "company": "YODICA",
     "name": "YODICA Vega",
-    "iso": "400",
+    "iso": 400,
     "format": "135",
     "color": "color",
     "type": "negative",
