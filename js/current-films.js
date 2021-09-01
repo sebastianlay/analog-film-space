@@ -255,6 +255,23 @@ var currentfilms = [
     "image": "catlabs-x-film-320-135.png"
   },
   {
+    "company": "Camera Film Photo",
+    "name": "CFP Double-X 200",
+    "iso": 200,
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "",
+    "price": 2,
+    "popularity": 8,
+    "description": "panchromatic film, respooled motion picture cinema film Kodak Double-X 5222",
+    "launched": 2016,
+    "datasheet": "datasheets/camera-film-photo-cfp-double-x-200.pdf",
+    "lomography": "https://www.lomography.com/films/871964406-cfp-double-x-bw/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22CFP%20Double-X%22",
+    "image": "cfp-double-x-200-135.png"
+  },
+  {
     "company": "Cinestillfilm",
     "name": "Cinestillfilm Cinestill 50D",
     "iso": 50,
