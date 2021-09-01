@@ -257,7 +257,7 @@ li aside div, .link {
   text-align: center;
   font-size: 16px;
   color: #666;
-  padding: 15px;
+  padding: 13px 15px;
   border-right: 1px solid #ddd;
   flex-grow: 1;
 }
@@ -278,6 +278,7 @@ a:hover, h1 a {
 
 a.active {
   font-weight: 700;
+  text-decoration: none;
 }
 
 h1 a:hover {
@@ -317,7 +318,7 @@ p span a:last-child {
 @media (max-width: 670px) {
 
 body {
-  padding: 30px 10px 0 10px;
+  padding: 30px 10px;
 }
 
 header {
