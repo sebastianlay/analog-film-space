@@ -123,6 +123,10 @@ input, button, select {
   background: #fff;
 }
 
+.search {
+  width: 200px;
+}
+
 button {
   cursor: pointer;
 }
@@ -156,6 +160,12 @@ nav {
 
 nav button:last-child {
   margin-right: 0;
+}
+
+aside {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 aside > section {
@@ -301,19 +311,31 @@ p span a:last-child {
   margin-right: 0;
 }
 
+header a {
+  display: inline-block;
+}
+
 [v-cloak] {
   display: none;
 }
 
 /* media queries */
 
+@media (max-width: 1200px) {
+
+main > aside {
+  flex-direction: column;
+}
+
+}
+
 @media (max-width: 1000px) {
 
-  body {
-    padding: 30px;
-  }
-  
-  }
+body {
+  padding: 30px;
+}
+
+}
 
 @media (max-width: 670px) {
 
@@ -346,6 +368,10 @@ aside > section {
 
 input, button, select {
   margin: 0 0 5px 0;
+}
+
+.search {
+  width: auto;
 }
 
 }
