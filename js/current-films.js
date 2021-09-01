@@ -3123,7 +3123,7 @@ var currentfilms = [
     "description": "superpanchromatic film, probably Agfa Aviphot Pan 200",
     "launched": 2007,
     "datasheet": "datasheets/rollei-superpan-200.pdf",
-    "lomography" : "https://www.lomography.com/films/871957145-rollei-superpan-200/photos",
+    "lomography": "https://www.lomography.com/films/871957145-rollei-superpan-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Superpan%20200%22",
     "image": "rollei-superpan-200-135.png"
   },
@@ -3140,7 +3140,7 @@ var currentfilms = [
     "description": "general purpose panchromatic film, could be Orwo UN54",
     "launched": 2019,
     "datasheet": "",
-    "lomography" : "https://www.lomography.com/films/871927716-shanghai-gp3-pan-100/photos",
+    "lomography": "https://www.lomography.com/films/871927716-shanghai-gp3-pan-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Shanghai%20GP3%20Pan%20100%22",
     "image": "shanghai-gp3-pan-100-120.png"
   },
@@ -3157,7 +3157,7 @@ var currentfilms = [
     "description": "general purpose panchromatic film, could be Orwo UN54",
     "launched": 2019,
     "datasheet": "",
-    "lomography" : "https://www.lomography.com/films/871927716-shanghai-gp3-pan-100/photos",
+    "lomography": "https://www.lomography.com/films/871927716-shanghai-gp3-pan-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Shanghai%20GP3%20Pan%20100%22",
     "image": "shanghai-gp3-pan-100-135.png"
   },
@@ -3174,7 +3174,7 @@ var currentfilms = [
     "description": "general purpose panchromatic film, could be Orwo N74",
     "launched": 2019,
     "datasheet": "",
-    "lomography" : "",
+    "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Shanghai%20GP3%20Pan%20400%22",
     "image": "shanghai-gp3-pan-400-120.png"
   },
@@ -3191,7 +3191,7 @@ var currentfilms = [
     "description": "general purpose panchromatic film, could be Orwo N74",
     "launched": 2019,
     "datasheet": "",
-    "lomography" : "",
+    "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Shanghai%20GP3%20Pan%20400%22",
     "image": "shanghai-gp3-pan-400-135.png"
   },
@@ -3208,7 +3208,7 @@ var currentfilms = [
     "description": "respooled motion picture cinema film Kodak Vision3 50D",
     "launched": 2018,
     "datasheet": "datasheets/silbersalz35-050d.pdf",
-    "lomography" : "https://www.lomography.com/films/871969233-silbersalz-50d/photos",
+    "lomography": "https://www.lomography.com/films/871969233-silbersalz-50d/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silbersalz35%20050D%22",
     "image": "silbersalz35-050d-135.png"
   },
@@ -3225,7 +3225,7 @@ var currentfilms = [
     "description": "respooled motion picture cinema film Kodak Vision3 200T",
     "launched": 2018,
     "datasheet": "datasheets/silbersalz35-200t.pdf",
-    "lomography" : "https://www.lomography.com/films/871968492-silbersalz-200t/photos",
+    "lomography": "https://www.lomography.com/films/871968492-silbersalz-200t/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silbersalz35%20200T%22",
     "image": "silbersalz35-200t-135.png"
   },
@@ -3242,7 +3242,7 @@ var currentfilms = [
     "description": "respooled motion picture cinema film Kodak Vision3 250D",
     "launched": 2018,
     "datasheet": "datasheets/silbersalz35-250d.pdf",
-    "lomography" : "https://www.lomography.com/films/871968254-silbersalz-250d/photos",
+    "lomography": "https://www.lomography.com/films/871968254-silbersalz-250d/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silbersalz35%20250D%22",
     "image": "silbersalz35-250d-135.png"
   },
@@ -3259,7 +3259,7 @@ var currentfilms = [
     "description": "respooled motion picture cinema film Kodak Vision3 500T",
     "launched": 2018,
     "datasheet": "datasheets/silbersalz35-500t.pdf",
-    "lomography" : "https://www.lomography.com/films/871969230-silbersalz-500t/photos",
+    "lomography": "https://www.lomography.com/films/871969230-silbersalz-500t/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silbersalz35%20500T%22",
     "image": "silbersalz35-500t-135.png"
   },

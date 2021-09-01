@@ -13,8 +13,7 @@ const app = new Vue({
       if(this.search) {
         var search = this.search.toLowerCase();
         return this.currentfilms.filter(function (film) {
-          return film.name.toLowerCase().indexOf(search) !== -1 ||
-          film.description.toLowerCase().indexOf(search) !== -1;
+          return film.name.toLowerCase().indexOf(search) !== -1 || film.description.toLowerCase().indexOf(search) !== -1;
         });
       } else {
         return this.currentfilms;
@@ -35,8 +34,7 @@ const app = new Vue({
         });
       } else {
         return this.searchedfilms.filter(function (film) {
-          return type === film.color + film.type &&
-          format === film.format;
+          return type === film.color + film.type && format === film.format;
         });
       }
     },
