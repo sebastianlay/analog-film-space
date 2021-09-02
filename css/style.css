@@ -101,7 +101,7 @@ em {
 }
 
 input, button, select {
-  margin: 0 10px 0 0;
+  margin: 0 5px;
   padding: 5px 10px;
   border: 1px solid #bbb;
   border-radius: 5px;
@@ -123,10 +123,12 @@ button:active, button.active {
 .asc:after, .desc:after {
   content: ' ';
   display: inline-block;
-  width: 24px;
-  height: 24px;
+  width: 22px;
+  height: 22px;
   vertical-align: middle;
-  margin: 0 -4px 0 5px;
+  position: relative;
+  top: -2px;
+  margin: 0 0 0 4px;
 }
 
 .asc:after {
@@ -146,12 +148,12 @@ aside {
 aside > section {
   display: flex;
   align-items: stretch;
-  margin-bottom: 10px;
+  padding: 5px;
 }
 
 label {
-  margin-right: 10px;
   line-height: 36px;
+  margin: 0 5px 0 10px;
 }
 
 h1 {
@@ -169,7 +171,7 @@ h2 {
 }
 
 header {
-  margin: 0 auto 50px auto;
+  margin: 0 0 40px 10px;
 }
 
 main {
@@ -314,15 +316,12 @@ body {
 
 header {
   width: 330px;
-  margin: 20px auto 50px auto;
+  margin: 20px auto;
+  padding: 5px;
 }
 
 h1 {
   font-size: 36px;
-}
-
-li {
-  margin: 120px 0 10px 0;
 }
 
 li.left {
@@ -332,7 +331,7 @@ li.left {
 aside > section {
   flex-direction: column;
   width: 330px;
-  margin: 20px auto;
+  margin: 10px auto;
 }
 
 input, button, select {
