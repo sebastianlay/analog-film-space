@@ -1,10 +1,11 @@
-const app = new Vue({
-  el: "#random",
-  data: {
+Vue.createApp({
+  data() {
+    return {
     currentfilms: currentfilms,
     tick: 0,
     selected: 0,
     show: false
+    }
   },
   computed: {
     films: function() {
@@ -13,7 +14,7 @@ const app = new Vue({
   },
   methods: {
     formatPrice: function(price) {
-      return "€".repeat(price);
+      return '€'.repeat(price);
     },
     shuffle: function() {
       if(this.tick++ < 25) {
@@ -25,4 +26,4 @@ const app = new Vue({
       this.show = true;
     }
   }
-});
+}).mount('#random');

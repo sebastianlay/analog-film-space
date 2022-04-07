@@ -1,12 +1,13 @@
-const app = new Vue({
-  el: "#app",
-  data: {
+Vue.createApp({
+  data() {
+    return {
     currentfilms: currentfilms,
     search: '',
     type: 'all',
     format: 'all',
     sortBy: 'popularity',
     sortDir: 'desc'
+    }
   },
   computed: {
     searchedfilms: function() {
@@ -79,4 +80,4 @@ const app = new Vue({
       }
     }
   }
-});
+}).mount('#app');

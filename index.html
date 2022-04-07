@@ -63,7 +63,7 @@
       </aside>
       <ul v-cloak>
         <li v-for="film in films">
-          <img :src="'images/small/' + film.image" :srcset="'images/small/' + film.image + ' 1x, images/' + film.image + ' 2x'" :alt="film.name" loading="lazy">
+          <img :src="'images/small/' + film.image" :srcset="'images/small/' + film.image + ' 1x, images/' + film.image + ' 2x'" :alt="film.name">
           <h2>{{film.name}}</h2>
           <p>
             <span v-if="film.description">{{film.description}}</span>
@@ -85,7 +85,7 @@
     </main>
   </div>
   <script src="js/current-films.js"></script>
-  <script src="js/vue.min.js"></script>
+  <script src="js/vue.global.prod.js"></script>
   <script src="js/script-index.js"></script>
 </body>
 </html>

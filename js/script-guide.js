@@ -1,9 +1,10 @@
-const app = new Vue({
-  el: "#guide",
-  data: {
+Vue.createApp({
+  data() {
+    return {
     currentfilms: currentfilms,
     guide: guide,
     step: 1
+    }
   },
   computed: {
     films: function() {
@@ -57,4 +58,4 @@ const app = new Vue({
       this.step = step;
     }
   }
-});
+}).mount('#guide');
