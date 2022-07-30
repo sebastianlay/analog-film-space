@@ -2942,7 +2942,7 @@ var currentfilms = [
   },
   {
     "company": "Rollei",
-    "name": "Rollei Ortho 25",
+    "name": "Rollei Ortho 25 Plus",
     "iso": 25,
     "format": "120",
     "color": "black & white",
@@ -2959,7 +2959,7 @@ var currentfilms = [
   },
   {
     "company": "Rollei",
-    "name": "Rollei Ortho 25",
+    "name": "Rollei Ortho 25 Plus",
     "iso": 25,
     "format": "135",
     "color": "black & white",
