@@ -12,9 +12,12 @@ Vue.createApp({
   computed: {
     searchedfilms: function() {
       if(this.search) {
-        var search = this.search.toLowerCase();
+        var searchTerms = this.search.toLowerCase().split(' ');
         return this.currentfilms.filter(function (film) {
-          return film.name.toLowerCase().indexOf(search) !== -1 || film.description.toLowerCase().indexOf(search) !== -1;
+          const name = film.name.toLowerCase();
+          const description = film.description.toLowerCase();
+          const matches = (searchTerm) => name.includes(searchTerm) || description.includes(searchTerm);
+          return searchTerms.every(matches);
         });
       } else {
         return this.currentfilms;
