@@ -188,6 +188,7 @@ ul {
 li {
   border: 1px solid #bbb;
   border-radius: 5px;
+  box-shadow: 1px 1px 2px #bbb;
   margin: 120px 10px 10px 10px;
   padding: 19px;
   width: 330px;
@@ -212,6 +213,7 @@ li img {
   height: 200px;
   margin: -120px 0 -20px 0;
   display: inline-block;
+  filter: drop-shadow(1px 1px 2px #bbb);
 }
 
 li p {
