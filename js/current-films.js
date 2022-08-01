@@ -443,6 +443,23 @@ var currentfilms = [
   },
   {
     "company": "dubblefilm",
+    "name": "dubblefilm Cinema",
+    "iso": 800,
+    "format": "135",
+    "color": "color",
+    "type": "negative",
+    "emulsion": "",
+    "price": 3,
+    "popularity": 0,
+    "description": "motion picture cinema film with removed rem-jet backing, like Cinestill 800T",
+    "launched": 2022,
+    "datasheet": "",
+    "lomography": "",
+    "flickr": "",
+    "image": "dubblefilm-cinema-135.png"
+  },
+  {
+    "company": "dubblefilm",
     "name": "dubblefilm Jelly",
     "iso": 200,
     "format": "135",
