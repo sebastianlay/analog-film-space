@@ -535,12 +535,12 @@ var currentfilms = [
     "type": "negative",
     "emulsion": "",
     "price": 2,
-    "popularity": 0,
+    "popularity": 36,
     "description": "an allrounder film with neutral, clean tones, can be shot at ISO 100 to 400",
     "launched": 2021,
     "datasheet": "",
     "lomography": "",
-    "flickr": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20DAILY%20color%22",
     "image": "dubblefilm-daily-color-135.png"
   },
   {
@@ -552,12 +552,12 @@ var currentfilms = [
     "type": "",
     "emulsion": "",
     "price": 1,
-    "popularity": 0,
+    "popularity": 11,
     "description": "an allrounder film with soft tones, can be shot at ISO 100 to 400",
     "launched": 2021,
     "datasheet": "",
     "lomography": "",
-    "flickr": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20DAILY%20black&white%22",
     "image": "dubblefilm-daily-black-and-white-135.png"
   },
   {
@@ -654,12 +654,12 @@ var currentfilms = [
     "type": "",
     "emulsion": "",
     "price": 2,
-    "popularity": 0,
+    "popularity": 4,
     "description": "orthochromatic industrial X-ray film without anti-halation layer",
     "launched": 2021,
     "datasheet": "datasheets/film-washi-i-80.pdf",
     "lomography": "",
-    "flickr": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Film%20Washi%20I%22",
     "image": "film-washi-i-80-120.png"
   },
   {
