@@ -592,10 +592,6 @@ var guide = [
     "text": "Those just don’t fit in any of the others categories.",
     "films": [
       {
-        "name": "Adox Scala 160",
-        "format": "135"
-      },
-      {
         "name": "Bergger Pancro 400",
         "format": "135"
       },
@@ -821,10 +817,6 @@ var guide = [
     "films": [
       {
         "name": "Adox CHS 100 II",
-        "format": "135"
-      },
-      {
-        "name": "Adox Silvermax 100",
         "format": "135"
       },
       {

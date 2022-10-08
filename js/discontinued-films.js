@@ -1,22 +1,5 @@
 var discontinuedfilms = [
   {
-    "company": "Fujifilm",
-    "name": "Fujifilm Superia Venus 800",
-    "iso": "800",
-    "format": "135",
-    "color": "color",
-    "type": "negative",
-    "emulsion": "",
-    "price": 3,
-    "popularity": 2055,
-    "description": "high ISO film that is primarily targeted at the japanese market",
-    "launched": 0,
-    "datasheet": "datasheets/fujifilm-superia-venus-800.pdf",
-    "lomography": "https://www.lomography.com/films/871939313-fujifilm-superia-venus-800/photos",
-    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Superia%20Venus%20800%22",
-    "image": "images/fujifilm-superia-venus-800-135.png"
-  },
-  {
     "company": "Adox",
     "name": "Adox Color Implosion",
     "iso": "100",
@@ -32,6 +15,40 @@ var discontinuedfilms = [
     "lomography": "https://www.lomography.com/films/871951418-adox-color-implosion/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20Color%20Implosion%22",
     "image": "adox-color-implosion-135.png"
+  },
+  {
+    "company": "Adox",
+    "name": "Adox Scala 160",
+    "iso": 160,
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "",
+    "price": 2,
+    "popularity": 425,
+    "description": "panchromatic film with a clear base intended for reversal processing",
+    "launched": 2016,
+    "datasheet": "",
+    "lomography": "https://www.lomography.com/films/871965587-adox-scala-160/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20Scala%20160%22",
+    "image": "adox-scala-160-135.png"
+  },
+  {
+    "company": "Adox",
+    "name": "Adox Silvermax 100",
+    "iso": 100,
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "classic",
+    "price": 1,
+    "popularity": 5273,
+    "description": "orthopanchromatic film with a classic emulsion, a clear base and an extreme exposure latitude",
+    "launched": 2012,
+    "datasheet": "datasheets/adox-silvermax-100.pdf",
+    "lomography": "https://www.lomography.com/films/871953394-adox-silvermax-100/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20Silvermax%20100%22",
+    "image": "adox-silvermax-100-135.png"
   },
   {
     "company": "Film Washi",
@@ -50,4 +67,21 @@ var discontinuedfilms = [
     "flickr": "",
     "image": "film-washi-x-400-135.png"
   },
+  {
+    "company": "Fujifilm",
+    "name": "Fujifilm Superia Venus 800",
+    "iso": "800",
+    "format": "135",
+    "color": "color",
+    "type": "negative",
+    "emulsion": "",
+    "price": 3,
+    "popularity": 2055,
+    "description": "high ISO film that is primarily targeted at the japanese market",
+    "launched": 0,
+    "datasheet": "datasheets/fujifilm-superia-venus-800.pdf",
+    "lomography": "https://www.lomography.com/films/871939313-fujifilm-superia-venus-800/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Superia%20Venus%20800%22",
+    "image": "images/fujifilm-superia-venus-800-135.png"
+  }
 ]
