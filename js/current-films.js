@@ -2630,7 +2630,7 @@ var currentfilms = [
     "description": "color slide film meant for cross-processing",
     "launched": 2013,
     "datasheet": "",
-    "lomography": "https://www.lomography.com/films/871955282-lomography-peacock-x-pro-200/photos",
+    "lomography": "https://www.lomography.com/films/871953523-lomography-x-pro-peacock-110/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Peacock%22",
     "image": "lomography-peacock-200-110.png"
   },
@@ -2681,7 +2681,7 @@ var currentfilms = [
     "description": "creative redscale film with an extended exposure range",
     "launched": 2008,
     "datasheet": "",
-    "lomography": "https://www.lomography.com/films/871961386-lomography-redscale-xr-50-200/photos",
+    "lomography": "https://www.lomography.com/films/871927258-lomography-redscale-xr-50-200-120/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Redscale%22",
     "image": "lomography-redscale-50-200-120.png"
   },
@@ -2698,7 +2698,7 @@ var currentfilms = [
     "description": "creative redscale film with an extended exposure range",
     "launched": 2008,
     "datasheet": "",
-    "lomography": "https://www.lomography.com/films/871961386-lomography-redscale-xr-50-200/photos",
+    "lomography": "https://www.lomography.com/films/871928461-lomography-redscale-xr-50-200-35mm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Redscale%22",
     "image": "lomography-redscale-50-200-135.png"
   },
