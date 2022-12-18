@@ -28,9 +28,10 @@
   <link href="fonts/ek-mukta-400-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin>
   <link href="fonts/ek-mukta-700-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin>
 </head>
-<body>
+<body class="dark">
   <div id="random">
     <header>
+      <div class="switch" v-on:click="toggle"></div>
       <h1><a href="/">analog film<span>.space</span></a></h1>
       <p>a database of currently available 35mm, 110 and medium format film stocks</p>
       <nav><a href="/">overview</a> / <a href="/faq">frequently asked questions</a> / <a href="/guide">film guide</a> / <a href="/random" class="active">random film</a></nav>
@@ -70,8 +71,8 @@
       </ul>
     </main>
   </div>
-  <script src="js/current-films.js?d=20221111"></script>
+  <script src="js/current-films.js?d=20221218"></script>
   <script src="js/vue.global.prod.js"></script>
-  <script src="js/script-random.js?d=20221111"></script>
+  <script src="js/script-random.js?d=20221218"></script>
 </body>
 </html>
