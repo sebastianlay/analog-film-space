@@ -1462,7 +1462,41 @@ var currentfilms = [
     "image": "jch-street-pan-400-135.png"
   },
   {
-    "company": "Kentmere",
+    "company": "Ilford",
+    "name": "Ilford Pan 100",
+    "iso": 100,
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "classic",
+    "price": 1,
+    "popularity": 21557,
+    "description": "panchromatic film with a classic emulsion, meant as a cheaper alternative to professional Ilford films",
+    "launched": 2002,
+    "datasheet": "datasheets/ilford-pan-100-400.pdf",
+    "lomography": "https://www.lomography.com/films/871917899-ilford-pan-100/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Pan%20100%22",
+    "image": "ilford-pan-100-135.png"
+  },
+  {
+    "company": "Ilford",
+    "name": "Ilford Pan 400",
+    "iso": 400,
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "classic",
+    "price": 1,
+    "popularity": 30212,
+    "description": "panchromatic film with a classic emulsion, meant as a cheaper alternative to professional Ilford films",
+    "launched": 2002,
+    "datasheet": "datasheets/ilford-pan-100-400.pdf",
+    "lomography": "https://www.lomography.com/films/871911657-ilford-pan-400/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Pan%20400%22",
+    "image": "ilford-pan-400-135.png"
+  },
+  {
+    "company": "Ilford",
     "name": "Kentmere 100",
     "iso": 100,
     "format": "120",
@@ -1479,7 +1513,7 @@ var currentfilms = [
     "image": "kentmere-100-120.png"
   },
   {
-    "company": "Kentmere",
+    "company": "Ilford",
     "name": "Kentmere 100",
     "iso": 100,
     "format": "135",
@@ -1496,7 +1530,7 @@ var currentfilms = [
     "image": "kentmere-100-135.png"
   },
   {
-    "company": "Kentmere",
+    "company": "Ilford",
     "name": "Kentmere 400",
     "iso": 400,
     "format": "120",
@@ -1513,7 +1547,7 @@ var currentfilms = [
     "image": "kentmere-400-120.png"
   },
   {
-    "company": "Kentmere",
+    "company": "Ilford",
     "name": "Kentmere 400",
     "iso": 400,
     "format": "135",
@@ -2177,6 +2211,23 @@ var currentfilms = [
   },
   {
     "company": "Kosmo",
+    "name": "Kosmo Foto Agent Shadow 400",
+    "iso": 400,
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "",
+    "price": 2,
+    "popularity": 0,
+    "description": "panchromatic film with a nice retro packaging, probably Ilford Pan 400 or Kentmere 400",
+    "launched": 2021,
+    "datasheet": "",
+    "lomography": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kosmo%20Foto%20Agent%20Shadow%22",
+    "image": "kosmo-foto-agent-shadow-400-135.png"
+  },
+  {
+    "company": "Kosmo",
     "name": "Kosmo Foto Mono 100",
     "iso": 100,
     "format": "120",
@@ -2185,7 +2236,7 @@ var currentfilms = [
     "emulsion": "",
     "price": 1,
     "popularity": 2720,
-    "description": "probably Fomo Fomapan 100 with a nice retro packaging",
+    "description": "rebranded Fomo Fomapan 100 with a nice retro packaging",
     "launched": 2019,
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871966555-kosmo-foto-mono-100/photos",
@@ -2202,7 +2253,7 @@ var currentfilms = [
     "emulsion": "",
     "price": 1,
     "popularity": 2720,
-    "description": "probably Fomo Fomapan 100 with a nice retro packaging",
+    "description": "rebranded Fomo Fomapan 100 with a nice retro packaging",
     "launched": 2017,
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871966555-kosmo-foto-mono-100/photos",
