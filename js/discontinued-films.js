@@ -188,23 +188,6 @@ var discontinuedfilms = [
   },
   {
     "company": "Street Candy",
-    "name": "Street Candy MTN 100",
-    "iso": 100,
-    "format": "135",
-    "color": "black & white",
-    "type": "",
-    "emulsion": "",
-    "price": 2,
-    "popularity": 1,
-    "description": "motion picture film, probably a rebranded version of Orwo UN54",
-    "launched": 2021,
-    "datasheet": "datasheets/street-candy-mtn-100.pdf",
-    "lomography": "",
-    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Street%20Candy%20MTN%20100%22",
-    "image": "street-candy-mtn-100-135.png"
-  },
-  {
-    "company": "Street Candy",
     "name": "Street Candy ATM 400",
     "iso": 400,
     "format": "135",
