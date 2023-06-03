@@ -2289,7 +2289,7 @@ var currentfilms = [
     "popularity": 558,
     "description": "cinematic panchromatic film with wide exposure latitude, probably a rebranded version of Orwo N74+",
     "launched": 2019,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-berlin-400.pdf",
     "lomography": "https://www.lomography.com/films/871967606-lomography-berlin-kino-400-iso/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Berlin%20400%22",
     "image": "lomography-berlin-400-120.png"
@@ -2306,7 +2306,7 @@ var currentfilms = [
     "popularity": 558,
     "description": "cinematic panchromatic film with wide exposure latitude, probably a rebranded version of Orwo N74+",
     "launched": 2019,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-berlin-400.pdf",
     "lomography": "https://www.lomography.com/films/871967606-lomography-berlin-kino-400-iso/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Berlin%20400%22",
     "image": "lomography-berlin-400-135.png"
@@ -2323,7 +2323,7 @@ var currentfilms = [
     "popularity": 4861,
     "description": "general purpose color film, probably Kodak Gold 100",
     "launched": 2009,
-    "datasheet": "datasheets/kodak-gold-100.pdf",
+    "datasheet": "datasheets/lomography-color-negative-100.pdf",
     "lomography": "https://www.lomography.com/films/871910961-lomography-color-negative-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20100%22",
     "image": "lomography-color-negative-100-120.png"
@@ -2340,7 +2340,7 @@ var currentfilms = [
     "popularity": 4861,
     "description": "general purpose color film, probably Kodak Gold 100",
     "launched": 2009,
-    "datasheet": "datasheets/kodak-gold-100.pdf",
+    "datasheet": "datasheets/lomography-color-negative-100.pdf",
     "lomography": "https://www.lomography.com/films/871910961-lomography-color-negative-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20100%22",
     "image": "lomography-color-negative-100-135.png"
@@ -2357,7 +2357,7 @@ var currentfilms = [
     "popularity": 9092,
     "description": "general purpose color film, probably Kodak UltraMax 400",
     "launched": 2009,
-    "datasheet": "datasheets/kodak-ultramax-400.pdf",
+    "datasheet": "datasheets/lomography-color-negative-400.pdf",
     "lomography": "https://www.lomography.com/films/871962160-lomography-color-negative-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20400%22",
     "image": "lomography-color-negative-400-120.png"
@@ -2374,7 +2374,7 @@ var currentfilms = [
     "popularity": 9092,
     "description": "general purpose color film, probably Kodak UltraMax 400",
     "launched": 2009,
-    "datasheet": "datasheets/kodak-ultramax-400.pdf",
+    "datasheet": "datasheets/lomography-color-negative-400.pdf",
     "lomography": "https://www.lomography.com/films/871962160-lomography-color-negative-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20400%22",
     "image": "lomography-color-negative-400-135.png"
@@ -2391,7 +2391,7 @@ var currentfilms = [
     "popularity": 4622,
     "description": "general purpose color film, probably Kodak UltraMax 800",
     "launched": 2009,
-    "datasheet": "datasheets/kodak-ultramax-800.pdf",
+    "datasheet": "datasheets/lomography-color-negative-800.pdf",
     "lomography": "https://www.lomography.com/films/871921449-lomography-color-negative-800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20800%22",
     "image": "lomography-color-negative-800-120.png"
@@ -2408,7 +2408,7 @@ var currentfilms = [
     "popularity": 4622,
     "description": "general purpose color film, probably Kodak UltraMax 800",
     "launched": 2009,
-    "datasheet": "datasheets/kodak-ultramax-800.pdf",
+    "datasheet": "datasheets/lomography-color-negative-800.pdf",
     "lomography": "https://www.lomography.com/films/871921449-lomography-color-negative-800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20800%22",
     "image": "lomography-color-negative-800-135.png"
@@ -2510,7 +2510,7 @@ var currentfilms = [
     "popularity": 263,
     "description": "creative redscale film with an extended exposure range",
     "launched": 2012,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-lobster-200.pdf",
     "lomography": "https://www.lomography.com/films/871962641-lomography-110-lobster/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lobster%22",
     "image": "lomography-lobster-200-110.png"
@@ -2527,7 +2527,7 @@ var currentfilms = [
     "popularity": 2224,
     "description": "film with very desaturated colors",
     "launched": 2019,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-lomochrome-metropolis-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871968570-lomochrome-metropolis-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lomochrome%20Metropolis%22",
     "image": "lomography-lomochrome-metropolis-100-400-120.png"
@@ -2544,7 +2544,7 @@ var currentfilms = [
     "popularity": 2224,
     "description": "film with very desaturated colors",
     "launched": 2019,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-lomochrome-metropolis-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871968570-lomochrome-metropolis-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lomochrome%20Metropolis%22",
     "image": "lomography-lomochrome-metropolis-100-400-135.png"
@@ -2561,7 +2561,7 @@ var currentfilms = [
     "popularity": 2224,
     "description": "film with very desaturated colors",
     "launched": 2019,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-lomochrome-metropolis-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871968570-lomochrome-metropolis-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lomochrome%20Metropolis%22",
     "image": "lomography-lomochrome-metropolis-100-400-110.png"
@@ -2578,7 +2578,7 @@ var currentfilms = [
     "popularity": 1698,
     "description": "creative film with a strong purple tint",
     "launched": 2013,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-lomochrome-purple-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871963650-lomography-lomochrome-purple-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lomochrome%20Purple%22",
     "image": "lomography-lomochrome-purple-100-400-120.png"
@@ -2595,7 +2595,7 @@ var currentfilms = [
     "popularity": 1698,
     "description": "creative film with a strong purple tint",
     "launched": 2013,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-lomochrome-purple-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871963650-lomography-lomochrome-purple-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lomochrome%20Purple%22",
     "image": "lomography-lomochrome-purple-100-400-135.png"
@@ -2612,7 +2612,7 @@ var currentfilms = [
     "popularity": 1698,
     "description": "creative film with a strong purple tint",
     "launched": 2020,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-lomochrome-purple-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871963650-lomography-lomochrome-purple-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lomochrome%20Purple%22",
     "image": "lomography-lomochrome-purple-100-400-110.png"
@@ -2646,7 +2646,7 @@ var currentfilms = [
     "popularity": 376,
     "description": "color slide film meant for cross-processing",
     "launched": 2013,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-peacock-200.pdf",
     "lomography": "https://www.lomography.com/films/871953523-lomography-x-pro-peacock-110/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Peacock%22",
     "image": "lomography-peacock-200-110.png"
@@ -2663,7 +2663,7 @@ var currentfilms = [
     "popularity": 463,
     "description": "cinematic panchromatic film with fine grain, probably a rebranded version of Orwo N54",
     "launched": 2019,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-potsdam-100.pdf",
     "lomography": "https://www.lomography.com/films/871968638-lomography-potsdam-kino-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Potsdam%20100%22",
     "image": "lomography-potsdam-100-120.png"
@@ -2680,14 +2680,14 @@ var currentfilms = [
     "popularity": 463,
     "description": "cinematic panchromatic film with fine grain, probably a rebranded version of Orwo N54",
     "launched": 2019,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-potsdam-100.pdf",
     "lomography": "https://www.lomography.com/films/871968638-lomography-potsdam-kino-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Potsdam%20100%22",
     "image": "lomography-potsdam-100-135.png"
   },
   {
     "company": "Lomography",
-    "name": "Lomography Redscale 50-200",
+    "name": "Lomography Redscale XR 50-200",
     "iso": 100,
     "format": "120",
     "color": "color",
@@ -2697,14 +2697,14 @@ var currentfilms = [
     "popularity": 16469,
     "description": "creative redscale film with an extended exposure range",
     "launched": 2008,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-redscale-50-200.pdf",
     "lomography": "https://www.lomography.com/films/871927258-lomography-redscale-xr-50-200-120/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Redscale%22",
     "image": "lomography-redscale-50-200-120.png"
   },
   {
     "company": "Lomography",
-    "name": "Lomography Redscale 50-200",
+    "name": "Lomography Redscale XR 50-200",
     "iso": 100,
     "format": "135",
     "color": "color",
@@ -2714,7 +2714,7 @@ var currentfilms = [
     "popularity": 16469,
     "description": "creative redscale film with an extended exposure range",
     "launched": 2008,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-redscale-50-200.pdf",
     "lomography": "https://www.lomography.com/films/871928461-lomography-redscale-xr-50-200-35mm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Redscale%22",
     "image": "lomography-redscale-50-200-135.png"
@@ -2731,7 +2731,7 @@ var currentfilms = [
     "popularity": 418,
     "description": "general purpose color film",
     "launched": 2012,
-    "datasheet": "",
+    "datasheet": "datasheets/lomography-tiger-200.pdf",
     "lomography": "https://www.lomography.com/films/871949468-lomography-color-tiger-200-110/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Tiger%20200%22",
     "image": "lomography-tiger-200-110.png"
