@@ -428,10 +428,6 @@ var guide = [
     "text": "Well deserved all-time favorites.",
     "films": [
       {
-        "name": "Fujifilm Pro 160NS",
-        "format": "120"
-      },
-      {
         "name": "Fujifilm Pro 400H",
         "format": "120"
       },
