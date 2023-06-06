@@ -188,10 +188,6 @@ var guide = [
         "format": "135"
       },
       {
-        "name": "Agfaphoto CT Precisa 100",
-        "format": "135"
-      },
-      {
         "name": "Kodak Ektachrome E100",
         "format": "135"
       }
@@ -636,10 +632,6 @@ var guide = [
     "text": "Well deserved all-time favorites.",
     "films": [
       {
-        "name": "Fujifilm Pro 400H",
-        "format": "135"
-      },
-      {
         "name": "Kodak Ektar 100",
         "format": "135"
       },
@@ -713,10 +705,6 @@ var guide = [
       },
       {
         "name": "Fujifilm C200",
-        "format": "135"
-      },
-      {
-        "name": "Fujifilm Superia 200",
         "format": "135"
       },
       {
