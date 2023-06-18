@@ -2924,7 +2924,7 @@ var currentfilms = [
     "image": "reflx-lab-pro-100-135.png"
   },
   {
-    "company": "Reto",
+    "company": "Reto Project",
     "name": "Reto Amber D100",
     "iso": 100,
     "format": "135",
@@ -2941,7 +2941,7 @@ var currentfilms = [
     "image": "reto-amber-d100-135.png"
   },
   {
-    "company": "Reto",
+    "company": "Reto Project",
     "name": "Reto Amber D400",
     "iso": 400,
     "format": "135",
@@ -2958,7 +2958,7 @@ var currentfilms = [
     "image": "reto-amber-d400-135.png"
   },
   {
-    "company": "Reto",
+    "company": "Reto Project",
     "name": "Reto Amber T200",
     "iso": 200,
     "format": "135",
@@ -2975,7 +2975,7 @@ var currentfilms = [
     "image": "reto-amber-t200-135.png"
   },
   {
-    "company": "Reto",
+    "company": "Reto Project",
     "name": "Reto Amber T800",
     "iso": 800,
     "format": "135",
@@ -2990,6 +2990,40 @@ var currentfilms = [
     "lomography": "https://www.lomography.com/films/871972990-amber-t800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Amber%20T800%22",
     "image": "reto-amber-t800-135.png"
+  },
+  {
+    "company": "Reto Project",
+    "name": "Retocolor Aqua 400",
+    "iso": 400,
+    "format": "135",
+    "color": "color",
+    "type": "negative",
+    "emulsion": "",
+    "price": 3,
+    "popularity": 0,
+    "description": "film with fading, low contrast colors and a bluish tint, could be Orwo NC400",
+    "launched": 2023,
+    "datasheet": "",
+    "lomography": "",
+    "flickr": "",
+    "image": "reto-aqua-400-135.png"
+  },
+  {
+    "company": "Reto Project",
+    "name": "Retocolor Glow 400",
+    "iso": 400,
+    "format": "135",
+    "color": "color",
+    "type": "negative",
+    "emulsion": "",
+    "price": 3,
+    "popularity": 0,
+    "description": "film with fading, low contrast colors and a yellowish tint, could be Orwo NC500",
+    "launched": 2023,
+    "datasheet": "",
+    "lomography": "",
+    "flickr": "",
+    "image": "reto-glow-400-135.png"
   },
   {
     "company": "Revolog",
