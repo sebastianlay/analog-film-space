@@ -233,7 +233,7 @@ var currentfilms = [
     "description": "panchromatic film, could be Orwo N74+",
     "launched": 2022,
     "datasheet": "",
-    "lomography": "",
+    "lomography": "https://www.lomography.com/films/871974092-kiki-pan-320/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kiki%20Pan%20320%22",
     "image": "cfp-kiki-pan-320-135.png"
   },

@@ -16,7 +16,8 @@ Vue.createApp({
         return this.currentfilms.filter(function (film) {
           const name = film.name.toLowerCase();
           const description = film.description.toLowerCase();
-          const matches = (searchTerm) => name.includes(searchTerm) || description.includes(searchTerm);
+          const company = film.company.toLowerCase();
+          const matches = (searchTerm) => name.includes(searchTerm) || description.includes(searchTerm) || company.includes(searchTerm);
           return searchTerms.every(matches);
         });
       } else {

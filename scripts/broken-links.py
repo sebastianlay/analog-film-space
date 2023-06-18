@@ -15,4 +15,3 @@ for film in films:
                 print(film['name'] + ' ✓')
         except:
             print(film['name'] + ' ✗ - ' + film['lomography'])
-
