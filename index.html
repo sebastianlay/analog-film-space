@@ -43,8 +43,9 @@
           <select v-model="type" aria-label="film type">
             <option value="all">all types</option> 
             <option value="black & white">black & white</option>
-            <option value="colornegative">color negative</option>
-            <option value="colorslide">color slide</option>
+            <option value="color(C-41)">color negative (C-41)</option>
+            <option value="color(E-6)">color slide (E-6)</option>
+            <option value="color(ECN-2)">color cinema (ECN-2)</option>
           </select>
           <select v-model="format" aria-label="film format">
             <option value="all">all formats</option> 
@@ -85,8 +86,8 @@
       <h2 v-if="films.length === 0">nothing here :(</h2>
     </main>
   </div>
-  <script src="js/current-films.js?d=20230621"></script>
+  <script src="js/current-films.js?d=20230622"></script>
   <script src="js/vue.global.prod.js"></script>
-  <script src="js/script-index.js?d=20230621"></script>
+  <script src="js/script-index.js?d=20230622"></script>
 </body>
 </html>
