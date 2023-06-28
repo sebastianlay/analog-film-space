@@ -82,12 +82,22 @@
             <div title="price range">{{formatPrice(film.price)}}</div>
           </aside>
         </li>
+        <li v-if="films.length === 0">
+          <img src="images/small/random.png" srcset="images/small/random.png 1x, images/random.png 2x" alt="Nothing found">
+          <h2>Nothing found :(</h2>
+          <p>
+            <span>None of the films match the seleted criteria.</span>
+            <span>Adjust the search term or filters to find any results.</span>
+          </p>
+          <aside>
+            <div><a v-on:click="reset">Clear all filters</a></div>
+          </aside>
+        </li>
       </ul>
-      <h2 v-if="films.length === 0">nothing here :(</h2>
     </main>
   </div>
-  <script src="js/current-films.js?d=20230625"></script>
+  <script src="js/current-films.js?d=20230628"></script>
   <script src="js/vue.global.prod.js"></script>
-  <script src="js/script-index.js?d=20230625"></script>
+  <script src="js/script-index.js?d=20230628"></script>
 </body>
 </html>

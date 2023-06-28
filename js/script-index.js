@@ -76,6 +76,11 @@ Vue.createApp({
     formatPrice: function(price) {
       return "€".repeat(price);
     },
+    reset: function() {
+      this.search = '';
+      this.type = 'all';
+      this.format = 'all';
+    },
     sort: function(button) {
       if(this.sortBy === button.target.innerText.toLowerCase()) {
         this.sortDir === 'asc' ? this.sortDir = 'desc' : this.sortDir = 'asc';
