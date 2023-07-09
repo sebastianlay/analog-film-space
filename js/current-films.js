@@ -1150,7 +1150,7 @@ var currentfilms = [
     "popularity": 33136,
     "description": "orthopanchromatic film with a modern emulsion and extreme resolution",
     "launched": 2019,
-    "datasheet": "datasheets/fujifilm-neopan-acros-100.pdf",
+    "datasheet": "datasheets/fujifilm-neopan-acros-100-120.pdf",
     "lomography": "https://www.lomography.com/films/871946494-fuji-neopan-acros-100-120/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Neopan%20Acros%20100%22",
     "image": "fujifilm-neopan-acros-100-120.png"
@@ -1167,7 +1167,7 @@ var currentfilms = [
     "popularity": 44680,
     "description": "cheap consumer film that can be used universally and is suitable for a variety of applications",
     "launched": 1990,
-    "datasheet": "",
+    "datasheet": "datasheets/fujifilm-c200.pdf",
     "lomography": "https://www.lomography.com/films/871962842-fuji-c200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20C200%22",
     "image": "fujifilm-c200-135.png"
@@ -1184,7 +1184,7 @@ var currentfilms = [
     "popularity": 30765,
     "description": "orthopanchromatic film with a modern emulsion and extreme resolution",
     "launched": 2019,
-    "datasheet": "datasheets/fujifilm-neopan-acros-100.pdf",
+    "datasheet": "datasheets/fujifilm-neopan-acros-100-135.pdf",
     "lomography": "https://www.lomography.com/films/871923678-fuji-neopan-acros-100-35mm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Neopan%20Acros%20100%22",
     "image": "fujifilm-neopan-acros-100-135.png"
