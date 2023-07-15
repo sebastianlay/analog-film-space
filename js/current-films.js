@@ -3190,7 +3190,7 @@ var currentfilms = [
     "popularity": 23,
     "description": "respooled Kodak Vision3 250D motion picture cinema film with removed rem-jet backing to allow C-41 processing, like Cinestill 400D",
     "launched": 2022,
-    "datasheet": "datasheets/kodak-vision3-250D.pdf",
+    "datasheet": "datasheets/kodak-vision3-250d.pdf",
     "lomography": "https://www.lomography.com/films/871973459-amber-d400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Amber%20D400%22",
     "image": "reto-amber-d400-135.png"
@@ -3207,7 +3207,7 @@ var currentfilms = [
     "popularity": 38,
     "description": "respooled Kodak Vision3 200T motion picture cinema film with removed rem-jet backing to allow C-41 processing",
     "launched": 2022,
-    "datasheet": "datasheets/kodak-vision3-200T.pdf",
+    "datasheet": "datasheets/kodak-vision3-200t.pdf",
     "lomography": "https://www.lomography.com/films/871973886-amber-t200-tungsten/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Amber%20T200%22",
     "image": "reto-amber-t200-135.png"
@@ -3224,7 +3224,7 @@ var currentfilms = [
     "popularity": 79,
     "description": "respooled Kodak Vision3 500T motion picture cinema film with removed rem-jet backing to allow C-41 processing, like Cinestill 800T",
     "launched": 2022,
-    "datasheet": "datasheets/kodak-vision3-500T.pdf",
+    "datasheet": "datasheets/kodak-vision3-500t.pdf",
     "lomography": "https://www.lomography.com/films/871972990-amber-t800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Amber%20T800%22",
     "image": "reto-amber-t800-135.png"
