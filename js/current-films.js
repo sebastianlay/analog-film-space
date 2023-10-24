@@ -97,7 +97,7 @@ var currentfilms = [
     "description": "superpanchromatic film with a clear base intended for reversal processing",
     "launched": 2019,
     "datasheet": "",
-    "lomography": "",
+    "lomography": "https://www.lomography.com/films/871970893-adox-scala-50/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20Scala%2050%22",
     "image": "adox-scala-50-135.png"
   },
@@ -2291,7 +2291,7 @@ var currentfilms = [
     "launched": 2021,
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871973411-kono-monolit-100/photos",
-    "flickr": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22KONO!%20MONOLIT%20100%22",
     "image": "kono-monolit-100-135.png"
   },
   {
@@ -3022,7 +3022,7 @@ var currentfilms = [
     "launched": 2022,
     "datasheet": "datasheets/kodak-ektachrome-100d.pdf",
     "lomography": "",
-    "flickr": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Reflx%20Lab%20100R%22",
     "image": "reflx-lab-100r-135.png"
   },
   {
@@ -3073,7 +3073,7 @@ var currentfilms = [
     "launched": 2023,
     "datasheet": "datasheets/kodak-vision3-500t.pdf",
     "lomography": "",
-    "flickr": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Reflx%20Lab%20500T%22",
     "image": "reflx-lab-500t-120.png"
   },
   {
@@ -3090,7 +3090,7 @@ var currentfilms = [
     "launched": 2022,
     "datasheet": "datasheets/kodak-vision3-500t.pdf",
     "lomography": "",
-    "flickr": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Reflx%20Lab%20500T%22",
     "image": "reflx-lab-500t-135.png"
   },
   {
@@ -3124,7 +3124,7 @@ var currentfilms = [
     "launched": 2022,
     "datasheet": "datasheets/kodak-eastman-double-x.pdf",
     "lomography": "",
-    "flickr": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Reflx%20Lab%20Double%20X%22",
     "image": "reflx-lab-double-x-135.png"
   },
   {
@@ -3260,7 +3260,7 @@ var currentfilms = [
     "launched": 2023,
     "datasheet": "",
     "lomography": "",
-    "flickr": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Retocolor%20Glow%20400%22",
     "image": "reto-glow-400-135.png"
   },
   {
