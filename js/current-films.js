@@ -1870,6 +1870,23 @@ var currentfilms = [
     "image": "kentmere-400-135.png"
   },
   {
+    "company": "Harman",
+    "name": "Harman Phoenix 200",
+    "iso": 200,
+    "format": "135",
+    "color": "color",
+    "type": "(C-41)",
+    "emulsion": "",
+    "price": 2,
+    "popularity": 1730,
+    "description": "saturated and grainy film with a purple base, made in the same factory as the Ilford black and white films",
+    "launched": 2023,
+    "datasheet": "datasheets/harman-phoenix-200.pdf",
+    "lomography": "",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Harman%20Phoenix%22",
+    "image": "harman-phoenix-200-135.png"
+  },
+  {
     "company": "Kodak",
     "name": "Kodak ColorPlus 200",
     "iso": 200,
