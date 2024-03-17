@@ -14,7 +14,7 @@ var futurefilms = [
     "datasheet": "datasheets/orwo-dn21.pdf",
     "lomography": "https://www.lomography.de/films/871971058-orwo-dn21/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Orwo%20DN21%22",
-    "image": "random.png"
+    "image": "random.avif"
   },
   {
     "company": "Filmotec Wolfen",
@@ -31,7 +31,7 @@ var futurefilms = [
     "datasheet": "datasheets/orwo-dp31.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Orwo%20DP31%22",
-    "image": "random.png"
+    "image": "random.avif"
   },
   {
     "company": "Filmotec Wolfen",
@@ -48,7 +48,7 @@ var futurefilms = [
     "datasheet": "datasheets/orwo-nc400.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Orwo%20NC400%22",
-    "image": "orwo-nc400-135.png"
+    "image": "orwo-nc400-135.avif"
   },
   {
     "company": "Filmotec Wolfen",
@@ -65,7 +65,7 @@ var futurefilms = [
     "datasheet": "datasheets/orwo-p400.pdf",
     "lomography": "https://www.lomography.de/films/871972154-orwo-p400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Orwo%20P400%22",
-    "image": "random.png"
+    "image": "random.avif"
   },
   {
     "company": "Filmotec Wolfen",
@@ -82,7 +82,7 @@ var futurefilms = [
     "datasheet": "datasheets/orwo-pf2.pdf",
     "lomography": "https://www.lomography.de/films/871947407-orwo-pf2/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Orwo%20PF2%22",
-    "image": "random.png"
+    "image": "random.avif"
   },
   {
     "company": "Filmotec Wolfen",
@@ -99,7 +99,7 @@ var futurefilms = [
     "datasheet": "datasheets/orwo-un54.pdf",
     "lomography": "https://www.lomography.de/films/871952973-orwo-un54/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Orwo%20UN54%22",
-    "image": "random.png"
+    "image": "random.avif"
   },
   {
     "company": "Ilford",
@@ -116,7 +116,7 @@ var futurefilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "",
-    "image": "random.png"
+    "image": "random.avif"
   },
   {
     "company": "Ilford",
@@ -133,7 +133,7 @@ var futurefilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Ilfocolor%20400%22%20Vintage",
-    "image": "random.png"
+    "image": "random.avif"
   },
   {
     "company": "KONO!",
@@ -150,6 +150,6 @@ var futurefilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "",
-    "image": "random.png"
+    "image": "random.avif"
   }
 ]

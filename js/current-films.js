@@ -14,7 +14,7 @@ var currentfilms = [
     "datasheet": "datasheets/adox-chs-100-ii.pdf",
     "lomography": "https://www.lomography.com/films/871958938-adox-chs-100-ii/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20CHS%20100%20II%22",
-    "image": "adox-chs-100-ii-120.png"
+    "image": "adox-chs-100-ii-120.avif"
   },
   {
     "company": "Adox",
@@ -31,7 +31,7 @@ var currentfilms = [
     "datasheet": "datasheets/adox-chs-100-ii.pdf",
     "lomography": "https://www.lomography.com/films/871958938-adox-chs-100-ii/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20CHS%20100%20II%22",
-    "image": "adox-chs-100-ii-135.png"
+    "image": "adox-chs-100-ii-135.avif"
   },
   {
     "company": "Adox",
@@ -48,7 +48,7 @@ var currentfilms = [
     "datasheet": "datasheets/adox-cms-20-ii.pdf",
     "lomography": "https://www.lomography.com/films/871965093-adox-cms-20-ii/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20CMS%2020%20II%22",
-    "image": "adox-cms-20-ii-120.png"
+    "image": "adox-cms-20-ii-120.avif"
   },
   {
     "company": "Adox",
@@ -65,7 +65,7 @@ var currentfilms = [
     "datasheet": "datasheets/adox-cms-20-ii.pdf",
     "lomography": "https://www.lomography.com/films/871965093-adox-cms-20-ii/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20CMS%2020%20II%22",
-    "image": "adox-cms-20-ii-135.png"
+    "image": "adox-cms-20-ii-135.avif"
   },
   {
     "company": "Adox",
@@ -82,7 +82,7 @@ var currentfilms = [
     "datasheet": "datasheets/adox-hr-50.pdf",
     "lomography": "https://www.lomography.com/films/871968181-adox-hr-50/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20HR-50%22",
-    "image": "adox-hr-50-135.png"
+    "image": "adox-hr-50-135.avif"
   },
   {
     "company": "Adox",
@@ -99,7 +99,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871970893-adox-scala-50/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Adox%20Scala%2050%22",
-    "image": "adox-scala-50-135.png"
+    "image": "adox-scala-50-135.avif"
   },
   {
     "company": "Agfaphoto",
@@ -116,7 +116,7 @@ var currentfilms = [
     "datasheet": "datasheets/agfaphoto-apx-100.pdf",
     "lomography": "https://www.lomography.com/films/871912608-agfa-apx-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22APX%20100%22",
-    "image": "agfaphoto-apx-100-135.png"
+    "image": "agfaphoto-apx-100-135.avif"
   },
   {
     "company": "Agfaphoto",
@@ -133,7 +133,7 @@ var currentfilms = [
     "datasheet": "datasheets/agfaphoto-apx-400.pdf",
     "lomography": "https://www.lomography.com/films/871910992-agfa-apx-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22APX%20400%22",
-    "image": "agfaphoto-apx-400-135.png"
+    "image": "agfaphoto-apx-400-135.avif"
   },
   {
     "company": "Bergger",
@@ -150,7 +150,7 @@ var currentfilms = [
     "datasheet": "datasheets/bergger-pancro-400.pdf",
     "lomography": "https://www.lomography.com/films/871965009-bergger-pancro-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Bergger%20Pancro%20400%22",
-    "image": "bergger-pancro-400-120.png"
+    "image": "bergger-pancro-400-120.avif"
   },
   {
     "company": "Bergger",
@@ -167,7 +167,7 @@ var currentfilms = [
     "datasheet": "datasheets/bergger-pancro-400.pdf",
     "lomography": "https://www.lomography.com/films/871965009-bergger-pancro-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Bergger%20Pancro%20400%22",
-    "image": "bergger-pancro-400-135.png"
+    "image": "bergger-pancro-400-135.avif"
   },
   {
     "company": "CatLABS",
@@ -184,7 +184,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969876-catlabs-x-film-80/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22CatLABS%20X%20FILM%2080%22",
-    "image": "catlabs-x-film-80-120.png"
+    "image": "catlabs-x-film-80-120.avif"
   },
   {
     "company": "CatLABS",
@@ -201,7 +201,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969653-catlabs-x-film-320/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22CatLABS%20X%20FILM%20320%22",
-    "image": "catlabs-x-film-320-135.png"
+    "image": "catlabs-x-film-320-135.avif"
   },
   {
     "company": "Camera Film Photo",
@@ -218,7 +218,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-eastman-double-x.pdf",
     "lomography": "https://www.lomography.com/films/871964406-cfp-double-x-bw/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22CFP%20Double-X%22",
-    "image": "cfp-double-x-200-135.png"
+    "image": "cfp-double-x-200-135.avif"
   },
   {
     "company": "Camera Film Photo",
@@ -235,7 +235,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871974092-kiki-pan-320/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kiki%20Pan%20320%22",
-    "image": "cfp-kiki-pan-320-135.png"
+    "image": "cfp-kiki-pan-320-135.avif"
   },
   {
     "company": "Cinestillfilm",
@@ -252,7 +252,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-eastman-double-x.pdf",
     "lomography": "https://www.lomography.com/films/871966374-cinestill-bwxx-250/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Cinestill%20bwXX%22",
-    "image": "cinestillfilm-cinestill-bwxx-120.png"
+    "image": "cinestillfilm-cinestill-bwxx-120.avif"
   },
   {
     "company": "Cinestillfilm",
@@ -269,7 +269,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-eastman-double-x.pdf",
     "lomography": "https://www.lomography.com/films/871966374-cinestill-bwxx-250/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Cinestill%20bwXX%22",
-    "image": "cinestillfilm-cinestill-bwxx-135.png"
+    "image": "cinestillfilm-cinestill-bwxx-135.avif"
   },
   {
     "company": "Cinestillfilm",
@@ -286,7 +286,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-250d.pdf",
     "lomography": "https://www.lomography.com/films/871973034-cinestill-400d/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Cinestill%20400D%22",
-    "image": "cinestillfilm-cinestill-400d-120.png"
+    "image": "cinestillfilm-cinestill-400d-120.avif"
   },
   {
     "company": "Cinestillfilm",
@@ -303,7 +303,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-250d.pdf",
     "lomography": "https://www.lomography.com/films/871973034-cinestill-400d/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Cinestill%20400D%22",
-    "image": "cinestillfilm-cinestill-400d-135.png"
+    "image": "cinestillfilm-cinestill-400d-135.avif"
   },
   {
     "company": "Cinestillfilm",
@@ -320,7 +320,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-50d.pdf",
     "lomography": "https://www.lomography.com/films/871961381-cinestill-50d/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Cinestill%2050D%22",
-    "image": "cinestillfilm-cinestill-50d-120.png"
+    "image": "cinestillfilm-cinestill-50d-120.avif"
   },
   {
     "company": "Cinestillfilm",
@@ -337,7 +337,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-50d.pdf",
     "lomography": "https://www.lomography.com/films/871961381-cinestill-50d/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Cinestill%2050D%22",
-    "image": "cinestillfilm-cinestill-50d-135.png"
+    "image": "cinestillfilm-cinestill-50d-135.avif"
   },
   {
     "company": "Cinestillfilm",
@@ -354,7 +354,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-500t.pdf",
     "lomography": "https://www.lomography.com/films/871964831-cinestill-800t/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Cinestill%20800T%22",
-    "image": "cinestillfilm-cinestill-800t-120.png"
+    "image": "cinestillfilm-cinestill-800t-120.avif"
   },
   {
     "company": "Cinestillfilm",
@@ -371,7 +371,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-500t.pdf",
     "lomography": "https://www.lomography.com/films/871964831-cinestill-800t/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Cinestill%20800T%22",
-    "image": "cinestillfilm-cinestill-800t-135.png"
+    "image": "cinestillfilm-cinestill-800t-135.avif"
   },
   {
     "company": "dubblefilm",
@@ -388,7 +388,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969955-dubblefilm-apollo/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20Apollo%22",
-    "image": "dubblefilm-apollo-120.png"
+    "image": "dubblefilm-apollo-120.avif"
   },
   {
     "company": "dubblefilm",
@@ -405,7 +405,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969955-dubblefilm-apollo/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20Apollo%22",
-    "image": "dubblefilm-apollo-135.png"
+    "image": "dubblefilm-apollo-135.avif"
   },
   {
     "company": "dubblefilm",
@@ -422,7 +422,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969281-dubblefilm-bubblegum/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20Bubblegum%22",
-    "image": "dubblefilm-bubblegum-120.png"
+    "image": "dubblefilm-bubblegum-120.avif"
   },
   {
     "company": "dubblefilm",
@@ -439,7 +439,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969281-dubblefilm-bubblegum/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20Bubblegum%22",
-    "image": "dubblefilm-bubblegum-135.png"
+    "image": "dubblefilm-bubblegum-135.avif"
   },
   {
     "company": "dubblefilm",
@@ -456,7 +456,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871973453-dubblefilm-cinema-800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20Cinema%22",
-    "image": "dubblefilm-cinema-135.png"
+    "image": "dubblefilm-cinema-135.avif"
   },
   {
     "company": "dubblefilm",
@@ -473,7 +473,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871972292-dubblefilm-daily-black-white/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20DAILY%20black&white%22",
-    "image": "dubblefilm-daily-black-and-white-135.png"
+    "image": "dubblefilm-daily-black-and-white-135.avif"
   },
   {
     "company": "dubblefilm",
@@ -490,7 +490,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871971843-dubblefilm-daily-color/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20DAILY%20color%22",
-    "image": "dubblefilm-daily-color-135.png"
+    "image": "dubblefilm-daily-color-135.avif"
   },
   {
     "company": "dubblefilm",
@@ -507,7 +507,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "",
-    "image": "dubblefilm-glitch-135.png"
+    "image": "dubblefilm-glitch-135.avif"
   },
   {
     "company": "dubblefilm",
@@ -524,7 +524,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969003-dubblefilm-jelly/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20Jelly%22",
-    "image": "dubblefilm-jelly-135.png"
+    "image": "dubblefilm-jelly-135.avif"
   },
   {
     "company": "dubblefilm",
@@ -541,7 +541,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969646-dubblefilm-pacific/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20Pacific%22",
-    "image": "dubblefilm-pacific-120.png"
+    "image": "dubblefilm-pacific-120.avif"
   },
   {
     "company": "dubblefilm",
@@ -558,7 +558,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969646-dubblefilm-pacific/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20Pacific%22",
-    "image": "dubblefilm-pacific-135.png"
+    "image": "dubblefilm-pacific-135.avif"
   },
   {
     "company": "dubblefilm",
@@ -575,7 +575,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871968788-dubblefilm-solar/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20Solar%22",
-    "image": "dubblefilm-solar-135.png"
+    "image": "dubblefilm-solar-135.avif"
   },
   {
     "company": "dubblefilm",
@@ -592,7 +592,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871968421-dubblefilm-stereo/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20Stereo%22",
-    "image": "dubblefilm-stereo-135.png"
+    "image": "dubblefilm-stereo-135.avif"
   },
   {
     "company": "dubblefilm",
@@ -609,7 +609,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22dubblefilm%20Treat%22",
-    "image": "dubblefilm-treat-135.png"
+    "image": "dubblefilm-treat-135.avif"
   },
   {
     "company": "Ferrania",
@@ -626,7 +626,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ferrania%20Orto%2050%22",
-    "image": "ferrania-orto-50-135.png"
+    "image": "ferrania-orto-50-135.avif"
   },
   {
     "company": "Ferrania",
@@ -643,7 +643,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ferrania%20Orto%2050%22",
-    "image": "random.png"
+    "image": "random.avif"
   },
   {
     "company": "Ferrania",
@@ -660,7 +660,7 @@ var currentfilms = [
     "datasheet": "datasheets/ferrania-p30.pdf",
     "lomography": "https://www.lomography.com/films/871966128-ferrania-p30/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ferrania%20P30%22",
-    "image": "ferrania-p30-135.png"
+    "image": "ferrania-p30-135.avif"
   },
   {
     "company": "Ferrania",
@@ -677,7 +677,7 @@ var currentfilms = [
     "datasheet": "datasheets/ferrania-p30.pdf",
     "lomography": "https://www.lomography.com/films/871966128-ferrania-p30/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ferrania%20P30%22",
-    "image": "ferrania-p30-120.png"
+    "image": "ferrania-p30-120.avif"
   },
   {
     "company": "Ferrania",
@@ -694,7 +694,7 @@ var currentfilms = [
     "datasheet": "datasheets/ferrania-p33.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ferrania%20P33%22",
-    "image": "ferrania-p33-135.png"
+    "image": "ferrania-p33-135.avif"
   },
   {
     "company": "Film Washi",
@@ -711,7 +711,7 @@ var currentfilms = [
     "datasheet": "datasheets/film-washi-f-100.pdf",
     "lomography": "https://www.lomography.com/films/871967375-film-washi-f/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Film%20Washi%20F%22",
-    "image": "film-washi-f-100-135.png"
+    "image": "film-washi-f-100-135.avif"
   },
   {
     "company": "Film Washi",
@@ -728,7 +728,7 @@ var currentfilms = [
     "datasheet": "datasheets/film-washi-f-100.pdf",
     "lomography": "https://www.lomography.com/films/871967375-film-washi-f/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Film%20Washi%20F%22",
-    "image": "film-washi-f-100-120.png"
+    "image": "film-washi-f-100-120.avif"
   },
   {
     "company": "Film Washi",
@@ -745,7 +745,7 @@ var currentfilms = [
     "datasheet": "datasheets/film-washi-v-100.pdf",
     "lomography": "https://www.lomography.com/films/871966361-film-washi-v/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Film%20Washi%20V%22",
-    "image": "film-washi-v-100-135.png"
+    "image": "film-washi-v-100-135.avif"
   },
   {
     "company": "Film Washi",
@@ -762,7 +762,7 @@ var currentfilms = [
     "datasheet": "datasheets/film-washi-v-100.pdf",
     "lomography": "https://www.lomography.com/films/871966361-film-washi-v/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Film%20Washi%20V%22",
-    "image": "film-washi-v-100-120.png"
+    "image": "film-washi-v-100-120.avif"
   },
   {
     "company": "Film Washi",
@@ -779,7 +779,7 @@ var currentfilms = [
     "datasheet": "datasheets/",
     "lomography": "https://www.lomography.com/films/871964793-film-washi-w/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Film%20Washi%20W%22",
-    "image": "film-washi-w-25-135.png"
+    "image": "film-washi-w-25-135.avif"
   },
   {
     "company": "Film Washi",
@@ -796,7 +796,7 @@ var currentfilms = [
     "datasheet": "datasheets/film-washi-w-25.pdf",
     "lomography": "https://www.lomography.com/films/871964793-film-washi-w/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Film%20Washi%20W%22",
-    "image": "film-washi-w-25-120.png"
+    "image": "film-washi-w-25-120.avif"
   },
   {
     "company": "Film Washi",
@@ -813,7 +813,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871966009-film-washi-x/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Film%20Washi%20X%22",
-    "image": "film-washi-x-100-135.png"
+    "image": "film-washi-x-100-135.avif"
   },
   {
     "company": "Film Washi",
@@ -830,7 +830,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "",
-    "image": "film-washi-y-100-120.png"
+    "image": "film-washi-y-100-120.avif"
   },
   {
     "company": "Film Washi",
@@ -847,7 +847,7 @@ var currentfilms = [
     "datasheet": "datasheets/film-washi-z-400.pdf",
     "lomography": "https://www.lomography.com/films/871965427-film-washi-z/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Film%20Washi%20Z%22",
-    "image": "film-washi-z-400-135.png"
+    "image": "film-washi-z-400-135.avif"
   },
   {
     "company": "Filmotec Wolfen",
@@ -864,7 +864,7 @@ var currentfilms = [
     "datasheet": "datasheets/orwo-nc500.pdf",
     "lomography": "https://www.lomography.de/films/871973695-orwo-wolfen-nc-500/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Orwo%20NC500%22",
-    "image": "orwo-nc500-135.png"
+    "image": "orwo-nc500-135.avif"
   },
   {
     "company": "Filmotec Wolfen",
@@ -881,7 +881,7 @@ var currentfilms = [
     "datasheet": "datasheets/orwo-np100.pdf",
     "lomography": "https://www.lomography.de/films/871962412-orwo-np-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Orwo%20NP100%22",
-    "image": "orwo-np100-135.png"
+    "image": "orwo-np100-135.avif"
   },
   {
     "company": "Flic Film",
@@ -898,7 +898,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-200t.pdf",
     "lomography": "",
     "flickr": "",
-    "image": "flic-film-cinecolor-200t-135.png"
+    "image": "flic-film-cinecolor-200t-135.avif"
   },
   {
     "company": "Flic Film",
@@ -915,7 +915,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-250d.pdf",
     "lomography": "",
     "flickr": "",
-    "image": "flic-film-cinecolor-250d-135.png"
+    "image": "flic-film-cinecolor-250d-135.avif"
   },
   {
     "company": "Flic Film",
@@ -932,7 +932,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-500t.pdf",
     "lomography": "",
     "flickr": "",
-    "image": "flic-film-cinecolor-500t-135.png"
+    "image": "flic-film-cinecolor-500t-135.avif"
   },
   {
     "company": "Flic Film",
@@ -949,7 +949,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-50d.pdf",
     "lomography": "",
     "flickr": "",
-    "image": "flic-film-cinecolor-50d-135.png"
+    "image": "flic-film-cinecolor-50d-135.avif"
   },
   {
     "company": "Flic Film",
@@ -966,7 +966,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-ektachrome-100d.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Flic%20Film%20Chrome%20100%22",
-    "image": "flic-film-chrome-100-135.png"
+    "image": "flic-film-chrome-100-135.avif"
   },
   {
     "company": "Flic Film",
@@ -983,7 +983,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-aerocolor-iv.pdf",
     "lomography": "https://www.lomography.com/films/871973819-elektra-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Flic%20Film%20Elektra%20100%22",
-    "image": "flic-film-elektra-100-135.png"
+    "image": "flic-film-elektra-100-135.avif"
   },
   {
     "company": "Flic Film",
@@ -1000,7 +1000,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-eastman-double-x.pdf",
     "lomography": "",
     "flickr": "",
-    "image": "flic-film-twynx-250-135.png"
+    "image": "flic-film-twynx-250-135.avif"
   },
   {
     "company": "Flic Film",
@@ -1017,7 +1017,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-fomapan-100.pdf",
     "lomography": "",
     "flickr": "",
-    "image": "flic-film-ultrapan-100-135.png"
+    "image": "flic-film-ultrapan-100-135.avif"
   },
   {
     "company": "Flic Film",
@@ -1034,7 +1034,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-fomapan-200.pdf",
     "lomography": "",
     "flickr": "",
-    "image": "flic-film-ultrapan-200-135.png"
+    "image": "flic-film-ultrapan-200-135.avif"
   },
   {
     "company": "Flic Film",
@@ -1051,7 +1051,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-fomapan-400.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Flic%20Film%20UltraPan%20400%22",
-    "image": "flic-film-ultrapan-400-135.png"
+    "image": "flic-film-ultrapan-400-135.avif"
   },
   {
     "company": "Flic Film",
@@ -1068,7 +1068,7 @@ var currentfilms = [
     "datasheet": "datasheets/orwo-un54.pdf",
     "lomography": "",
     "flickr": "",
-    "image": "flic-film-wolfen-100-135.png"
+    "image": "flic-film-wolfen-100-135.avif"
   },
   {
     "company": "Foma",
@@ -1085,7 +1085,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-fomapan-100.pdf",
     "lomography": "https://www.lomography.com/films/871911862-fomapan-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fomapan%20100%22",
-    "image": "foma-fomapan-100-120.png"
+    "image": "foma-fomapan-100-120.avif"
   },
   {
     "company": "Foma",
@@ -1102,7 +1102,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-fomapan-100.pdf",
     "lomography": "https://www.lomography.com/films/871911862-fomapan-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fomapan%20100%22",
-    "image": "foma-fomapan-100-135.png"
+    "image": "foma-fomapan-100-135.avif"
   },
   {
     "company": "Foma",
@@ -1119,7 +1119,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-fomapan-200.pdf",
     "lomography": "https://www.lomography.com/films/871913164-fomapan-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fomapan%20200%22",
-    "image": "foma-fomapan-200-120.png"
+    "image": "foma-fomapan-200-120.avif"
   },
   {
     "company": "Foma",
@@ -1136,7 +1136,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-fomapan-200.pdf",
     "lomography": "https://www.lomography.com/films/871913164-fomapan-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fomapan%20200%22",
-    "image": "foma-fomapan-200-135.png"
+    "image": "foma-fomapan-200-135.avif"
   },
   {
     "company": "Foma",
@@ -1153,7 +1153,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-fomapan-400.pdf",
     "lomography": "https://www.lomography.com/films/871912192-fomapan-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fomapan%20400%22",
-    "image": "foma-fomapan-400-120.png"
+    "image": "foma-fomapan-400-120.avif"
   },
   {
     "company": "Foma",
@@ -1170,7 +1170,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-fomapan-400.pdf",
     "lomography": "https://www.lomography.com/films/871912192-fomapan-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fomapan%20400%22",
-    "image": "foma-fomapan-400-135.png"
+    "image": "foma-fomapan-400-135.avif"
   },
   {
     "company": "Foma",
@@ -1187,7 +1187,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-fomapan-r-100.pdf",
     "lomography": "https://www.lomography.com/films/871956777-fomapan-r-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fomapan%20R%20100%22",
-    "image": "foma-fomapan-r-100-135.png"
+    "image": "foma-fomapan-r-100-135.avif"
   },
   {
     "company": "Foma",
@@ -1204,7 +1204,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-ortho-400.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Foma%20Ortho%20400%22",
-    "image": "foma-ortho-400-120.png"
+    "image": "foma-ortho-400-120.avif"
   },
   {
     "company": "Foma",
@@ -1221,7 +1221,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-retropan-320.pdf",
     "lomography": "https://www.lomography.com/films/871962399-foma-retropan-320/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Foma%20Retropan%20320%22",
-    "image": "foma-retropan-320-120.png"
+    "image": "foma-retropan-320-120.avif"
   },
   {
     "company": "Foma",
@@ -1238,7 +1238,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-retropan-320.pdf",
     "lomography": "https://www.lomography.com/films/871962399-foma-retropan-320/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Foma%20Retropan%20320%22",
-    "image": "foma-retropan-320-135.png"
+    "image": "foma-retropan-320-135.avif"
   },
   {
     "company": "Fujifilm",
@@ -1255,7 +1255,7 @@ var currentfilms = [
     "datasheet": "datasheets/fujifilm-neopan-acros-100-120.pdf",
     "lomography": "https://www.lomography.com/films/871946494-fuji-neopan-acros-100-120/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Neopan%20Acros%20100%22",
-    "image": "fujifilm-neopan-acros-100-120.png"
+    "image": "fujifilm-neopan-acros-100-120.avif"
   },
   {
     "company": "Fujifilm",
@@ -1272,7 +1272,7 @@ var currentfilms = [
     "datasheet": "datasheets/fujifilm-c200.pdf",
     "lomography": "https://www.lomography.com/films/871962842-fuji-c200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20C200%22",
-    "image": "fujifilm-c200-135.png"
+    "image": "fujifilm-c200-135.avif"
   },
   {
     "company": "Fujifilm",
@@ -1289,7 +1289,7 @@ var currentfilms = [
     "datasheet": "datasheets/fujifilm-neopan-acros-100-135.pdf",
     "lomography": "https://www.lomography.com/films/871923678-fuji-neopan-acros-100-35mm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Neopan%20Acros%20100%22",
-    "image": "fujifilm-neopan-acros-100-135.png"
+    "image": "fujifilm-neopan-acros-100-135.avif"
   },
   {
     "company": "Fujifilm",
@@ -1306,7 +1306,7 @@ var currentfilms = [
     "datasheet": "datasheets/fujifilm-pro-400h.pdf",
     "lomography": "https://www.lomography.com/films/871912904-fuji-pro-400h/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Pro%20400H%22",
-    "image": "fujifilm-pro-400h-120.png"
+    "image": "fujifilm-pro-400h-120.avif"
   },
   {
     "company": "Fujifilm",
@@ -1323,7 +1323,7 @@ var currentfilms = [
     "datasheet": "datasheets/fujifilm-provia-100f.pdf",
     "lomography": "https://www.lomography.com/films/871913190-fuji-provia-100f/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Provia%20100F%22",
-    "image": "fujifilm-provia-100f-120.png"
+    "image": "fujifilm-provia-100f-120.avif"
   },
   {
     "company": "Fujifilm",
@@ -1340,7 +1340,7 @@ var currentfilms = [
     "datasheet": "datasheets/fujifilm-provia-100f.pdf",
     "lomography": "https://www.lomography.com/films/871913190-fuji-provia-100f/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Provia%20100F%22",
-    "image": "fujifilm-provia-100f-135.png"
+    "image": "fujifilm-provia-100f-135.avif"
   },
   {
     "company": "Fujifilm",
@@ -1357,7 +1357,7 @@ var currentfilms = [
     "datasheet": "datasheets/fujifilm-superia-x-tra-400.pdf",
     "lomography": "https://www.lomography.com/films/871922012-fujifilm-superia-x-tra-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Superia%20X-TRA%20400%22",
-    "image": "fujifilm-superia-x-tra-400-135.png"
+    "image": "fujifilm-superia-x-tra-400-135.avif"
   },
   {
     "company": "Fujifilm",
@@ -1374,7 +1374,7 @@ var currentfilms = [
     "datasheet": "datasheets/fujifilm-velvia-100.pdf",
     "lomography": "https://www.lomography.com/films/871962779-fuji-velvia-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Velvia%20100%22",
-    "image": "fujifilm-velvia-100-120.png"
+    "image": "fujifilm-velvia-100-120.avif"
   },
   {
     "company": "Fujifilm",
@@ -1391,7 +1391,7 @@ var currentfilms = [
     "datasheet": "datasheets/fujifilm-velvia-100.pdf",
     "lomography": "https://www.lomography.com/films/871962779-fuji-velvia-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Velvia%20100%22",
-    "image": "fujifilm-velvia-100-135.png"
+    "image": "fujifilm-velvia-100-135.avif"
   },
   {
     "company": "Fujifilm",
@@ -1408,7 +1408,7 @@ var currentfilms = [
     "datasheet": "datasheets/fujifilm-velvia-50.pdf",
     "lomography": "https://www.lomography.com/films/871953612-fuji-velvia-50/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Velvia%2050%22",
-    "image": "fujifilm-velvia-50-120.png"
+    "image": "fujifilm-velvia-50-120.avif"
   },
   {
     "company": "Fujifilm",
@@ -1425,7 +1425,7 @@ var currentfilms = [
     "datasheet": "datasheets/fujifilm-velvia-50.pdf",
     "lomography": "https://www.lomography.com/films/871953612-fuji-velvia-50/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Velvia%2050%22",
-    "image": "fujifilm-velvia-50-135.png"
+    "image": "fujifilm-velvia-50-135.avif"
   },
   {
     "company": "Ilford",
@@ -1442,7 +1442,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-delta-100.pdf",
     "lomography": "https://www.lomography.com/films/871926464-ilford-delta-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Delta%20100%22",
-    "image": "ilford-delta-100-120.png"
+    "image": "ilford-delta-100-120.avif"
   },
   {
     "company": "Ilford",
@@ -1459,7 +1459,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-delta-100.pdf",
     "lomography": "https://www.lomography.com/films/871926464-ilford-delta-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Delta%20100%22",
-    "image": "ilford-delta-100-135.png"
+    "image": "ilford-delta-100-135.avif"
   },
   {
     "company": "Ilford",
@@ -1476,7 +1476,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-delta-3200.pdf",
     "lomography": "https://www.lomography.com/films/871924744-ilford-delta-3200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Delta%203200%22",
-    "image": "ilford-delta-3200-120.png"
+    "image": "ilford-delta-3200-120.avif"
   },
   {
     "company": "Ilford",
@@ -1493,7 +1493,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-delta-3200.pdf",
     "lomography": "https://www.lomography.com/films/871924744-ilford-delta-3200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Delta%203200%22",
-    "image": "ilford-delta-3200-135.png"
+    "image": "ilford-delta-3200-135.avif"
   },
   {
     "company": "Ilford",
@@ -1510,7 +1510,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-delta-400.pdf",
     "lomography": "https://www.lomography.com/films/871911584-ilford-delta-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Delta%20400%22",
-    "image": "ilford-delta-400-120.png"
+    "image": "ilford-delta-400-120.avif"
   },
   {
     "company": "Ilford",
@@ -1527,7 +1527,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-delta-400.pdf",
     "lomography": "https://www.lomography.com/films/871911584-ilford-delta-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Delta%20400%22",
-    "image": "ilford-delta-400-135.png"
+    "image": "ilford-delta-400-135.avif"
   },
   {
     "company": "Ilford",
@@ -1544,7 +1544,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-fp4-plus-125.pdf",
     "lomography": "https://www.lomography.com/films/871929575-ilford-fp4-plus-125/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20FP4%20Plus%22",
-    "image": "ilford-fp4-plus-125-120.png"
+    "image": "ilford-fp4-plus-125-120.avif"
   },
   {
     "company": "Ilford",
@@ -1561,7 +1561,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-fp4-plus-125.pdf",
     "lomography": "https://www.lomography.com/films/871929575-ilford-fp4-plus-125/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20FP4%20Plus%22",
-    "image": "ilford-fp4-plus-125-135.png"
+    "image": "ilford-fp4-plus-125-135.avif"
   },
   {
     "company": "Ilford",
@@ -1578,7 +1578,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-hp5-plus-400.pdf",
     "lomography": "https://www.lomography.com/films/871911956-ilford-hp5-plus-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20HP5%20Plus%22",
-    "image": "ilford-hp5-plus-400-120.png"
+    "image": "ilford-hp5-plus-400-120.avif"
   },
   {
     "company": "Ilford",
@@ -1595,7 +1595,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-hp5-plus-400.pdf",
     "lomography": "https://www.lomography.com/films/871911956-ilford-hp5-plus-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20HP5%20Plus%22",
-    "image": "ilford-hp5-plus-400-135.png"
+    "image": "ilford-hp5-plus-400-135.avif"
   },
   {
     "company": "Ilford",
@@ -1612,7 +1612,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-ortho-plus-80.pdf",
     "lomography": "https://www.lomography.com/films/871969064-ilford-ortho-plus/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Ortho%20Plus%22",
-    "image": "ilford-ortho-plus-80-120.png"
+    "image": "ilford-ortho-plus-80-120.avif"
   },
   {
     "company": "Ilford",
@@ -1629,7 +1629,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-ortho-plus-80.pdf",
     "lomography": "https://www.lomography.com/films/871969064-ilford-ortho-plus/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Ortho%20Plus%22",
-    "image": "ilford-ortho-plus-80-135.png"
+    "image": "ilford-ortho-plus-80-135.avif"
   },
   {
     "company": "Ilford",
@@ -1646,7 +1646,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-pan-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871917899-ilford-pan-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Pan%20100%22",
-    "image": "ilford-pan-100-135.png"
+    "image": "ilford-pan-100-135.avif"
   },
   {
     "company": "Ilford",
@@ -1663,7 +1663,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-pan-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871911657-ilford-pan-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20Pan%20400%22",
-    "image": "ilford-pan-400-135.png"
+    "image": "ilford-pan-400-135.avif"
   },
   {
     "company": "Ilford",
@@ -1680,7 +1680,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-pan-f-plus-50.pdf",
     "lomography": "https://www.lomography.com/films/871960967-ilford-pan-f-plus-50/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20PAN%20F%20Plus%2050%22",
-    "image": "ilford-pan-f-plus-50-120.png"
+    "image": "ilford-pan-f-plus-50-120.avif"
   },
   {
     "company": "Ilford",
@@ -1697,7 +1697,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-pan-f-plus-50.pdf",
     "lomography": "https://www.lomography.com/films/871960967-ilford-pan-f-plus-50/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20PAN%20F%20Plus%2050%22",
-    "image": "ilford-pan-f-plus-50-135.png"
+    "image": "ilford-pan-f-plus-50-135.avif"
   },
   {
     "company": "Ilford",
@@ -1714,7 +1714,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-sfx-200.pdf",
     "lomography": "https://www.lomography.com/films/871922157-ilford-sfx-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20SFX%20200%22",
-    "image": "ilford-sfx-200-120.png"
+    "image": "ilford-sfx-200-120.avif"
   },
   {
     "company": "Ilford",
@@ -1731,7 +1731,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-sfx-200.pdf",
     "lomography": "https://www.lomography.com/films/871922157-ilford-sfx-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20SFX%20200%22",
-    "image": "ilford-sfx-200-135.png"
+    "image": "ilford-sfx-200-135.avif"
   },
   {
     "company": "Ilford",
@@ -1748,7 +1748,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-xp2-super-400.pdf",
     "lomography": "https://www.lomography.com/films/871916608-ilford-xp2-super-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20XP2%20super%22",
-    "image": "ilford-xp2-super-400-120.png"
+    "image": "ilford-xp2-super-400-120.avif"
   },
   {
     "company": "Ilford",
@@ -1765,7 +1765,7 @@ var currentfilms = [
     "datasheet": "datasheets/ilford-xp2-super-400.pdf",
     "lomography": "https://www.lomography.com/films/871916608-ilford-xp2-super-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ilford%20XP2%20super%22",
-    "image": "ilford-xp2-super-400-135.png"
+    "image": "ilford-xp2-super-400-135.avif"
   },
   {
     "company": "JCH",
@@ -1782,7 +1782,7 @@ var currentfilms = [
     "datasheet": "datasheets/jch-street-pan-400.pdf",
     "lomography": "https://www.lomography.com/films/871964168-jch-street-pan-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22JCH%20Street%20Pan%22",
-    "image": "jch-street-pan-400-120.png"
+    "image": "jch-street-pan-400-120.avif"
   },
   {
     "company": "JCH",
@@ -1799,7 +1799,7 @@ var currentfilms = [
     "datasheet": "datasheets/jch-street-pan-400.pdf",
     "lomography": "https://www.lomography.com/films/871964168-jch-street-pan-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22JCH%20Street%20Pan%22",
-    "image": "jch-street-pan-400-135.png"
+    "image": "jch-street-pan-400-135.avif"
   },
   {
     "company": "Ilford",
@@ -1816,7 +1816,7 @@ var currentfilms = [
     "datasheet": "datasheets/kentmere-100.pdf",
     "lomography": "https://www.lomography.com/films/871927949-kentmere-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kentmere%20100%22",
-    "image": "kentmere-100-120.png"
+    "image": "kentmere-100-120.avif"
   },
   {
     "company": "Ilford",
@@ -1833,7 +1833,7 @@ var currentfilms = [
     "datasheet": "datasheets/kentmere-100.pdf",
     "lomography": "https://www.lomography.com/films/871927949-kentmere-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kentmere%20100%22",
-    "image": "kentmere-100-135.png"
+    "image": "kentmere-100-135.avif"
   },
   {
     "company": "Ilford",
@@ -1850,7 +1850,7 @@ var currentfilms = [
     "datasheet": "datasheets/kentmere-400.pdf",
     "lomography": "https://www.lomography.com/films/871925956-kentmere-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kentmere%20400%22",
-    "image": "kentmere-400-120.png"
+    "image": "kentmere-400-120.avif"
   },
   {
     "company": "Ilford",
@@ -1867,7 +1867,7 @@ var currentfilms = [
     "datasheet": "datasheets/kentmere-400.pdf",
     "lomography": "https://www.lomography.com/films/871925956-kentmere-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kentmere%20400%22",
-    "image": "kentmere-400-135.png"
+    "image": "kentmere-400-135.avif"
   },
   {
     "company": "Harman",
@@ -1884,7 +1884,7 @@ var currentfilms = [
     "datasheet": "datasheets/harman-phoenix-200.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Harman%20Phoenix%22",
-    "image": "harman-phoenix-200-135.png"
+    "image": "harman-phoenix-200-135.avif"
   },
   {
     "company": "Kodak",
@@ -1901,7 +1901,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871917299-kodak-color-plus-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20ColorPlus%20200%22",
-    "image": "kodak-colorplus-200-135.png"
+    "image": "kodak-colorplus-200-135.avif"
   },
   {
     "company": "Kodak",
@@ -1918,7 +1918,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-ektachrome-e100.pdf",
     "lomography": "https://www.lomography.com/films/871911977-kodak-ektachrome-e100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Ektachrome%20E100%22",
-    "image": "kodak-ektachrome-e100-120.png"
+    "image": "kodak-ektachrome-e100-120.avif"
   },
   {
     "company": "Kodak",
@@ -1935,7 +1935,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-ektachrome-e100.pdf",
     "lomography": "https://www.lomography.com/films/871911977-kodak-ektachrome-e100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Ektachrome%20E100%22",
-    "image": "kodak-ektachrome-e100-135.png"
+    "image": "kodak-ektachrome-e100-135.avif"
   },
   {
     "company": "Kodak",
@@ -1952,7 +1952,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-ektar-100.pdf",
     "lomography": "https://www.lomography.com/films/871912245-kodak-ektar-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Ektar%20100%22",
-    "image": "kodak-ektar-100-120.png"
+    "image": "kodak-ektar-100-120.avif"
   },
   {
     "company": "Kodak",
@@ -1969,7 +1969,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-ektar-100.pdf",
     "lomography": "https://www.lomography.com/films/871912245-kodak-ektar-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Ektar%20100%22",
-    "image": "kodak-ektar-100-135.png"
+    "image": "kodak-ektar-100-135.avif"
   },
   {
     "company": "Kodak",
@@ -1986,7 +1986,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-gold-200.pdf",
     "lomography": "https://www.lomography.com/films/871958647-kodak-gold-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Gold%20200%22",
-    "image": "kodak-gold-200-120.png"
+    "image": "kodak-gold-200-120.avif"
   },
   {
     "company": "Kodak",
@@ -2003,7 +2003,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-gold-200.pdf",
     "lomography": "https://www.lomography.com/films/871958647-kodak-gold-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Gold%20200%22",
-    "image": "kodak-gold-200-135.png"
+    "image": "kodak-gold-200-135.avif"
   },
   {
     "company": "Kodak",
@@ -2020,7 +2020,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-portra-160.pdf",
     "lomography": "https://www.lomography.com/films/871916076-kodak-portra-160/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Portra%20160%22",
-    "image": "kodak-portra-160-120.png"
+    "image": "kodak-portra-160-120.avif"
   },
   {
     "company": "Kodak",
@@ -2037,7 +2037,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-portra-160.pdf",
     "lomography": "https://www.lomography.com/films/871916076-kodak-portra-160/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Portra%20160%22",
-    "image": "kodak-portra-160-135.png"
+    "image": "kodak-portra-160-135.avif"
   },
   {
     "company": "Kodak",
@@ -2054,7 +2054,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-portra-400.pdf",
     "lomography": "https://www.lomography.com/films/871910984-kodak-portra-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Portra%20400%22",
-    "image": "kodak-portra-400-120.png"
+    "image": "kodak-portra-400-120.avif"
   },
   {
     "company": "Kodak",
@@ -2071,7 +2071,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-portra-400.pdf",
     "lomography": "https://www.lomography.com/films/871910984-kodak-portra-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Portra%20400%22",
-    "image": "kodak-portra-400-135.png"
+    "image": "kodak-portra-400-135.avif"
   },
   {
     "company": "Kodak",
@@ -2088,7 +2088,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-portra-800.pdf",
     "lomography": "https://www.lomography.com/films/871920252-kodak-portra-800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Portra%20800%22",
-    "image": "kodak-portra-800-120.png"
+    "image": "kodak-portra-800-120.avif"
   },
   {
     "company": "Kodak",
@@ -2105,7 +2105,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-portra-800.pdf",
     "lomography": "https://www.lomography.com/films/871920252-kodak-portra-800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20Portra%20800%22",
-    "image": "kodak-portra-800-135.png"
+    "image": "kodak-portra-800-135.avif"
   },
   {
     "company": "Kodak",
@@ -2122,7 +2122,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-proimage-100.pdf",
     "lomography": "https://www.lomography.com/films/871961799-kodak-proimage-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20ProImage%20100%22",
-    "image": "kodak-proimage-100-135.png"
+    "image": "kodak-proimage-100-135.avif"
   },
   {
     "company": "Kodak",
@@ -2139,7 +2139,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-t-max-100.pdf",
     "lomography": "https://www.lomography.com/films/871912688-kodak-t-max-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20T-MAX%20100%22",
-    "image": "kodak-t-max-100-120.png"
+    "image": "kodak-t-max-100-120.avif"
   },
   {
     "company": "Kodak",
@@ -2156,7 +2156,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-t-max-100.pdf",
     "lomography": "https://www.lomography.com/films/871912688-kodak-t-max-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20T-MAX%20100%22",
-    "image": "kodak-t-max-100-135.png"
+    "image": "kodak-t-max-100-135.avif"
   },
   {
     "company": "Kodak",
@@ -2173,7 +2173,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-t-max-400.pdf",
     "lomography": "https://www.lomography.com/films/871912064-kodak-t-max-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20T-MAX%20400%22",
-    "image": "kodak-t-max-400-120.png"
+    "image": "kodak-t-max-400-120.avif"
   },
   {
     "company": "Kodak",
@@ -2190,7 +2190,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-t-max-400.pdf",
     "lomography": "https://www.lomography.com/films/871912064-kodak-t-max-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20T-MAX%20400%22",
-    "image": "kodak-t-max-400-135.png"
+    "image": "kodak-t-max-400-135.avif"
   },
   {
     "company": "Kodak",
@@ -2207,7 +2207,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-t-max-p-3200.pdf",
     "lomography": "https://www.lomography.com/films/871933147-kodak-t-max-p3200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20T-MAX%20P3200%22",
-    "image": "kodak-t-max-p-3200-135.png"
+    "image": "kodak-t-max-p-3200-135.avif"
   },
   {
     "company": "Kodak",
@@ -2224,7 +2224,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-tri-x-400.pdf",
     "lomography": "https://www.lomography.com/films/871911232-kodak-tri-x-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20TRI-X%20400%22",
-    "image": "kodak-tri-x-400-120.png"
+    "image": "kodak-tri-x-400-120.avif"
   },
   {
     "company": "Kodak",
@@ -2241,7 +2241,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-tri-x-400.pdf",
     "lomography": "https://www.lomography.com/films/871911232-kodak-tri-x-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20TRI-X%20400%22",
-    "image": "kodak-tri-x-400-135.png"
+    "image": "kodak-tri-x-400-135.avif"
   },
   {
     "company": "Kodak",
@@ -2258,7 +2258,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-ultramax-400.pdf",
     "lomography": "https://www.lomography.com/films/871945457-kodak-ultramax-400-35mm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kodak%20UltraMax%20400%22",
-    "image": "kodak-ultramax-400-135.png"
+    "image": "kodak-ultramax-400-135.avif"
   },
   {
     "company": "KONO!",
@@ -2275,7 +2275,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871970704-kono-alien/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Alien%22",
-    "image": "kono-alien-135.png"
+    "image": "kono-alien-135.avif"
   },
   {
     "company": "KONO!",
@@ -2292,7 +2292,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871971698-kono-delight-art-film-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Delight%20Art%20100%22",
-    "image": "kono-delight-art-100-120.png"
+    "image": "kono-delight-art-100-120.avif"
   },
   {
     "company": "KONO!",
@@ -2309,7 +2309,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871971698-kono-delight-art-film-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Delight%20Art%20100%22",
-    "image": "kono-delight-art-100-135.png"
+    "image": "kono-delight-art-100-135.avif"
   },
   {
     "company": "KONO!",
@@ -2326,7 +2326,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Delight%20Art%20400%22",
-    "image": "kono-delight-art-400-120.png"
+    "image": "kono-delight-art-400-120.avif"
   },
   {
     "company": "KONO!",
@@ -2343,7 +2343,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Delight%20Art%20400%22",
-    "image": "kono-delight-art-400-135.png"
+    "image": "kono-delight-art-400-135.avif"
   },
   {
     "company": "KONO!",
@@ -2360,7 +2360,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871966399-kono-katz/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Katz%22",
-    "image": "kono-katz-135.png"
+    "image": "kono-katz-135.avif"
   },
   {
     "company": "KONO!",
@@ -2377,7 +2377,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871964753-kono-liebe/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Liebe%22",
-    "image": "kono-liebe-135.png"
+    "image": "kono-liebe-135.avif"
   },
   {
     "company": "KONO!",
@@ -2394,7 +2394,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871966577-kono-luft-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Luft%22",
-    "image": "kono-luft-135.png"
+    "image": "kono-luft-135.avif"
   },
   {
     "company": "KONO!",
@@ -2411,7 +2411,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871973411-kono-monolit-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22KONO!%20MONOLIT%20100%22",
-    "image": "kono-monolit-100-135.png"
+    "image": "kono-monolit-100-135.avif"
   },
   {
     "company": "KONO!",
@@ -2428,7 +2428,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "",
-    "image": "kono-monolit-3-135.png"
+    "image": "kono-monolit-3-135.avif"
   },
   {
     "company": "KONO!",
@@ -2445,7 +2445,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871972403-kono-monolit-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Monolit%20400%22",
-    "image": "kono-monolit-400-135.png"
+    "image": "kono-monolit-400-135.avif"
   },
   {
     "company": "KONO!",
@@ -2462,7 +2462,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871967801-kono-monolit-64/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Monolit%2064%22",
-    "image": "kono-monolit-64-135.png"
+    "image": "kono-monolit-64-135.avif"
   },
   {
     "company": "KONO!",
@@ -2479,7 +2479,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871962377-kono-rekorder-100-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Rekorder%22",
-    "image": "kono-rekorder-100-200-135.png"
+    "image": "kono-rekorder-100-200-135.avif"
   },
   {
     "company": "KONO!",
@@ -2496,7 +2496,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871970229-kono-rotwild-no-2/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Rotwild%20No%202%22",
-    "image": "kono-rotwild-100-400-135.png"
+    "image": "kono-rotwild-100-400-135.avif"
   },
   {
     "company": "KONO!",
@@ -2513,7 +2513,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871966511-kono-ufo-200-35mm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20UFO%22",
-    "image": "kono-ufo-135.png"
+    "image": "kono-ufo-135.avif"
   },
   {
     "company": "KONO!",
@@ -2530,7 +2530,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969859-kono-wintermarchen/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kono%20Winterm%C3%A4rchen%22",
-    "image": "kono-wintermaerchen-135.png"
+    "image": "kono-wintermaerchen-135.avif"
   },
   {
     "company": "Kosmo",
@@ -2547,7 +2547,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871973275-kosmo-foto-agent-shadow-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kosmo%20Foto%20Agent%20Shadow%22",
-    "image": "kosmo-foto-agent-shadow-400-135.png"
+    "image": "kosmo-foto-agent-shadow-400-135.avif"
   },
   {
     "company": "Kosmo",
@@ -2564,7 +2564,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871966555-kosmo-foto-mono-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kosmo%20Foto%20Mono%22",
-    "image": "kosmo-foto-mono-100-120.png"
+    "image": "kosmo-foto-mono-100-120.avif"
   },
   {
     "company": "Kosmo",
@@ -2581,7 +2581,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871966555-kosmo-foto-mono-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Kosmo%20Foto%20Mono%22",
-    "image": "kosmo-foto-mono-100-135.png"
+    "image": "kosmo-foto-mono-100-135.avif"
   },
   {
     "company": "Lomography",
@@ -2598,7 +2598,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-babylon-13.pdf",
     "lomography": "https://www.lomography.com/films/871969874-babylon-kino-b-w-35-mm-iso-13/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Babylon%2013%22",
-    "image": "lomography-babylon-13-135.png"
+    "image": "lomography-babylon-13-135.avif"
   },
   {
     "company": "Lomography",
@@ -2615,7 +2615,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-berlin-400.pdf",
     "lomography": "https://www.lomography.com/films/871967606-lomography-berlin-kino-400-iso/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Berlin%20400%22",
-    "image": "lomography-berlin-400-120.png"
+    "image": "lomography-berlin-400-120.avif"
   },
   {
     "company": "Lomography",
@@ -2632,7 +2632,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-berlin-400.pdf",
     "lomography": "https://www.lomography.com/films/871967606-lomography-berlin-kino-400-iso/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Berlin%20400%22",
-    "image": "lomography-berlin-400-135.png"
+    "image": "lomography-berlin-400-135.avif"
   },
   {
     "company": "Lomography",
@@ -2649,7 +2649,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-color-negative-100.pdf",
     "lomography": "https://www.lomography.com/films/871910961-lomography-color-negative-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20100%22",
-    "image": "lomography-color-negative-100-120.png"
+    "image": "lomography-color-negative-100-120.avif"
   },
   {
     "company": "Lomography",
@@ -2666,7 +2666,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-color-negative-100.pdf",
     "lomography": "https://www.lomography.com/films/871910961-lomography-color-negative-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20100%22",
-    "image": "lomography-color-negative-100-135.png"
+    "image": "lomography-color-negative-100-135.avif"
   },
   {
     "company": "Lomography",
@@ -2683,7 +2683,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-color-negative-400.pdf",
     "lomography": "https://www.lomography.com/films/871962160-lomography-color-negative-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20400%22",
-    "image": "lomography-color-negative-400-120.png"
+    "image": "lomography-color-negative-400-120.avif"
   },
   {
     "company": "Lomography",
@@ -2700,7 +2700,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-color-negative-400.pdf",
     "lomography": "https://www.lomography.com/films/871962160-lomography-color-negative-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20400%22",
-    "image": "lomography-color-negative-400-135.png"
+    "image": "lomography-color-negative-400-135.avif"
   },
   {
     "company": "Lomography",
@@ -2717,7 +2717,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-color-negative-800.pdf",
     "lomography": "https://www.lomography.com/films/871921449-lomography-color-negative-800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20800%22",
-    "image": "lomography-color-negative-800-120.png"
+    "image": "lomography-color-negative-800-120.avif"
   },
   {
     "company": "Lomography",
@@ -2734,7 +2734,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-color-negative-800.pdf",
     "lomography": "https://www.lomography.com/films/871921449-lomography-color-negative-800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Color%20Negative%20800%22",
-    "image": "lomography-color-negative-800-135.png"
+    "image": "lomography-color-negative-800-135.avif"
   },
   {
     "company": "Lomography",
@@ -2751,7 +2751,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-earl-grey-100.pdf",
     "lomography": "https://www.lomography.com/films/871942379-lomography-earl-grey-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Earl%20Grey%22",
-    "image": "lomography-earl-grey-100-120.png"
+    "image": "lomography-earl-grey-100-120.avif"
   },
   {
     "company": "Lomography",
@@ -2768,7 +2768,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-earl-grey-100.pdf",
     "lomography": "https://www.lomography.com/films/871942379-lomography-earl-grey-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Earl%20Grey%22",
-    "image": "lomography-earl-grey-100-135.png"
+    "image": "lomography-earl-grey-100-135.avif"
   },
   {
     "company": "Lomography",
@@ -2785,7 +2785,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-fantome-8.pdf",
     "lomography": "https://www.lomography.com/films/871969872-fantome-kino-b-w-35-mm-iso-8/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Fantome%208%22",
-    "image": "lomography-fantome-8-135.png"
+    "image": "lomography-fantome-8-135.avif"
   },
   {
     "company": "Lomography",
@@ -2802,7 +2802,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lady-grey-400.pdf",
     "lomography": "https://www.lomography.com/films/871963407-lomography-lady-grey-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lady%20Grey%22",
-    "image": "lomography-lady-grey-400-120.png"
+    "image": "lomography-lady-grey-400-120.avif"
   },
   {
     "company": "Lomography",
@@ -2819,7 +2819,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lady-grey-400.pdf",
     "lomography": "https://www.lomography.com/films/871963407-lomography-lady-grey-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lady%20Grey%22",
-    "image": "lomography-lady-grey-400-135.png"
+    "image": "lomography-lady-grey-400-135.avif"
   },
   {
     "company": "Lomography",
@@ -2836,7 +2836,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lobster-200.pdf",
     "lomography": "https://www.lomography.com/films/871962641-lomography-110-lobster/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lobster%22",
-    "image": "lomography-lobster-200-110.png"
+    "image": "lomography-lobster-200-110.avif"
   },
   {
     "company": "Lomography",
@@ -2853,7 +2853,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871974196-lomochrome-color-92-iso-400-35-mm-film/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lomochrome%20Color%20%E2%80%9992%22",
-    "image": "lomography-lomochrome-color-92-400-120.png"
+    "image": "lomography-lomochrome-color-92-400-120.avif"
   },
   {
     "company": "Lomography",
@@ -2870,7 +2870,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871974196-lomochrome-color-92-iso-400-35-mm-film/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lomochrome%20Color%20%E2%80%9992%22",
-    "image": "lomography-lomochrome-color-92-400-135.png"
+    "image": "lomography-lomochrome-color-92-400-135.avif"
   },
   {
     "company": "Lomography",
@@ -2887,7 +2887,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871974196-lomochrome-color-92-iso-400-35-mm-film/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Lomochrome%20Color%20%E2%80%9992%22",
-    "image": "lomography-lomochrome-color-92-400-110.png"
+    "image": "lomography-lomochrome-color-92-400-110.avif"
   },
   {
     "company": "Lomography",
@@ -2904,7 +2904,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lomochrome-metropolis-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871968570-lomochrome-metropolis-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomochrome%20Metropolis%22",
-    "image": "lomography-lomochrome-metropolis-100-400-120.png"
+    "image": "lomography-lomochrome-metropolis-100-400-120.avif"
   },
   {
     "company": "Lomography",
@@ -2921,7 +2921,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lomochrome-metropolis-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871968570-lomochrome-metropolis-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomochrome%20Metropolis%22",
-    "image": "lomography-lomochrome-metropolis-100-400-135.png"
+    "image": "lomography-lomochrome-metropolis-100-400-135.avif"
   },
   {
     "company": "Lomography",
@@ -2938,7 +2938,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lomochrome-metropolis-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871968570-lomochrome-metropolis-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomochrome%20Metropolis%22",
-    "image": "lomography-lomochrome-metropolis-100-400-110.png"
+    "image": "lomography-lomochrome-metropolis-100-400-110.avif"
   },
   {
     "company": "Lomography",
@@ -2955,7 +2955,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lomochrome-purple-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871963650-lomography-lomochrome-purple-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomochrome%20Purple%22",
-    "image": "lomography-lomochrome-purple-100-400-120.png"
+    "image": "lomography-lomochrome-purple-100-400-120.avif"
   },
   {
     "company": "Lomography",
@@ -2972,7 +2972,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lomochrome-purple-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871963650-lomography-lomochrome-purple-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomochrome%20Purple%22",
-    "image": "lomography-lomochrome-purple-100-400-135.png"
+    "image": "lomography-lomochrome-purple-100-400-135.avif"
   },
   {
     "company": "Lomography",
@@ -2989,7 +2989,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lomochrome-purple-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871963650-lomography-lomochrome-purple-xr-100-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomochrome%20Purple%22",
-    "image": "lomography-lomochrome-purple-100-400-110.png"
+    "image": "lomography-lomochrome-purple-100-400-110.avif"
   },
   {
     "company": "Lomography",
@@ -3006,7 +3006,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lomochrome-turquoise-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871960762-lomography-lomochrome-turquoise-xr-100-400-35mm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomochrome%20Turquoise%22",
-    "image": "lomography-lomochrome-turquoise-100-400-120.png"
+    "image": "lomography-lomochrome-turquoise-100-400-120.avif"
   },
   {
     "company": "Lomography",
@@ -3023,7 +3023,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lomochrome-turquoise-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871960762-lomography-lomochrome-turquoise-xr-100-400-35mm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomochrome%20Turquoise%22",
-    "image": "lomography-lomochrome-turquoise-100-400-135.png"
+    "image": "lomography-lomochrome-turquoise-100-400-135.avif"
   },
   {
     "company": "Lomography",
@@ -3040,7 +3040,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-lomochrome-turquoise-100-400.pdf",
     "lomography": "https://www.lomography.com/films/871960762-lomography-lomochrome-turquoise-xr-100-400-35mm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomochrome%20Turquoise%22",
-    "image": "lomography-lomochrome-turquoise-100-400-110.png"
+    "image": "lomography-lomochrome-turquoise-100-400-110.avif"
   },
   {
     "company": "Lomography",
@@ -3057,7 +3057,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-orca-100.pdf",
     "lomography": "https://www.lomography.com/films/871949443-lomography-orca-100-b-w-110/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Orca%22",
-    "image": "lomography-orca-100-110.png"
+    "image": "lomography-orca-100-110.avif"
   },
   {
     "company": "Lomography",
@@ -3074,7 +3074,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-peacock-200.pdf",
     "lomography": "https://www.lomography.com/films/871953523-lomography-x-pro-peacock-110/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Peacock%22",
-    "image": "lomography-peacock-200-110.png"
+    "image": "lomography-peacock-200-110.avif"
   },
   {
     "company": "Lomography",
@@ -3091,7 +3091,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-potsdam-100.pdf",
     "lomography": "https://www.lomography.com/films/871968638-lomography-potsdam-kino-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Potsdam%20100%22",
-    "image": "lomography-potsdam-100-120.png"
+    "image": "lomography-potsdam-100-120.avif"
   },
   {
     "company": "Lomography",
@@ -3108,7 +3108,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-potsdam-100.pdf",
     "lomography": "https://www.lomography.com/films/871968638-lomography-potsdam-kino-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Potsdam%20100%22",
-    "image": "lomography-potsdam-100-135.png"
+    "image": "lomography-potsdam-100-135.avif"
   },
   {
     "company": "Lomography",
@@ -3125,7 +3125,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-redscale-50-200.pdf",
     "lomography": "https://www.lomography.com/films/871927258-lomography-redscale-xr-50-200-120/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Redscale%22",
-    "image": "lomography-redscale-50-200-120.png"
+    "image": "lomography-redscale-50-200-120.avif"
   },
   {
     "company": "Lomography",
@@ -3142,7 +3142,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-redscale-50-200.pdf",
     "lomography": "https://www.lomography.com/films/871928461-lomography-redscale-xr-50-200-35mm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Redscale%22",
-    "image": "lomography-redscale-50-200-135.png"
+    "image": "lomography-redscale-50-200-135.avif"
   },
   {
     "company": "Lomography",
@@ -3159,7 +3159,7 @@ var currentfilms = [
     "datasheet": "datasheets/lomography-tiger-200.pdf",
     "lomography": "https://www.lomography.com/films/871949468-lomography-color-tiger-200-110/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Lomography%20Tiger%20200%22",
-    "image": "lomography-tiger-200-110.png"
+    "image": "lomography-tiger-200-110.avif"
   },
   {
     "company": "Reflx Lab",
@@ -3176,7 +3176,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-50d.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22reflx%20lab%20100D%22",
-    "image": "reflx-lab-100d-135.png"
+    "image": "reflx-lab-100d-135.avif"
   },
   {
     "company": "Reflx Lab",
@@ -3193,7 +3193,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-ektachrome-100d.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Reflx%20Lab%20100R%22",
-    "image": "reflx-lab-100r-135.png"
+    "image": "reflx-lab-100r-135.avif"
   },
   {
     "company": "Reflx Lab",
@@ -3210,7 +3210,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-250d.pdf",
     "lomography": "",
     "flickr": "",
-    "image": "reflx-lab-250d-135.png"
+    "image": "reflx-lab-250d-135.avif"
   },
   {
     "company": "Reflx Lab",
@@ -3227,7 +3227,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-250d.pdf",
     "lomography": "https://www.lomography.com/films/871973175-reflx-lab-400d/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22reflx%20lab%20400D%22",
-    "image": "reflx-lab-400d-135.png"
+    "image": "reflx-lab-400d-135.avif"
   },
   {
     "company": "Reflx Lab",
@@ -3244,7 +3244,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-500t.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Reflx%20Lab%20500T%22",
-    "image": "reflx-lab-500t-120.png"
+    "image": "reflx-lab-500t-120.avif"
   },
   {
     "company": "Reflx Lab",
@@ -3261,7 +3261,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-500t.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Reflx%20Lab%20500T%22",
-    "image": "reflx-lab-500t-135.png"
+    "image": "reflx-lab-500t-135.avif"
   },
   {
     "company": "Reflx Lab",
@@ -3278,7 +3278,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-500t.pdf",
     "lomography": "https://www.lomography.com/films/871974056-reflx-lab-800t/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22reflx%20lab%20800T%22",
-    "image": "reflx-lab-800t-135.png"
+    "image": "reflx-lab-800t-135.avif"
   },
   {
     "company": "Reflx Lab",
@@ -3295,7 +3295,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-eastman-double-x.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Reflx%20Lab%20Double%20X%22",
-    "image": "reflx-lab-double-x-135.png"
+    "image": "reflx-lab-double-x-135.avif"
   },
   {
     "company": "Reflx Lab",
@@ -3312,7 +3312,7 @@ var currentfilms = [
     "datasheet": "datasheets/foma-fomapan-400.pdf",
     "lomography": "https://www.lomography.com/films/871974028-reflx-lab-pan-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22reflx%20lab%20Pan400%22",
-    "image": "reflx-lab-pan400-135.png"
+    "image": "reflx-lab-pan400-135.avif"
   },
   {
     "company": "Reflx Lab",
@@ -3329,7 +3329,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-aerocolor-iv.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22reflx%20lab%20Pro%20100%22",
-    "image": "reflx-lab-pro-100-135.png"
+    "image": "reflx-lab-pro-100-135.avif"
   },
   {
     "company": "Reto Project",
@@ -3346,7 +3346,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-50d.pdf",
     "lomography": "https://www.lomography.com/films/871973484-amber-d100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Amber%20D100%22",
-    "image": "reto-amber-d100-135.png"
+    "image": "reto-amber-d100-135.avif"
   },
   {
     "company": "Reto Project",
@@ -3363,7 +3363,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-250d.pdf",
     "lomography": "https://www.lomography.com/films/871973459-amber-d400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Amber%20D400%22",
-    "image": "reto-amber-d400-135.png"
+    "image": "reto-amber-d400-135.avif"
   },
   {
     "company": "Reto Project",
@@ -3380,7 +3380,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-200t.pdf",
     "lomography": "https://www.lomography.com/films/871973886-amber-t200-tungsten/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Amber%20T200%22",
-    "image": "reto-amber-t200-135.png"
+    "image": "reto-amber-t200-135.avif"
   },
   {
     "company": "Reto Project",
@@ -3397,7 +3397,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-500t.pdf",
     "lomography": "https://www.lomography.com/films/871972990-amber-t800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Amber%20T800%22",
-    "image": "reto-amber-t800-135.png"
+    "image": "reto-amber-t800-135.avif"
   },
   {
     "company": "Reto Project",
@@ -3414,7 +3414,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "",
-    "image": "reto-aqua-400-135.png"
+    "image": "reto-aqua-400-135.avif"
   },
   {
     "company": "Reto Project",
@@ -3431,7 +3431,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Retocolor%20Glow%20400%22",
-    "image": "reto-glow-400-135.png"
+    "image": "reto-glow-400-135.avif"
   },
   {
     "company": "Revolog",
@@ -3448,7 +3448,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871935758-revolog-460nm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20460nm%22",
-    "image": "revolog-460nm-120.png"
+    "image": "revolog-460nm-120.avif"
   },
   {
     "company": "Revolog",
@@ -3465,7 +3465,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871935758-revolog-460nm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20460nm%22",
-    "image": "revolog-460nm-135.png"
+    "image": "revolog-460nm-135.avif"
   },
   {
     "company": "Revolog",
@@ -3482,7 +3482,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871934394-revolog-600nm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20600nm%22",
-    "image": "revolog-600nm-120.png"
+    "image": "revolog-600nm-120.avif"
   },
   {
     "company": "Revolog",
@@ -3499,7 +3499,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871934394-revolog-600nm/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20600nm%22",
-    "image": "revolog-600nm-135.png"
+    "image": "revolog-600nm-135.avif"
   },
   {
     "company": "Revolog",
@@ -3516,7 +3516,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871934240-revolog-kolor/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Kolor%22",
-    "image": "revolog-kolor-135.png"
+    "image": "revolog-kolor-135.avif"
   },
   {
     "company": "Revolog",
@@ -3533,7 +3533,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871966096-revolog-kosmos/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Kosmos%22",
-    "image": "revolog-kosmos-135.png"
+    "image": "revolog-kosmos-135.avif"
   },
   {
     "company": "Revolog",
@@ -3550,7 +3550,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871940680-revolog-lazer/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Lazer%22",
-    "image": "revolog-lazer-135.png"
+    "image": "revolog-lazer-135.avif"
   },
   {
     "company": "Revolog",
@@ -3567,7 +3567,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871971394-revolog-nebula/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Nebula%22",
-    "image": "revolog-nebula-135.png"
+    "image": "revolog-nebula-135.avif"
   },
   {
     "company": "Revolog",
@@ -3584,7 +3584,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871972616-revolog-paper/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Paper%22",
-    "image": "revolog-paper-135.png"
+    "image": "revolog-paper-135.avif"
   },
   {
     "company": "Revolog",
@@ -3601,7 +3601,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871962440-revolog-plexus/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Plexus%22",
-    "image": "revolog-plexus-135.png"
+    "image": "revolog-plexus-135.avif"
   },
   {
     "company": "Revolog",
@@ -3618,7 +3618,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871935757-revolog-rasp/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Rasp%22",
-    "image": "revolog-rasp-135.png"
+    "image": "revolog-rasp-135.avif"
   },
   {
     "company": "Revolog",
@@ -3635,7 +3635,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871965552-revolog-snovlox/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Snovlox%22",
-    "image": "revolog-snovlox-135.png"
+    "image": "revolog-snovlox-135.avif"
   },
   {
     "company": "Revolog",
@@ -3652,7 +3652,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871951497-revolog-streak/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Streak%22",
-    "image": "revolog-streak-135.png"
+    "image": "revolog-streak-135.avif"
   },
   {
     "company": "Revolog",
@@ -3669,7 +3669,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871938006-revolog-tesla-1/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Tesla%201%22",
-    "image": "revolog-tesla-1-135.png"
+    "image": "revolog-tesla-1-135.avif"
   },
   {
     "company": "Revolog",
@@ -3686,7 +3686,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871940679-revolog-tesla-2/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Tesla%202%22",
-    "image": "revolog-tesla-2-135.png"
+    "image": "revolog-tesla-2-135.avif"
   },
   {
     "company": "Revolog",
@@ -3703,7 +3703,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871934448-revolog-texture/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Texture%22",
-    "image": "revolog-texture-135.png"
+    "image": "revolog-texture-135.avif"
   },
   {
     "company": "Revolog",
@@ -3720,7 +3720,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871934524-revolog-volvox/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22revolog%20Volvox%22",
-    "image": "revolog-volvox-135.png"
+    "image": "revolog-volvox-135.avif"
   },
   {
     "company": "Rollei",
@@ -3737,7 +3737,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-infrared-400.pdf",
     "lomography": "https://www.lomography.com/films/871913788-rollei-infrared-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Infrared%20400%22",
-    "image": "rollei-infrared-400-120.png"
+    "image": "rollei-infrared-400-120.avif"
   },
   {
     "company": "Rollei",
@@ -3754,7 +3754,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-infrared-400.pdf",
     "lomography": "https://www.lomography.com/films/871913788-rollei-infrared-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Infrared%20400%22",
-    "image": "rollei-infrared-400-135.png"
+    "image": "rollei-infrared-400-135.avif"
   },
   {
     "company": "Rollei",
@@ -3771,7 +3771,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-ortho-25.pdf",
     "lomography": "https://www.lomography.com/films/871966115-rollei-ortho-25/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Ortho%2025%22",
-    "image": "rollei-ortho-25-120.png"
+    "image": "rollei-ortho-25-120.avif"
   },
   {
     "company": "Rollei",
@@ -3788,7 +3788,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-ortho-25.pdf",
     "lomography": "https://www.lomography.com/films/871966115-rollei-ortho-25/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Ortho%2025%22",
-    "image": "rollei-ortho-25-135.png"
+    "image": "rollei-ortho-25-135.avif"
   },
   {
     "company": "Rollei",
@@ -3805,7 +3805,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-retro-400s.pdf",
     "lomography": "https://www.lomography.com/films/871919398-rollei-retro-400s/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Retro%20400S%22",
-    "image": "rollei-retro-400s-120.png"
+    "image": "rollei-retro-400s-120.avif"
   },
   {
     "company": "Rollei",
@@ -3822,7 +3822,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-retro-400s.pdf",
     "lomography": "https://www.lomography.com/films/871919398-rollei-retro-400s/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Retro%20400S%22",
-    "image": "rollei-retro-400s-135.png"
+    "image": "rollei-retro-400s-135.avif"
   },
   {
     "company": "Rollei",
@@ -3839,7 +3839,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-retro-80s.pdf",
     "lomography": "https://www.lomography.com/films/871930991-rollei-retro-80s/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Retro%2080S%22",
-    "image": "rollei-retro-80s-120.png"
+    "image": "rollei-retro-80s-120.avif"
   },
   {
     "company": "Rollei",
@@ -3856,7 +3856,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-retro-80s.pdf",
     "lomography": "https://www.lomography.com/films/871930991-rollei-retro-80s/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Retro%2080S%22",
-    "image": "rollei-retro-80s-135.png"
+    "image": "rollei-retro-80s-135.avif"
   },
   {
     "company": "Rollei",
@@ -3873,7 +3873,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-rpx-100.pdf",
     "lomography": "https://www.lomography.com/films/871963108-rollei-rpx-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20RPX%20100%22",
-    "image": "rollei-rpx-100-120.png"
+    "image": "rollei-rpx-100-120.avif"
   },
   {
     "company": "Rollei",
@@ -3890,7 +3890,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-rpx-100.pdf",
     "lomography": "https://www.lomography.com/films/871963108-rollei-rpx-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20RPX%20100%22",
-    "image": "rollei-rpx-100-135.png"
+    "image": "rollei-rpx-100-135.avif"
   },
   {
     "company": "Rollei",
@@ -3907,7 +3907,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-rpx-25.pdf",
     "lomography": "https://www.lomography.com/films/871959684-rollei-rpx-25/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20RPX%2025%22",
-    "image": "rollei-rpx-25-120.png"
+    "image": "rollei-rpx-25-120.avif"
   },
   {
     "company": "Rollei",
@@ -3924,7 +3924,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-rpx-25.pdf",
     "lomography": "https://www.lomography.com/films/871959684-rollei-rpx-25/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20RPX%2025%22",
-    "image": "rollei-rpx-25-135.png"
+    "image": "rollei-rpx-25-135.avif"
   },
   {
     "company": "Rollei",
@@ -3941,7 +3941,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-rpx-400.pdf",
     "lomography": "https://www.lomography.com/films/871934897-rollei-rpx-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20RPX%20400%22",
-    "image": "rollei-rpx-400-120.png"
+    "image": "rollei-rpx-400-120.avif"
   },
   {
     "company": "Rollei",
@@ -3958,7 +3958,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-rpx-400.pdf",
     "lomography": "https://www.lomography.com/films/871934897-rollei-rpx-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20RPX%20400%22",
-    "image": "rollei-rpx-400-135.png"
+    "image": "rollei-rpx-400-135.avif"
   },
   {
     "company": "Rollei",
@@ -3975,7 +3975,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-superpan-200.pdf",
     "lomography": "https://www.lomography.com/films/871957145-rollei-superpan-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Superpan%20200%22",
-    "image": "rollei-superpan-200-120.png"
+    "image": "rollei-superpan-200-120.avif"
   },
   {
     "company": "Rollei",
@@ -3992,7 +3992,7 @@ var currentfilms = [
     "datasheet": "datasheets/rollei-superpan-200.pdf",
     "lomography": "https://www.lomography.com/films/871957145-rollei-superpan-200/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Rollei%20Superpan%20200%22",
-    "image": "rollei-superpan-200-135.png"
+    "image": "rollei-superpan-200-135.avif"
   },
   {
     "company": "SantaColor",
@@ -4009,7 +4009,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-aerocolor-iv.pdf",
     "lomography": "https://www.lomography.com/films/871973659-santacolor-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Santacolor%20100%22",
-    "image": "santacolor-100-135.png"
+    "image": "santacolor-100-135.avif"
   },
   {
     "company": "Shanghai",
@@ -4026,7 +4026,7 @@ var currentfilms = [
     "datasheet": "datasheets/orwo-un54.pdf",
     "lomography": "https://www.lomography.com/films/871927716-shanghai-gp3-pan-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Shanghai%20GP3%20Pan%20100%22",
-    "image": "shanghai-gp3-pan-100-120.png"
+    "image": "shanghai-gp3-pan-100-120.avif"
   },
   {
     "company": "Shanghai",
@@ -4043,7 +4043,7 @@ var currentfilms = [
     "datasheet": "datasheets/orwo-un54.pdf",
     "lomography": "https://www.lomography.com/films/871927716-shanghai-gp3-pan-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Shanghai%20GP3%20Pan%20100%22",
-    "image": "shanghai-gp3-pan-100-135.png"
+    "image": "shanghai-gp3-pan-100-135.avif"
   },
   {
     "company": "Shanghai",
@@ -4060,7 +4060,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871970150-shanghai-gp3-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Shanghai%20GP3%20Pan%20400%22",
-    "image": "shanghai-gp3-pan-400-120.png"
+    "image": "shanghai-gp3-pan-400-120.avif"
   },
   {
     "company": "Shanghai",
@@ -4077,7 +4077,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871970150-shanghai-gp3-400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Shanghai%20GP3%20Pan%20400%22",
-    "image": "shanghai-gp3-pan-400-135.png"
+    "image": "shanghai-gp3-pan-400-135.avif"
   },
   {
     "company": "Silberra",
@@ -4094,7 +4094,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871968408-silberra-color-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silberra%20Color%20100%22",
-    "image": "silberra-color-100-120.png"
+    "image": "silberra-color-100-120.avif"
   },
   {
     "company": "Silberra",
@@ -4111,7 +4111,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871968408-silberra-color-100/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silberra%20Color%20100%22",
-    "image": "silberra-color-100-135.png"
+    "image": "silberra-color-100-135.avif"
   },
   {
     "company": "Silberra",
@@ -4128,7 +4128,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871970820-silberra-color-160/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silberra%20Color%20160%22",
-    "image": "silberra-color-160-120.png"
+    "image": "silberra-color-160-120.avif"
   },
   {
     "company": "Silberra",
@@ -4145,7 +4145,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871970820-silberra-color-160/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silberra%20Color%20160%22",
-    "image": "silberra-color-160-135.png"
+    "image": "silberra-color-160-135.avif"
   },
   {
     "company": "Silberra",
@@ -4162,7 +4162,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871970899-silberra-color-50/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silberra%20Color%2050%22",
-    "image": "silberra-color-50-120.png"
+    "image": "silberra-color-50-120.avif"
   },
   {
     "company": "Silberra",
@@ -4179,7 +4179,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871970899-silberra-color-50/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silberra%20Color%2050%22",
-    "image": "silberra-color-50-135.png"
+    "image": "silberra-color-50-135.avif"
   },
   {
     "company": "Silbersalz35",
@@ -4196,7 +4196,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-50d.pdf",
     "lomography": "https://www.lomography.com/films/871969233-silbersalz-50d/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silbersalz35%20050D%22",
-    "image": "silbersalz35-050d-135.png"
+    "image": "silbersalz35-050d-135.avif"
   },
   {
     "company": "Silbersalz35",
@@ -4213,7 +4213,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-200t.pdf",
     "lomography": "https://www.lomography.com/films/871968492-silbersalz-200t/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silbersalz35%20200T%22",
-    "image": "silbersalz35-200t-135.png"
+    "image": "silbersalz35-200t-135.avif"
   },
   {
     "company": "Silbersalz35",
@@ -4230,7 +4230,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-250d.pdf",
     "lomography": "https://www.lomography.com/films/871968254-silbersalz-250d/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silbersalz35%20250D%22",
-    "image": "silbersalz35-250d-135.png"
+    "image": "silbersalz35-250d-135.avif"
   },
   {
     "company": "Silbersalz35",
@@ -4247,7 +4247,7 @@ var currentfilms = [
     "datasheet": "datasheets/kodak-vision3-500t.pdf",
     "lomography": "https://www.lomography.com/films/871969230-silbersalz-500t/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silbersalz35%20500T%22",
-    "image": "silbersalz35-500t-135.png"
+    "image": "silbersalz35-500t-135.avif"
   },
   {
     "company": "Street Candy",
@@ -4264,7 +4264,7 @@ var currentfilms = [
     "datasheet": "datasheets/street-candy-mtn-100.pdf",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Street%20Candy%20MTN%20100%22",
-    "image": "street-candy-mtn-100-135.png"
+    "image": "street-candy-mtn-100-135.avif"
   },
   {
     "company": "YODICA",
@@ -4281,7 +4281,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969161-yodica-andromeda/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Yodica%20Andromeda%22",
-    "image": "yodica-andromeda-135.png"
+    "image": "yodica-andromeda-135.avif"
   },
   {
     "company": "YODICA",
@@ -4298,7 +4298,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871969322-yodica-antares/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Yodica%20Antares%22",
-    "image": "yodica-antares-135.png"
+    "image": "yodica-antares-135.avif"
   },
   {
     "company": "YODICA",
@@ -4315,7 +4315,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871967335-yodica-atlas/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Yodica%20Atlas%22",
-    "image": "yodica-atlas-135.png"
+    "image": "yodica-atlas-135.avif"
   },
   {
     "company": "YODICA",
@@ -4332,7 +4332,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871971780-yodica-callisto/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Yodica%20Callisto%22",
-    "image": "yodica-callisto-135.png"
+    "image": "yodica-callisto-135.avif"
   },
   {
     "company": "YODICA",
@@ -4349,7 +4349,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871967577-yodica-pegasus/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Yodica%20Pegasus%22",
-    "image": "yodica-pegasus-135.png"
+    "image": "yodica-pegasus-135.avif"
   },
   {
     "company": "YODICA",
@@ -4366,7 +4366,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871967430-yodica-polaris/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Yodica%20Polaris%22",
-    "image": "yodica-polaris-135.png"
+    "image": "yodica-polaris-135.avif"
   },
   {
     "company": "YODICA",
@@ -4383,7 +4383,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871967518-yodica-sirio/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Yodica%20Sirio%22",
-    "image": "yodica-sirio-135.png"
+    "image": "yodica-sirio-135.avif"
   },
   {
     "company": "YODICA",
@@ -4400,6 +4400,6 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "https://www.lomography.com/films/871967834-yodica-vega/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Yodica%20Vega%22",
-    "image": "yodica-vega-135.png"
+    "image": "yodica-vega-135.avif"
   }
 ]

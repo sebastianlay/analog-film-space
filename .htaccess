@@ -11,7 +11,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
 
-<filesMatch ".(ico|pdf|flv|jpg|jpeg|png|gif|svg|js|css|swf|woff2)$">
+<filesMatch ".(ico|pdf|flv|jpg|jpeg|png|gif|svg|avif|js|css|swf|woff2)$">
   Header set Cache-Control "max-age=8380800, public"
 </filesMatch>
 
