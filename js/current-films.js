@@ -643,7 +643,7 @@ var currentfilms = [
     "datasheet": "",
     "lomography": "",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Ferrania%20Orto%2050%22",
-    "image": "random.avif"
+    "image": "ferrania-orto-50-120.avif"
   },
   {
     "company": "Ferrania",
