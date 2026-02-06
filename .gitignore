@@ -1,3 +1,5 @@
 *.exe
 *.psd
-_images
+_images/*
+!_images/.gitkeep
+.venv
