@@ -187,6 +187,40 @@ var discontinuedfilms = [
     "image": "film-washi-x-400-135.png"
   },
   {
+    "company": "Film Washi",
+    "name": "Film Washi V 100",
+    "iso": 100,
+    "format": "135",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "",
+    "price": 3,
+    "popularity": 30,
+    "description": "panchromatic film on Gampi paper with a clearly visible texture",
+    "launched": 2017,
+    "datasheet": "datasheets/film-washi-v-100.pdf",
+    "lomography": "https://www.lomography.com/films/871966361-film-washi-v/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Film%20Washi%20V%22",
+    "image": "film-washi-v-100-135.avif"
+  },
+  {
+    "company": "Film Washi",
+    "name": "Film Washi V 100",
+    "iso": 100,
+    "format": "120",
+    "color": "black & white",
+    "type": "",
+    "emulsion": "",
+    "price": 3,
+    "popularity": 30,
+    "description": "panchromatic film on Gampi paper with a clearly visible texture",
+    "launched": 2017,
+    "datasheet": "datasheets/film-washi-v-100.pdf",
+    "lomography": "https://www.lomography.com/films/871966361-film-washi-v/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Film%20Washi%20V%22",
+    "image": "film-washi-v-100-120.avif"
+  },
+  {
     "company": "Fujifilm",
     "name": "Fujifilm Pro 160NS",
     "iso": 160,
@@ -222,6 +256,23 @@ var discontinuedfilms = [
   },
   {
     "company": "Fujifilm",
+    "name": "Fujifilm Pro 400H",
+    "iso": 400,
+    "format": "120",
+    "color": "color",
+    "type": "(C-41)",
+    "emulsion": "",
+    "price": 2,
+    "popularity": 43485,
+    "description": "professional film with excellent skin tone rendition and natural color reproduction",
+    "launched": 2004,
+    "datasheet": "datasheets/fujifilm-pro-400h.pdf",
+    "lomography": "https://www.lomography.com/films/871912904-fuji-pro-400h/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Pro%20400H%22",
+    "image": "fujifilm-pro-400h-120.avif"
+  },
+  {
+    "company": "Fujifilm",
     "name": "Fujifilm Superia 200",
     "iso": 200,
     "format": "135",
@@ -253,6 +304,23 @@ var discontinuedfilms = [
     "lomography": "https://www.lomography.com/films/871939313-fujifilm-superia-venus-800/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Superia%20Venus%20800%22",
     "image": "images/fujifilm-superia-venus-800-135.png"
+  },
+  {
+    "company": "Fujifilm",
+    "name": "Fujifilm Superia X-TRA 400",
+    "iso": 400,
+    "format": "135",
+    "color": "color",
+    "type": "(C-41)",
+    "emulsion": "",
+    "price": 2,
+    "popularity": 25377,
+    "description": "consumer film for a variety of applications and super uniform fine grain technology",
+    "launched": 2011,
+    "datasheet": "datasheets/fujifilm-superia-x-tra-400.pdf",
+    "lomography": "https://www.lomography.com/films/871922012-fujifilm-superia-x-tra-400/photos",
+    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Fuji%20Superia%20X-TRA%20400%22",
+    "image": "fujifilm-superia-x-tra-400-135.avif"
   },
   {
     "company": "Rollei",
@@ -492,22 +560,5 @@ var discontinuedfilms = [
     "lomography": "https://www.lomography.com/films/871969182-silberra-u400/photos",
     "flickr": "https://www.flickr.com/search/?media=photos&text=%22Silberra%20U400%22",
     "image": "silberra-u400-135.png"
-  },
-  {
-    "company": "Street Candy",
-    "name": "Street Candy ATM 400",
-    "iso": 400,
-    "format": "135",
-    "color": "black & white",
-    "type": "",
-    "emulsion": "",
-    "price": 2,
-    "popularity": 228,
-    "description": "panchromatic film, intended for surveillance cameras, probably a rebranded version of Ilford HP5 Plus",
-    "launched": 2018,
-    "datasheet": "datasheets/street-candy-atm-400.pdf",
-    "lomography": "https://www.lomography.com/films/871967677-street-candy-atm-400/photos",
-    "flickr": "https://www.flickr.com/search/?media=photos&text=%22Street%20Candy%20ATM%20400%22",
-    "image": "street-candy-atm-400-135.png"
   }
 ]
