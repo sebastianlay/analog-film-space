@@ -1,0 +1,2587 @@
+[
+  {
+    "pack_id": "adox-chs-100-ii-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/adox-chs-100-ii-rollfilm-120.html"
+  },
+  {
+    "pack_id": "adox-chs-100-ii-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/adox-chs-100-ii-schwarzweissfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "adox-chs-100-ii-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/adox-chs-100-ii-kleinbildfilm-13536.html"
+  },
+  {
+    "pack_id": "adox-chs-100-ii-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/adox-chs-100-ii-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "adox-chs-100-ii-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/1016/adox-chs-100-ii-135-36"
+  },
+  {
+    "pack_id": "adox-cms-20-ii-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/adox-cms-20-rollfilm-120.html"
+  },
+  {
+    "pack_id": "adox-cms-20-ii-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/adox-cms-20-ii-13536-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "adox-hr-50-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/adox-hr-50-13536-mit-speed-boost.html"
+  },
+  {
+    "pack_id": "adox-scala-50-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/adox-scala-50-bw-13536.html"
+  },
+  {
+    "pack_id": "adox-scala-50-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/adox-scala-50-asa-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "agfaphoto-apx-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/agfaphoto-apx-100-13536-35-mm-new.html"
+  },
+  {
+    "pack_id": "agfaphoto-apx-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/agfaphoto-apx-100-135-36"
+  },
+  {
+    "pack_id": "agfaphoto-apx-100-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/agfaphoto-pan-apx-100-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "agfaphoto-apx-100-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/17/agfaphoto-apx-100-135-36"
+  },
+  {
+    "pack_id": "agfaphoto-apx-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/agfaphoto-apx-400-13536-35-mm-new.html"
+  },
+  {
+    "pack_id": "agfaphoto-apx-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/agfaphoto-apx-400-135-36"
+  },
+  {
+    "pack_id": "agfaphoto-apx-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/agfaphoto-pan-apx-400-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "agfaphoto-apx-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/285/agfaphoto-apx-400-135-36"
+  },
+  {
+    "pack_id": "bergger-pancro-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/bergger-pancro-400-120.html"
+  },
+  {
+    "pack_id": "bergger-pancro-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/bergger-pancro-400-rollfilm-120"
+  },
+  {
+    "pack_id": "bergger-pancro-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/bergger-pancro-400-135-36.html"
+  },
+  {
+    "pack_id": "bergger-pancro-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/bergger-pancro-400-135-36"
+  },
+  {
+    "pack_id": "cinestill-bwxx-250-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/cinestill-bwxx-120-double-x-sw-negativfilm-iso-250.html"
+  },
+  {
+    "pack_id": "cinestill-bwxx-250-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/cinestill-bwxx-double-x-250-rollfilm-120"
+  },
+  {
+    "pack_id": "cinestill-bwxx-250-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/cinestill-bwxx-double-x-iso-250-schwarzweissfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "cinestill-bwxx-250-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/cinestill-bwxx-double-x-schwarzweissfilm-iso-250-13536.html"
+  },
+  {
+    "pack_id": "cinestill-bwxx-250-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/cinestill-bwxx-double-x-250-135-36"
+  },
+  {
+    "pack_id": "cinestill-bwxx-250-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/cinestill-bwxx-double-x-iso-250-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-400d-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/cinestill-400dynamic-farbnegativfilm-120.html"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-400d-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/cinestill-400-dynamic-versatile-c-41-rollfilm-120"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-400d-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/cinestill-400-dynamic-negativ-farbfilm-120-einzel-rollfilm/"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-400d-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/cinestill-400dynamic-farbnegativfilm-13536.html"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-400d-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/cinestill-400-dynamic-versatile-c-41-135-36"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-400d-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/cinestill-400-dynamic-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-400d-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/2330/cinestillfilm-400-dynamic-135-36"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-50d-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/cinestill-50daylight-farbnegativfilm-120.html"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-50d-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/cinestill-50-daylight-xpro-c-41-rollfilm-120"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-50d-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/cinestill-xpro-50-daylight-negativ-farbfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-50d-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/farbe/374/cinestillfilm-50-daylight-120"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-50d-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/cinestill-50daylight-farbnegativfilm-13536.html"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-50d-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/cinestill-50-daylight-xpro-c-41-135-36"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-50d-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/cinestill-xpro-50-daylight-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-50d-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/170/cinestillfilm-50-daylight-135-36"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-800t-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/cinestill-800tungsten-farbnegativfilm-120.html"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-800t-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/cinestill-800-tungsten-xpro-c-41-rollfilm-120"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-800t-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/cinestill-xpro-800-tungsten-negativ-farbfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-800t-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/farbe/562/cinestillfilm-800-tungsten-120"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-800t-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/cinestill-800tungsten-farbnegativfilm-13536.html"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-800t-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/cinestill-800-tungsten-xpro-c-41-135-36"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-800t-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/cinestill-xpro-800-tungsten-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "cinestillfilm-cinestill-800t-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/565/cinestillfilm-800-tungsten-135-36"
+  },
+  {
+    "pack_id": "dubblefilm-apollo-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-apollo-120.html"
+  },
+  {
+    "pack_id": "dubblefilm-apollo-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-apollo-135-36.html"
+  },
+  {
+    "pack_id": "dubblefilm-apollo-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/dubblefilm-apollo-135-36"
+  },
+  {
+    "pack_id": "dubblefilm-bubblegum-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-bubblegum-120.html"
+  },
+  {
+    "pack_id": "dubblefilm-bubblegum-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-bubblegum-135-36.html"
+  },
+  {
+    "pack_id": "dubblefilm-bubblegum-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/dubblefilm-bubblegum-135-36"
+  },
+  {
+    "pack_id": "dubblefilm-cinema-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-cinema-135-36.html"
+  },
+  {
+    "pack_id": "dubblefilm-daily-black-white-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-daily-bw-400-36-aufnahmen-35.html"
+  },
+  {
+    "pack_id": "dubblefilm-glitch-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-glitch-iso-200-13536.html"
+  },
+  {
+    "pack_id": "dubblefilm-jelly-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-jelly-135-36.html"
+  },
+  {
+    "pack_id": "dubblefilm-jelly-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/dubblefilm-jelly-135-36"
+  },
+  {
+    "pack_id": "dubblefilm-pacific-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-pacific-120.html"
+  },
+  {
+    "pack_id": "dubblefilm-pacific-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-pacific-135-36.html"
+  },
+  {
+    "pack_id": "dubblefilm-pacific-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/dubblefilm-pacific-135-36"
+  },
+  {
+    "pack_id": "dubblefilm-solar-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-solar-135-36.html"
+  },
+  {
+    "pack_id": "dubblefilm-solar-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/dubblefilm-solar-135-36"
+  },
+  {
+    "pack_id": "dubblefilm-stereo-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-stereo-135-36.html"
+  },
+  {
+    "pack_id": "dubblefilm-stereo-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/dubblefilm-stereo-135-36"
+  },
+  {
+    "pack_id": "dubblefilm-treat-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/dubblefilm-treat-135-36.html"
+  },
+  {
+    "pack_id": "ferrania-orto-50-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/filmferrania-orto-120-50-iso.html"
+  },
+  {
+    "pack_id": "ferrania-orto-50-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/filmferrania-orto-13536-50-asa.html"
+  },
+  {
+    "pack_id": "ferrania-p30-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/filmferrania-p30-120-80-asa.html"
+  },
+  {
+    "pack_id": "ferrania-p30-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/filmferrania-p30-13536-80-asa.html"
+  },
+  {
+    "pack_id": "ferrania-p33-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/filmferrania-p33-13536-160-iso.html"
+  },
+  {
+    "pack_id": "film-washi-f-100-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/washi-f-100-sw-film-120.html"
+  },
+  {
+    "pack_id": "film-washi-f-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/washi-f-100-sw-film-13524.html"
+  },
+  {
+    "pack_id": "film-washi-w-25-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/washi-w-rollfilm-25-iso.html"
+  },
+  {
+    "pack_id": "film-washi-w-25-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/washi-w-kleinbildfilm-16-aufnahmen-25-iso.html"
+  },
+  {
+    "pack_id": "film-washi-x-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/washi-x-iso-100-135.html"
+  },
+  {
+    "pack_id": "film-washi-y-100-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/washi-y-iso-10021-120.html"
+  },
+  {
+    "pack_id": "film-washi-z-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/washi-z-400-iso-13524.html"
+  },
+  {
+    "pack_id": "flic-elektra-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/flicfilm-elektra-100-13536.html"
+  },
+  {
+    "pack_id": "foma-fomapan-100-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/foma-fomapan-100-rollfilm-120.html"
+  },
+  {
+    "pack_id": "foma-fomapan-100-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/fomapan-100-classic-rollfilm-120"
+  },
+  {
+    "pack_id": "foma-fomapan-100-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/foma-fomapan-classic-100-schwarzweissfilm-120/"
+  },
+  {
+    "pack_id": "foma-fomapan-100-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/558/fomapan-100-classic-120"
+  },
+  {
+    "pack_id": "foma-fomapan-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/foma-fomapan-100-13536-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "foma-fomapan-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/fomapan-100-classic-135-36"
+  },
+  {
+    "pack_id": "foma-fomapan-100-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/foma-fomapan-classic-100-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "foma-fomapan-100-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/168/fomapan-100-classic-135-36"
+  },
+  {
+    "pack_id": "foma-fomapan-100-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/fomapan-100-classic-135-36-3er-pack"
+  },
+  {
+    "pack_id": "foma-fomapan-200-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/foma-fomapan-200-rollfilm-120.html"
+  },
+  {
+    "pack_id": "foma-fomapan-200-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/fomapan-200-creative-rollfilm-120"
+  },
+  {
+    "pack_id": "foma-fomapan-200-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/foma-fomapan-creative-200-schwarzweissfilm-120/"
+  },
+  {
+    "pack_id": "foma-fomapan-200-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/559/fomapan-200-creative-120"
+  },
+  {
+    "pack_id": "foma-fomapan-200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/foma-fomapan-200-13536-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "foma-fomapan-200-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/fomapan-200-creative-135-36"
+  },
+  {
+    "pack_id": "foma-fomapan-200-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/foma-fomapan-creative-200-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "foma-fomapan-200-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/169/fomapan-200-creative-135-36"
+  },
+  {
+    "pack_id": "foma-fomapan-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/foma-fomapan-400-rollfilm-120.html"
+  },
+  {
+    "pack_id": "foma-fomapan-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/fomapan-400-action-rollfilm-120"
+  },
+  {
+    "pack_id": "foma-fomapan-400-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/foma-fomapan-action-400-schwarzweissfilm-120/"
+  },
+  {
+    "pack_id": "foma-fomapan-400-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/561/fomapan-400-action-120"
+  },
+  {
+    "pack_id": "foma-fomapan-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/foma-fomapan-400-13536-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "foma-fomapan-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/fomapan-400-action-135-36"
+  },
+  {
+    "pack_id": "foma-fomapan-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/foma-fomapan-action-400-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "foma-fomapan-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/165/fomapan-400-action-135-36"
+  },
+  {
+    "pack_id": "foma-fomapan-r-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/foma-fomapan-100-r-sw-diafilm-kleinbild-13536.html"
+  },
+  {
+    "pack_id": "foma-fomapan-r-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/fomapan-r-100-135-36"
+  },
+  {
+    "pack_id": "foma-fomapan-r-100-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/dia/1013/fomapan-100-r-135-36-mhd-10/26"
+  },
+  {
+    "pack_id": "foma-ortho-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/foma-ortho-400-120.html"
+  },
+  {
+    "pack_id": "foma-ortho-400-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/foma-ortho-400-schwarzweissfilm-120/"
+  },
+  {
+    "pack_id": "foma-ortho-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/foma-ortho-400-135-36.html"
+  },
+  {
+    "pack_id": "foma-ortho-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/foma-ortho-400-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "foma-retropan-320-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/foma-retropan-320-soft-rollfilm-120"
+  },
+  {
+    "pack_id": "foma-retropan-320-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/foma-retropan-320-soft-135-36"
+  },
+  {
+    "pack_id": "fujifilm-200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/fuji-fujicolor-200-135-36.html"
+  },
+  {
+    "pack_id": "fujifilm-200-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/fujifilm-200-135-36"
+  },
+  {
+    "pack_id": "fujifilm-200-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/fuji-200-speed-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "fujifilm-200-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/387/fujifilm-speed-200-135-36"
+  },
+  {
+    "pack_id": "fujifilm-200-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/fujifilm-200-135-36-3er-pack"
+  },
+  {
+    "pack_id": "fujifilm-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/fuji-fujicolor-400-135-36.html"
+  },
+  {
+    "pack_id": "fujifilm-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/fujifilm-400-135-36"
+  },
+  {
+    "pack_id": "fujifilm-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/fuji-400-speed-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "fujifilm-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/2684/fujifilm-speed-400-135-36"
+  },
+  {
+    "pack_id": "fujifilm-400-135-3",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/2860/fujifilm-400-135-36-3er-pack-color-negativ-film"
+  },
+  {
+    "pack_id": "fujifilm-c200-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/fujicolor-c200-135-36"
+  },
+  {
+    "pack_id": "fujifilm-neopan-acros-100-ii-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/fuji-neopan-acros-ii-neu-100-120.html"
+  },
+  {
+    "pack_id": "fujifilm-neopan-acros-100-ii-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/fuji-neopan-acros-ii-100-rollfilm-120"
+  },
+  {
+    "pack_id": "fujifilm-neopan-acros-100-ii-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/fuji-neopan-acros-100-ii-schwarzweissfilm-120/"
+  },
+  {
+    "pack_id": "fujifilm-neopan-acros-100-ii-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/fuji-neopan-acros-ii-100-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "fujifilm-neopan-acros-100-ii-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/fuji-neopan-acros-ii-neu-100-kleinbild-13536.html"
+  },
+  {
+    "pack_id": "fujifilm-neopan-acros-100-ii-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/fuji-neopan-acros-ii-100-135-36"
+  },
+  {
+    "pack_id": "fujifilm-provia-100f-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/fuji-provia-f-100-rollfilm-120-einzelner-film.html"
+  },
+  {
+    "pack_id": "fujifilm-provia-100f-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbdiafilm/fuji-provia-100-f-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "fujifilm-provia-100f-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/dia-farbfilme/fuji-provia-100-f-dia-farbfilm-umkehrfilm-120-rollfilm-5-stueck/"
+  },
+  {
+    "pack_id": "fujifilm-provia-100f-120-5",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/dia/548/fuji-provia-100f-120-5er"
+  },
+  {
+    "pack_id": "fujifilm-provia-100f-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/fuji-provia-f-100-kb-135.html"
+  },
+  {
+    "pack_id": "fujifilm-provia-100f-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbdiafilm/fuji-provia-100-f-135-36"
+  },
+  {
+    "pack_id": "fujifilm-provia-100f-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/dia-farbfilme/fuji-provia-100-f-dia-farbfilm-umkehrfilm-135-36/"
+  },
+  {
+    "pack_id": "fujifilm-provia-100f-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/dia/546/fuji-provia-100-f-135-36"
+  },
+  {
+    "pack_id": "fujifilm-velvia-100-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/fuji-velvia-100-120.html"
+  },
+  {
+    "pack_id": "fujifilm-velvia-100-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbdiafilm/fuji-velvia-100-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "fujifilm-velvia-100-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/dia-farbfilme/fuji-velvia-100-dia-farbfilm-umkehrfilm-120-rollfilm-5-stueck-rvp-100/"
+  },
+  {
+    "pack_id": "fujifilm-velvia-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/fuji-velvia-100-13536.html"
+  },
+  {
+    "pack_id": "fujifilm-velvia-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbdiafilm/fuji-velvia-100-135-36"
+  },
+  {
+    "pack_id": "fujifilm-velvia-100-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/dia-farbfilme/fuji-velvia-100-dia-farbfilm-umkehrfilm-135-36-rvp-100/"
+  },
+  {
+    "pack_id": "fujifilm-velvia-100-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/dia/288/fujifilm-velvia-rvp-100-135-36"
+  },
+  {
+    "pack_id": "fujifilm-velvia-50-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/fuji-velvia-50-120-einzelner-film.html"
+  },
+  {
+    "pack_id": "fujifilm-velvia-50-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbdiafilm/fuji-velvia-50-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "fujifilm-velvia-50-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/dia-farbfilme/fuji-velvia-50-dia-farbfilm-umkehrfilm-120-rollfilm-5-stueck/"
+  },
+  {
+    "pack_id": "fujifilm-velvia-50-120-5",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/dia/400/fujifilm-velvia-rvp-50-120-5er"
+  },
+  {
+    "pack_id": "fujifilm-velvia-50-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/fuji-velvia-50-135-36.html"
+  },
+  {
+    "pack_id": "fujifilm-velvia-50-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbdiafilm/fuji-velvia-50-135-36"
+  },
+  {
+    "pack_id": "fujifilm-velvia-50-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/dia-farbfilme/fuji-velvia-50-dia-farbfilm-umkehrfilm-135-36/"
+  },
+  {
+    "pack_id": "fujifilm-velvia-50-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/dia/545/fujifilm-velvia-50-rvp-135-36"
+  },
+  {
+    "pack_id": "harman-phoenix-200-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/harman-photo-phoenix-200-120.html"
+  },
+  {
+    "pack_id": "harman-phoenix-200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/harman-photo-phoenix-200-13536.html"
+  },
+  {
+    "pack_id": "harman-phoenix-200-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/2573/harman-phoenix-200-135-36-mhd-12/2025"
+  },
+  {
+    "pack_id": "harman-phoenix-ii-200-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/harman-photo-phoenix-ii-200-120.html"
+  },
+  {
+    "pack_id": "harman-phoenix-ii-200-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/harman-phoenix-ii-200-negativ-farbfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "harman-phoenix-ii-200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/harman-photo-phoenix-ii-200-13536.html"
+  },
+  {
+    "pack_id": "harman-phoenix-ii-200-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/harman-phoenix-ii-200-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "harman-red-125-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/harman-photo-red-125-120.html"
+  },
+  {
+    "pack_id": "harman-red-125-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/harman-photo-red-125-13536.html"
+  },
+  {
+    "pack_id": "harman-red-125-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/harman-redscale-125-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "ilfocolor-cine-tone-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-ilfocolor-400-cinetone-13524.html"
+  },
+  {
+    "pack_id": "ilfocolor-vintage-tone-400-plus-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-ilfocolor-400-vintage-tone-13536.html"
+  },
+  {
+    "pack_id": "ilford-delta-100-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-delta-100-rollfilm-120.html"
+  },
+  {
+    "pack_id": "ilford-delta-100-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-delta-100-rollfilm-120"
+  },
+  {
+    "pack_id": "ilford-delta-100-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-delta-100-schwarzweissfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "ilford-delta-100-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/300/ilford-delta-100-120"
+  },
+  {
+    "pack_id": "ilford-delta-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-delta-100-13536-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "ilford-delta-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-delta-100-135-36"
+  },
+  {
+    "pack_id": "ilford-delta-100-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-delta-100-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "ilford-delta-100-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/177/ilford-delta-100-135-36"
+  },
+  {
+    "pack_id": "ilford-delta-3200-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-delta-3200-rollfilm-120.html"
+  },
+  {
+    "pack_id": "ilford-delta-3200-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-delta-3200-rollfilm-120"
+  },
+  {
+    "pack_id": "ilford-delta-3200-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-delta-3200-schwarzweissfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "ilford-delta-3200-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/473/ilford-delta-3200-120"
+  },
+  {
+    "pack_id": "ilford-delta-3200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-delta-3200-13536-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "ilford-delta-3200-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-delta-3200-135-36"
+  },
+  {
+    "pack_id": "ilford-delta-3200-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-delta-3200-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "ilford-delta-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-delta-400-rollfilm-120.html"
+  },
+  {
+    "pack_id": "ilford-delta-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-delta-400-rollfilm-120"
+  },
+  {
+    "pack_id": "ilford-delta-400-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-delta-400-schwarzweissfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "ilford-delta-400-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/303/ilford-delta-400-120"
+  },
+  {
+    "pack_id": "ilford-delta-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-delta-400-13536-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "ilford-delta-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-delta-400-135-36"
+  },
+  {
+    "pack_id": "ilford-delta-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-delta-400-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "ilford-delta-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/178/ilford-delta-400-135-36"
+  },
+  {
+    "pack_id": "ilford-fp4-plus-125-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-fp4-rollfilm-120.html"
+  },
+  {
+    "pack_id": "ilford-fp4-plus-125-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-fp4-plus-rollfilm-120"
+  },
+  {
+    "pack_id": "ilford-fp4-plus-125-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-fp4-plus-125-schwarzweissfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "ilford-fp4-plus-125-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/474/ilford-fp4-plus-125-120"
+  },
+  {
+    "pack_id": "ilford-fp4-plus-125-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-fp4-13536-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "ilford-fp4-plus-125-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-fp4-plus-135-36"
+  },
+  {
+    "pack_id": "ilford-fp4-plus-125-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-fp4-plus-125-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "ilford-fp4-plus-125-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/467/ilford-fp4-plus-125-135-36"
+  },
+  {
+    "pack_id": "ilford-hp5-plus-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-hp5-rollfilm-120.html"
+  },
+  {
+    "pack_id": "ilford-hp5-plus-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-hp5-plus-rollfilm-120"
+  },
+  {
+    "pack_id": "ilford-hp5-plus-400-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-hp5-plus-400-schwarzweissfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "ilford-hp5-plus-400-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/307/ilford-hp5-plus-400-120"
+  },
+  {
+    "pack_id": "ilford-hp5-plus-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-hp5-13536-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "ilford-hp5-plus-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-hp5-plus-135-36"
+  },
+  {
+    "pack_id": "ilford-hp5-plus-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-hp5-plus-400-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "ilford-hp5-plus-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/390/ilford-hp5-plus-400-135-36"
+  },
+  {
+    "pack_id": "ilford-ortho-plus-80-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-ortho-plus-80-120.html"
+  },
+  {
+    "pack_id": "ilford-ortho-plus-80-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-ortho-plus-rollfilm-120"
+  },
+  {
+    "pack_id": "ilford-ortho-plus-80-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-ortho-plus-schwarzweissfilm-120/"
+  },
+  {
+    "pack_id": "ilford-ortho-plus-80-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-ortho-plus-80-135.html"
+  },
+  {
+    "pack_id": "ilford-ortho-plus-80-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-ortho-plus-135-36"
+  },
+  {
+    "pack_id": "ilford-ortho-plus-80-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-ortho-plus-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "ilford-pan-100-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-pan-100-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "ilford-pan-100-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/1304/ilford-pan-100-135-36"
+  },
+  {
+    "pack_id": "ilford-pan-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-pan-400-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "ilford-pan-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/1305/ilford-pan-400-135-36"
+  },
+  {
+    "pack_id": "ilford-pan-f-plus-50-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-pan-f-rollfilm-120.html"
+  },
+  {
+    "pack_id": "ilford-pan-f-plus-50-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-pan-f-plus-rollfilm-120"
+  },
+  {
+    "pack_id": "ilford-pan-f-plus-50-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-pan-f-plus-50-schwarzweissfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "ilford-pan-f-plus-50-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/481/ilford-pan-f-plus-50-120"
+  },
+  {
+    "pack_id": "ilford-pan-f-plus-50-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-pan-f-13536-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "ilford-pan-f-plus-50-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-pan-f-plus-135-36"
+  },
+  {
+    "pack_id": "ilford-pan-f-plus-50-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-pan-f-plus-50-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "ilford-pan-f-plus-50-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/480/ilford-pan-f-plus-50-135-36"
+  },
+  {
+    "pack_id": "ilford-sfx-200-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-sfx-film-mit-erweitertem-rotbereich-rollfilm-120.html"
+  },
+  {
+    "pack_id": "ilford-sfx-200-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-sfx-200-rollfilm-120"
+  },
+  {
+    "pack_id": "ilford-sfx-200-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-sfx-200-schwarzweissfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "ilford-sfx-200-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/905/ilford-sfx-200-120-infrared-film"
+  },
+  {
+    "pack_id": "ilford-sfx-200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-sfx-film-mit-erweitertem-rotbereich-13536.html"
+  },
+  {
+    "pack_id": "ilford-sfx-200-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-sfx-200-135-36"
+  },
+  {
+    "pack_id": "ilford-sfx-200-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-sfx-200-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "ilford-sfx-200-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/1240/ilford-sfx-200-135-36-infrared-film"
+  },
+  {
+    "pack_id": "ilford-xp2-super-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-xp2-super-rollfilm-120.html"
+  },
+  {
+    "pack_id": "ilford-xp2-super-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-xp2-super-rollfilm-120"
+  },
+  {
+    "pack_id": "ilford-xp2-super-400-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-xp2-super-400-schwarzweissfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "ilford-xp2-super-400-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/476/ilford-xp2-400-super-120"
+  },
+  {
+    "pack_id": "ilford-xp2-super-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/ilford-xp2-super-13536-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "ilford-xp2-super-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/ilford-xp2-super-135-36"
+  },
+  {
+    "pack_id": "ilford-xp2-super-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/ilford-xp2-super-400-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "ilford-xp2-super-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/475/ilford-xp2-super-400-135-36"
+  },
+  {
+    "pack_id": "jch-street-pan-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/jch-streetpan-400-rollfilm-120"
+  },
+  {
+    "pack_id": "jch-street-pan-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/jch-streetpan-400-135-36"
+  },
+  {
+    "pack_id": "kentmere-pan-100-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kentmere-pan-100-120.html"
+  },
+  {
+    "pack_id": "kentmere-pan-100-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kentmere-pan-100-rollfilm-120"
+  },
+  {
+    "pack_id": "kentmere-pan-100-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kentmere-100-schwarzweissfilm-120/"
+  },
+  {
+    "pack_id": "kentmere-pan-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kentmere-pan-100-13536.html"
+  },
+  {
+    "pack_id": "kentmere-pan-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kentmere-pan-100-135-36"
+  },
+  {
+    "pack_id": "kentmere-pan-100-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kentmere-100-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "kentmere-pan-200-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kentmere-pan-200-120.html"
+  },
+  {
+    "pack_id": "kentmere-pan-200-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kentmere-200-schwarzweissfilm-120-rollfilm/"
+  },
+  {
+    "pack_id": "kentmere-pan-200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kentmere-pan-200-13536.html"
+  },
+  {
+    "pack_id": "kentmere-pan-200-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kentmere-200-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "kentmere-pan-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kentmere-pan-400-120.html"
+  },
+  {
+    "pack_id": "kentmere-pan-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kentmere-pan-400-rollfilm-120"
+  },
+  {
+    "pack_id": "kentmere-pan-400-120-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kentmere-400-schwarzweissfilm-120/"
+  },
+  {
+    "pack_id": "kentmere-pan-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kentmere-pan-400-13536.html"
+  },
+  {
+    "pack_id": "kentmere-pan-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kentmere-pan-400-135-36"
+  },
+  {
+    "pack_id": "kentmere-pan-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kentmere-400-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "kodak-colorplus-200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-color-plus-200-135-36.html"
+  },
+  {
+    "pack_id": "kodak-colorplus-200-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-color-plus-200-135-36"
+  },
+  {
+    "pack_id": "kodak-colorplus-200-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-color-plus-200-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "kodak-colorplus-200-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/508/kodak-color-plus-200-135-36"
+  },
+  {
+    "pack_id": "kodak-colorplus-200-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-color-plus-200-135-36-3er-pack"
+  },
+  {
+    "pack_id": "kodak-ektachrome-e100-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-ektachrome-e100-120.html"
+  },
+  {
+    "pack_id": "kodak-ektachrome-e100-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbdiafilm/kodak-ektachrome-e100-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "kodak-ektachrome-e100-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/dia-farbfilme/kodak-ektachrome-e-100-umkehrfilm-120-rollfilm-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-ektachrome-e100-120-5",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/dia/775/kodak-ektachrome-e100-120-5er"
+  },
+  {
+    "pack_id": "kodak-ektachrome-e100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-ektachrome-e100-kleinbildfilm.html"
+  },
+  {
+    "pack_id": "kodak-ektachrome-e100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbdiafilm/kodak-ektachrome-e100-135-36"
+  },
+  {
+    "pack_id": "kodak-ektachrome-e100-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/dia-farbfilme/kodak-ektachrome-e-100-umkehrfilm-135-36/"
+  },
+  {
+    "pack_id": "kodak-ektachrome-e100-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/dia/184/kodak-ektachrome-e100-135-36"
+  },
+  {
+    "pack_id": "kodak-ektachrome-e100-135-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbdiafilm/kodak-ektachrome-e100-135-36-5er-pack"
+  },
+  {
+    "pack_id": "kodak-ektar-100-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-ektar-100-rollfilm-120.html"
+  },
+  {
+    "pack_id": "kodak-ektar-100-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-ektar-100-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "kodak-ektar-100-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-ektar-100-negativ-farbfilm-professional-120-rollfilm-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-ektar-100-120-5",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/farbe/315/kodak-ektar-100-120-5er"
+  },
+  {
+    "pack_id": "kodak-ektar-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-ektar-100-kleinbildfilm-13536.html"
+  },
+  {
+    "pack_id": "kodak-ektar-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-ektar-100-135-36"
+  },
+  {
+    "pack_id": "kodak-ektar-100-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-ektar-100-professional-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "kodak-ektar-100-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/110/kodak-ektar-100-135-36"
+  },
+  {
+    "pack_id": "kodak-ektar-100-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-ektar-100-135-36-3er-pack"
+  },
+  {
+    "pack_id": "kodak-gold-200-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-gold-200-120.html"
+  },
+  {
+    "pack_id": "kodak-gold-200-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-gold-200-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "kodak-gold-200-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-gold-200-negativ-farbfilm-120-rollfilm-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-gold-200-120-5",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/farbe/2060/kodak-gold-200-120-5er"
+  },
+  {
+    "pack_id": "kodak-gold-200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-gold-200-135-36.html"
+  },
+  {
+    "pack_id": "kodak-gold-200-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-gold-200-135-36"
+  },
+  {
+    "pack_id": "kodak-gold-200-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-gold-200-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "kodak-gold-200-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/1802/kodak-gold-200-135-36"
+  },
+  {
+    "pack_id": "kodak-gold-200-135-3",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-gold-200-135-36-3er-pack.html"
+  },
+  {
+    "pack_id": "kodak-gold-200-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-gold-200-135-36-3er-pack"
+  },
+  {
+    "pack_id": "kodak-gold-200-135-3",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-gold-200-negativ-farbfilm-135-36-3er-pack/"
+  },
+  {
+    "pack_id": "kodak-gold-200-135-3",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/509/kodak-gold-200-135-36-3er"
+  },
+  {
+    "pack_id": "kodak-portra-160-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-portra-160-120-rollfilm.html"
+  },
+  {
+    "pack_id": "kodak-portra-160-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-portra-160-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "kodak-portra-160-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-portra-160-negativ-farbfilm-120-rollfilm-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-portra-160-120-5",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/farbe/318/kodak-portra-160-120-5er"
+  },
+  {
+    "pack_id": "kodak-portra-160-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-portra-160-13536.html"
+  },
+  {
+    "pack_id": "kodak-portra-160-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-portra-160-135-36"
+  },
+  {
+    "pack_id": "kodak-portra-160-135-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-portra-160-135-36-5er-pack"
+  },
+  {
+    "pack_id": "kodak-portra-160-135-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-portra-160-negativ-farbfilm-135-36-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-portra-160-135-5",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/500/kodak-portra-160-135-36-5er"
+  },
+  {
+    "pack_id": "kodak-portra-400-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-portra-400-120.html"
+  },
+  {
+    "pack_id": "kodak-portra-400-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-portra-400-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "kodak-portra-400-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-portra-400-negativ-farbfilm-120-rollfilm-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-portra-400-120-5",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/farbe/502/kodak-portra-400-120-5er"
+  },
+  {
+    "pack_id": "kodak-portra-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-portra-400-135-36.html"
+  },
+  {
+    "pack_id": "kodak-portra-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-portra-400-135-36"
+  },
+  {
+    "pack_id": "kodak-portra-400-135-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-portra-400-135-36-5er-pack"
+  },
+  {
+    "pack_id": "kodak-portra-400-135-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-portra-400-negativ-farbfilm-135-36-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-portra-400-135-5",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/501/kodak-portra-400-135-36-5er"
+  },
+  {
+    "pack_id": "kodak-portra-800-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-portra-800-120.html"
+  },
+  {
+    "pack_id": "kodak-portra-800-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-portra-800-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "kodak-portra-800-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-portra-800-negativ-farbfilm-120-rollfilm-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-portra-800-120-5",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/farbe/505/kodak-portra-800-120-5er"
+  },
+  {
+    "pack_id": "kodak-portra-800-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-portra-800-13536.html"
+  },
+  {
+    "pack_id": "kodak-portra-800-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-portra-800-135-36"
+  },
+  {
+    "pack_id": "kodak-portra-800-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-portra-800-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "kodak-portra-800-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/876/kodak-portra-800-135-36"
+  },
+  {
+    "pack_id": "kodak-portra-800-135-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-portra-800-135-36-5er-pack"
+  },
+  {
+    "pack_id": "kodak-pro-image-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-professional-pro-image-100-13536-einzelfilm.html"
+  },
+  {
+    "pack_id": "kodak-pro-image-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-pro-image-100-135-36"
+  },
+  {
+    "pack_id": "kodak-pro-image-100-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/2886/kodak-pro-image-100-135-36-einzelfilm-01-2028"
+  },
+  {
+    "pack_id": "kodak-pro-image-100-135-5",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-pro-image-100-135-36-5er-pack"
+  },
+  {
+    "pack_id": "kodak-pro-image-100-135-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-pro-image-100-negativ-farbfilm-135-36-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-pro-image-100-135-5",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/173/kodak-pro-image-100-135-36-5er"
+  },
+  {
+    "pack_id": "kodak-t-max-100-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-t-max-100-120-tmx.html"
+  },
+  {
+    "pack_id": "kodak-t-max-100-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kodak-t-max-100-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "kodak-t-max-100-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kodak-t-max-100-tmx-schwarzweissfilm-120-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-t-max-100-120-5",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/504/kodak-t-max-100-120-5er-mhd-08-2023"
+  },
+  {
+    "pack_id": "kodak-t-max-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-t-max-100-13536-tmx.html"
+  },
+  {
+    "pack_id": "kodak-t-max-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kodak-t-max-100-135-36"
+  },
+  {
+    "pack_id": "kodak-t-max-100-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kodak-t-max-100-tmx-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "kodak-t-max-100-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/1219/kodak-t-max-100-135-36"
+  },
+  {
+    "pack_id": "kodak-t-max-100-135-5",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kodak-t-max-100-135-36-5er-pack"
+  },
+  {
+    "pack_id": "kodak-t-max-400-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-t-max-400-120-tmy.html"
+  },
+  {
+    "pack_id": "kodak-t-max-400-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kodak-t-max-400-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "kodak-t-max-400-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kodak-t-max-400-tmy-schwarzweissfilm-120-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-t-max-400-120-5",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/506/kodak-t-max-tmy-400-120-5er-mhd-09/2023"
+  },
+  {
+    "pack_id": "kodak-t-max-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-t-max-400-13536-tmy.html"
+  },
+  {
+    "pack_id": "kodak-t-max-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kodak-t-max-400-135-36"
+  },
+  {
+    "pack_id": "kodak-t-max-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kodak-t-max-400-tmy-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "kodak-t-max-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/181/kodak-t-max-tmy-400-135-36"
+  },
+  {
+    "pack_id": "kodak-t-max-400-135-5",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kodak-t-max-400-135-36-5er-pack"
+  },
+  {
+    "pack_id": "kodak-t-max-p3200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-t-max-p-3200-kleinbildfilm-tmz.html"
+  },
+  {
+    "pack_id": "kodak-t-max-p3200-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kodak-t-max-p3200-135-36"
+  },
+  {
+    "pack_id": "kodak-t-max-p3200-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kodak-t-max-p3200-tmz-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "kodak-t-max-p3200-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/252/kodak-t-max-tmz-3200-135-36"
+  },
+  {
+    "pack_id": "kodak-tri-x-400-120-5",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-tri-x-400-120.html"
+  },
+  {
+    "pack_id": "kodak-tri-x-400-120-5",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kodak-tri-x-400-rollfilm-120-5er-pack"
+  },
+  {
+    "pack_id": "kodak-tri-x-400-120-5",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kodak-tri-x-400-tx-schwarzweissfilm-120-5-stueck/"
+  },
+  {
+    "pack_id": "kodak-tri-x-400-120-5",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/499/kodak-tri-x-400-120-5er"
+  },
+  {
+    "pack_id": "kodak-tri-x-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-tri-x-400-13536.html"
+  },
+  {
+    "pack_id": "kodak-tri-x-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kodak-tri-x-400-135-36"
+  },
+  {
+    "pack_id": "kodak-tri-x-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kodak-tri-x-400-tx-schwarzweissfilm-135-36/"
+  },
+  {
+    "pack_id": "kodak-tri-x-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/183/kodak-tri-x-400-135-36"
+  },
+  {
+    "pack_id": "kodak-tri-x-400-135-5",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kodak-tri-x-400-135-36-5er-pack"
+  },
+  {
+    "pack_id": "kodak-ultramax-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-ultra-max-400-135-36.html"
+  },
+  {
+    "pack_id": "kodak-ultramax-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-ultramax-400-135-36"
+  },
+  {
+    "pack_id": "kodak-ultramax-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-ultra-max-400-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "kodak-ultramax-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/510/kodak-ultra-max-400-135-36"
+  },
+  {
+    "pack_id": "kodak-ultramax-400-135-3",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kodak-ultra-max-400-135-36-3er-pack.html"
+  },
+  {
+    "pack_id": "kodak-ultramax-400-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/kodak-ultramax-400-135-36-3er-pack"
+  },
+  {
+    "pack_id": "kodak-ultramax-400-135-3",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kodak-ultra-max-400-negativ-farbfilm-135-36-3er-pack/"
+  },
+  {
+    "pack_id": "kodak-ultramax-400-135-3",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/1383/kodak-ultra-max-400-135-36-3er"
+  },
+  {
+    "pack_id": "kono-delight-art-100-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kono-delight-art-100-color-tinted-film-120.html"
+  },
+  {
+    "pack_id": "kono-delight-art-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kono-delight-art-100-color-tinted-35mm-film.html"
+  },
+  {
+    "pack_id": "kono-delight-art-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kono-delight-art-400-120.html"
+  },
+  {
+    "pack_id": "kono-delight-art-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kono-delight-art-400-13536.html"
+  },
+  {
+    "pack_id": "kono-delight-art-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kono-art-ii-400-effekt-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "kono-liebe-200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kono-liebe-35mm-24.html"
+  },
+  {
+    "pack_id": "kono-rekorder-100-200-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/schwarzweissfilme/kono-rekorder-100-effekt-schwarzweissfilm-135-24/"
+  },
+  {
+    "pack_id": "kono-rotwild-no2-100-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kono-rotwild-no-2-iso-100-400.html"
+  },
+  {
+    "pack_id": "kono-rotwild-no2-100-400-135-1",
+    "store_id": "nordfoto",
+    "page_url": "analoge-fotografie/filme/negativ-farbfilme/kono-rotwild-200-effekt-negativ-farbfilm-135-36/"
+  },
+  {
+    "pack_id": "kono-winterm-rchen-200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/kono-wintermaerchen-35mm-24.html"
+  },
+  {
+    "pack_id": "kosmo-foto-mono-100-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kosmo-foto-mono-100-rollfilm-120"
+  },
+  {
+    "pack_id": "kosmo-foto-mono-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/foto-mono-kosmo-foto-mono-100-135-36.html"
+  },
+  {
+    "pack_id": "kosmo-foto-mono-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/kosmo-foto-mono-100-135-36"
+  },
+  {
+    "pack_id": "lomography-berlin-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-berlin-kino-bw-120-iso-400-2019-edition.html"
+  },
+  {
+    "pack_id": "lomography-berlin-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/lomography-berlin-kino-bw-120-iso-400"
+  },
+  {
+    "pack_id": "lomography-berlin-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/lomography-berlin-kino-bw-135-36-iso-400"
+  },
+  {
+    "pack_id": "lomography-color-negative-100-120-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-color-negativ-100-rollfilm-120-3er-pack"
+  },
+  {
+    "pack_id": "lomography-color-negative-100-135-3",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-color-negative-100-35mm-3er-pack.html"
+  },
+  {
+    "pack_id": "lomography-color-negative-100-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-color-negativ-100-135-36-3er-pack"
+  },
+  {
+    "pack_id": "lomography-color-negative-400-120-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-color-negativ-400-rollfilm-120-3er-pack"
+  },
+  {
+    "pack_id": "lomography-color-negative-400-135-3",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-400-color-negativ-3er-pack.html"
+  },
+  {
+    "pack_id": "lomography-color-negative-400-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-color-negativ-400-135-36-3er-pack"
+  },
+  {
+    "pack_id": "lomography-color-negative-800-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-color-negative-120-iso-800-single-pack.html"
+  },
+  {
+    "pack_id": "lomography-color-negative-800-120-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-color-negativ-800-rollfilm-120-3er-pack"
+  },
+  {
+    "pack_id": "lomography-color-negative-800-135-3",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-color-negative-800-135-3er-pack.html"
+  },
+  {
+    "pack_id": "lomography-color-negative-800-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-color-negativ-800-135-36-3er-pack"
+  },
+  {
+    "pack_id": "lomography-earl-grey-100-120-3",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-earl-grey-100-120-3er-pack.html"
+  },
+  {
+    "pack_id": "lomography-earl-grey-100-120-3",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/lomography-earl-grey-b-w-100-rollfilm-120-3er-pack"
+  },
+  {
+    "pack_id": "lomography-earl-grey-100-135-3",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-earl-grey-bw-100-35mm-3er-pack.html"
+  },
+  {
+    "pack_id": "lomography-earl-grey-100-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/lomography-earl-grey-b-w-100-135-36-3er-pack"
+  },
+  {
+    "pack_id": "lomography-lady-grey-400-120-3",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-lady-grey-400-120-3er-pack.html"
+  },
+  {
+    "pack_id": "lomography-lady-grey-400-120-3",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/lomography-lady-grey-b-w-400-rollfilm-120-3er-pack"
+  },
+  {
+    "pack_id": "lomography-lady-grey-400-135-3",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-lady-grey-bw-400-35mm-3er-pack.html"
+  },
+  {
+    "pack_id": "lomography-lady-grey-400-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/lomography-lady-grey-b-w-400-135-36-3er-pack"
+  },
+  {
+    "pack_id": "lomography-lobster-200-110-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-lobster-redscale-110.html"
+  },
+  {
+    "pack_id": "lomography-lobster-200-110-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-lobster-redscale-200-pocketfilm-110"
+  },
+  {
+    "pack_id": "lomography-lomochrome-color-92-400-110-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomochrome-color-92-110-iso-400.html"
+  },
+  {
+    "pack_id": "lomography-lomochrome-color-92-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomochrome-color-92-120-iso-400.html"
+  },
+  {
+    "pack_id": "lomography-lomochrome-color-92-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-lomochrome-color-92-120-iso-400"
+  },
+  {
+    "pack_id": "lomography-lomochrome-color-92-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomochrome-color-92-sun-kissed-35-mm-iso-400.html"
+  },
+  {
+    "pack_id": "lomography-lomochrome-color-92-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-lomochrome-color-92-135-36-iso-400"
+  },
+  {
+    "pack_id": "lomography-lomochrome-metropolis-100-400-110-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomochrome-metropolis-110-iso-100-400.html"
+  },
+  {
+    "pack_id": "lomography-lomochrome-metropolis-100-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomochrome-metropolis-120-iso-100-400.html"
+  },
+  {
+    "pack_id": "lomography-lomochrome-metropolis-100-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-lomochrome-metropolis-100-400-rollfilm-120"
+  },
+  {
+    "pack_id": "lomography-lomochrome-metropolis-100-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-lomochrome-metropolis-100-400-135-36"
+  },
+  {
+    "pack_id": "lomography-lomochrome-purple-100-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-lomochrome-purple-2019-100-400-rollfilm-120"
+  },
+  {
+    "pack_id": "lomography-lomochrome-purple-100-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-2021-lomochrome-purple-ptillant-35-mm-iso-100400.html"
+  },
+  {
+    "pack_id": "lomography-lomochrome-purple-100-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-lomochrome-purple-2019-100-400-135-36"
+  },
+  {
+    "pack_id": "lomography-lomochrome-turquoise-100-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-lomochrome-turquoise-xr-100-400-rollfilm-120"
+  },
+  {
+    "pack_id": "lomography-orca-100-110-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-orca-110-sw-film.html"
+  },
+  {
+    "pack_id": "lomography-orca-100-110-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/lomography-b-w-orca-100-pocketfilm-110"
+  },
+  {
+    "pack_id": "lomography-peacock-200-110-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-peacock-200-pocketfilm-110"
+  },
+  {
+    "pack_id": "lomography-potsdam-100-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/lomography-b-w-100-potsdam-kino-rollfilm-120"
+  },
+  {
+    "pack_id": "lomography-redscale-xr-50-200-120-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-redscale-xr-50-200-rollfilm-120-3er-pack"
+  },
+  {
+    "pack_id": "lomography-redscale-xr-50-200-135-3",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-redscale-xr-50-200-35-3er-pack.html"
+  },
+  {
+    "pack_id": "lomography-redscale-xr-50-200-135-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-redscale-xr-50-200-135-36-3er-pack"
+  },
+  {
+    "pack_id": "lomography-tiger-200-110-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-color-tiger-110-einzelfilm.html"
+  },
+  {
+    "pack_id": "lomography-tiger-200-110-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-color-negativ-tiger-200-pocketfilm-110"
+  },
+  {
+    "pack_id": "lomography-tiger-200-110-3",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/lomography-lomography-color-tiger-110-3er-pack.html"
+  },
+  {
+    "pack_id": "lomography-tiger-200-110-3",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/lomography-color-negativ-tiger-200-pocketfilm-110-3er-pack"
+  },
+  {
+    "pack_id": "orwo-nc500-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/original-wolfen-nc-500-13536.html"
+  },
+  {
+    "pack_id": "orwo-nc500-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/orwo-wolfen-nc500-135-36"
+  },
+  {
+    "pack_id": "orwo-nc500-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/farbe/2471/wolfen-nc500-kleinbildfilm-135-36"
+  },
+  {
+    "pack_id": "orwo-np100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/original-wolfen-np-100-13536.html"
+  },
+  {
+    "pack_id": "orwo-np100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/orwo-wolfen-np100-135-36"
+  },
+  {
+    "pack_id": "revolog-460nm-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-460nm-120.html"
+  },
+  {
+    "pack_id": "revolog-460nm-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-460-nm-135-36.html"
+  },
+  {
+    "pack_id": "revolog-460nm-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/revolog-460nm-135-36"
+  },
+  {
+    "pack_id": "revolog-600nm-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-600nm-120.html"
+  },
+  {
+    "pack_id": "revolog-600nm-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-600-nm-135-36.html"
+  },
+  {
+    "pack_id": "revolog-600nm-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/revolog-600nm-135-36"
+  },
+  {
+    "pack_id": "revolog-kolor-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-kolor-135-36.html"
+  },
+  {
+    "pack_id": "revolog-kolor-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/revolog-kolor-135-36"
+  },
+  {
+    "pack_id": "revolog-kosmos-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-kosmos-400-135-36.html"
+  },
+  {
+    "pack_id": "revolog-lazer-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-lazer-135-36.html"
+  },
+  {
+    "pack_id": "revolog-lazer-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/revolog-lazer-135-36"
+  },
+  {
+    "pack_id": "revolog-nebula-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-nebula-135-36.html"
+  },
+  {
+    "pack_id": "revolog-paper-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-paper-135-36.html"
+  },
+  {
+    "pack_id": "revolog-plexus-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-plexus-135-36.html"
+  },
+  {
+    "pack_id": "revolog-plexus-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/revolog-plexus-135-36"
+  },
+  {
+    "pack_id": "revolog-rasp-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-rasp-135-36.html"
+  },
+  {
+    "pack_id": "revolog-rasp-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/revolog-rasp-135-36"
+  },
+  {
+    "pack_id": "revolog-snovlox-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-snovlox-black-white-100-135-36.html"
+  },
+  {
+    "pack_id": "revolog-streak-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-streak-135-36.html"
+  },
+  {
+    "pack_id": "revolog-streak-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/revolog-streak-135-36"
+  },
+  {
+    "pack_id": "revolog-tesla-1-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-tesla-i-135-36.html"
+  },
+  {
+    "pack_id": "revolog-tesla-1-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/revolog-tesla-1-135-36"
+  },
+  {
+    "pack_id": "revolog-tesla-2-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-tesla-ii-135-36.html"
+  },
+  {
+    "pack_id": "revolog-tesla-2-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/revolog-tesla-2-135-36"
+  },
+  {
+    "pack_id": "revolog-texture-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-texture-135-36.html"
+  },
+  {
+    "pack_id": "revolog-texture-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/revolog-texture-135-36"
+  },
+  {
+    "pack_id": "revolog-volvox-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/revolog-volvox-135-36.html"
+  },
+  {
+    "pack_id": "revolog-volvox-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/farbnegativfilm/revolog-volvox-135-36"
+  },
+  {
+    "pack_id": "rollei-infrared-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-infrared-120.html"
+  },
+  {
+    "pack_id": "rollei-infrared-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-infrared-400-rollfilm-120"
+  },
+  {
+    "pack_id": "rollei-infrared-400-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/551/rollei-infrared-120"
+  },
+  {
+    "pack_id": "rollei-infrared-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-infrared-13536.html"
+  },
+  {
+    "pack_id": "rollei-infrared-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-infrared-400-135-36"
+  },
+  {
+    "pack_id": "rollei-infrared-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/162/rollei-infrared-135-36"
+  },
+  {
+    "pack_id": "rollei-ortho-25-plus-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-ortho-25-plus-120.html"
+  },
+  {
+    "pack_id": "rollei-ortho-25-plus-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-ortho-25-plus-rollfilm-120"
+  },
+  {
+    "pack_id": "rollei-ortho-25-plus-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-ortho-25-plus-13536.html"
+  },
+  {
+    "pack_id": "rollei-ortho-25-plus-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-ortho-25-plus-135-36"
+  },
+  {
+    "pack_id": "rollei-retro-400s-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-retro-400s-120.html"
+  },
+  {
+    "pack_id": "rollei-retro-400s-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-retro-400s-rollfilm-120"
+  },
+  {
+    "pack_id": "rollei-retro-400s-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/346/rollei-retro-400s-120"
+  },
+  {
+    "pack_id": "rollei-retro-400s-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-retro-400s-135-36.html"
+  },
+  {
+    "pack_id": "rollei-retro-400s-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-retro-400s-135-36"
+  },
+  {
+    "pack_id": "rollei-retro-400s-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/174/rollei-retro-400s-135-36"
+  },
+  {
+    "pack_id": "rollei-retro-80s-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-retro-80s-rollfilm-120.html"
+  },
+  {
+    "pack_id": "rollei-retro-80s-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-retro-80s-rollfilm-120"
+  },
+  {
+    "pack_id": "rollei-retro-80s-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/554/rollei-retro-80s-120"
+  },
+  {
+    "pack_id": "rollei-retro-80s-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-retro-80s-135-36.html"
+  },
+  {
+    "pack_id": "rollei-retro-80s-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-retro-80s-135-36"
+  },
+  {
+    "pack_id": "rollei-retro-80s-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/963/rollei-retro-80s-135-36"
+  },
+  {
+    "pack_id": "rollei-rpx-100-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-rpx-100-120-rollfilm.html"
+  },
+  {
+    "pack_id": "rollei-rpx-100-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-rpx-100-rollfilm-120"
+  },
+  {
+    "pack_id": "rollei-rpx-100-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/549/rollei-rpx-100-120-mhd-03/2026"
+  },
+  {
+    "pack_id": "rollei-rpx-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-rpx-100-135-36.html"
+  },
+  {
+    "pack_id": "rollei-rpx-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-rpx-100-135-36"
+  },
+  {
+    "pack_id": "rollei-rpx-100-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/964/rollei-rpx-100-135-36"
+  },
+  {
+    "pack_id": "rollei-rpx-25-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-rpx-25-120.html"
+  },
+  {
+    "pack_id": "rollei-rpx-25-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-rpx-25-rollfilm-120"
+  },
+  {
+    "pack_id": "rollei-rpx-25-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/550/rollei-rpx-25-120-mhd-02/2026"
+  },
+  {
+    "pack_id": "rollei-rpx-25-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-rpx-25-135-36.html"
+  },
+  {
+    "pack_id": "rollei-rpx-25-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-rpx-25-135-36"
+  },
+  {
+    "pack_id": "rollei-rpx-25-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/1896/rollei-rpx-25-135-36"
+  },
+  {
+    "pack_id": "rollei-rpx-400-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-rpx-400-120-rollfilm.html"
+  },
+  {
+    "pack_id": "rollei-rpx-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-rpx-400-rollfilm-120"
+  },
+  {
+    "pack_id": "rollei-rpx-400-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/2870/rollei-rpx-400-120-rollfilm"
+  },
+  {
+    "pack_id": "rollei-rpx-400-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-rpx-400-135-36.html"
+  },
+  {
+    "pack_id": "rollei-rpx-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-rpx-400-135-36"
+  },
+  {
+    "pack_id": "rollei-rpx-400-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/1536/rollei-rpx-400-135-36"
+  },
+  {
+    "pack_id": "rollei-superpan-200-120-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-superpan-200-120.html"
+  },
+  {
+    "pack_id": "rollei-superpan-200-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-superpan-200-rollfilm-120"
+  },
+  {
+    "pack_id": "rollei-superpan-200-120-1",
+    "store_id": "photolang",
+    "page_url": "filme/rollfilm/sw/555/rollei-superpan-200-120"
+  },
+  {
+    "pack_id": "rollei-superpan-200-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/rollei-superpan-200-13536.html"
+  },
+  {
+    "pack_id": "rollei-superpan-200-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/rollei-superpan-200-135-36"
+  },
+  {
+    "pack_id": "rollei-superpan-200-135-1",
+    "store_id": "photolang",
+    "page_url": "filme/35mm-film/sw/164/rollei-superpan-200-135-36"
+  },
+  {
+    "pack_id": "santacolor-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/optik-oldschool-santacolor-100-13536.html"
+  },
+  {
+    "pack_id": "shanghai-gp3-pan-100-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/shanghai-gp3-100-rollfilm-120"
+  },
+  {
+    "pack_id": "shanghai-gp3-pan-100-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/shanghai-gp3-100-135-36"
+  },
+  {
+    "pack_id": "shanghai-gp3-pan-400-120-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/shanghai-gp3-400-rollfilm-120"
+  },
+  {
+    "pack_id": "shanghai-gp3-pan-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/shanghai-gp3-400-135-36"
+  },
+  {
+    "pack_id": "silbersalz35-050d-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/silbersalz35-050d-135-36.html"
+  },
+  {
+    "pack_id": "silbersalz35-200t-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/silbersalz35-200t-135-36.html"
+  },
+  {
+    "pack_id": "silbersalz35-250d-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/silbersalz35-250d-135-36.html"
+  },
+  {
+    "pack_id": "silbersalz35-500t-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/silbersalz35-500t-135-36.html"
+  },
+  {
+    "pack_id": "street-candy-atm-400-135-1",
+    "store_id": "macodirect",
+    "page_url": "film/schwarzweissfilm/street-candy-atm400-135-36"
+  },
+  {
+    "pack_id": "street-candy-mtn-100-135-1",
+    "store_id": "fotoimpex",
+    "page_url": "shop/filme/street-candy-mtn-100-sw-13536.html"
+  }
+]

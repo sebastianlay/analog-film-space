@@ -1,0 +1,50 @@
+[
+  {
+    "store_id": "fotoimpex",
+    "store_name": "Fotoimpex",
+    "store_url": "https://www.fotoimpex.de/",
+    "store_culture": "en-US",
+    "store_price_selector": "\"price\" : \"(.*?)\"",
+    "store_availability_selector": "alt=\"In den Warenkorb\""
+  },
+  {
+    "store_id": "macodirect",
+    "store_name": "macodirect",
+    "store_url": "https://www.macodirect.de/",
+    "store_culture": "en-US",
+    "store_price_selector": "\"price\":\"(.*?)\"",
+    "store_availability_selector": "name=\"In den Warenkorb\""
+  },
+  {
+    "store_id": "photo-lang",
+    "store_name": "Photo Lang",
+    "store_url": "https://www.photo-lang.de/",
+    "store_culture": "en-US",
+    "store_price_selector": "\"price\" content=\"(.*?)\"",
+    "store_availability_selector": "name=\"In den Warenkorb\""
+  },
+  {
+    "store_id": "foto-koch",
+    "store_name": "Foto Koch",
+    "store_url": "https://www.fotokoch.de/",
+    "store_culture": "en-US",
+    "store_price_selector": "\"price\": \"(.*?)\"",
+    "store_availability_selector": "Sofort lieferbar"
+  },
+  {
+    "store_id": "nordfoto",
+    "store_name": "Nordfoto",
+    "store_url": "https://www.nordfoto.de/",
+    "store_culture": "de-DE",
+    "store_price_selector": "<bdi>(.*?)&nbsp;",
+    "store_availability_selector": "name=\"add-to-cart\""
+  },
+  {
+    "store_id": "foto-erhardt",
+    "store_name": "Foto Erhardt",
+    "store_url": "https://www.foto-erhardt.de/",
+    "store_culture": "en-US",
+    "store_price_selector": "\"price\":(.*?),",
+    "store_availability_selector": "button--addtocart"
+  }
+]

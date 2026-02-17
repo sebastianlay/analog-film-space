@@ -24,10 +24,10 @@
     "size_year": 2011
   },
   {
-    "size_id": "adox-hr-50-135",
+    "size_id": "adox-hr-50-110",
     "film_id": "adox-hr-50",
-    "size_format": "135",
-    "size_year": 2018
+    "size_format": "110",
+    "size_year": 2026
   },
   {
     "size_id": "adox-scala-50-135",
@@ -544,6 +544,12 @@
     "film_id": "harman-red-125",
     "size_format": "135",
     "size_year": 2025
+  },
+  {
+    "size_id": "hr-50-110",
+    "film_id": "hr-50",
+    "size_format": "110",
+    "size_year": 2027
   },
   {
     "size_id": "ilfocolor-cine-tone-400-135",

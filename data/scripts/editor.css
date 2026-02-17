@@ -1,0 +1,18 @@
+dialog > form > div { overflow-y: unset; }
+.toolbar { display: flex; justify-content: space-between; align-items: center;
+           margin-bottom: 1rem; gap: 1rem; flex-wrap: wrap; }
+.toolbar input[type=search] { width: 250px; }
+.table-wrap { overflow-x: auto; }
+tbody td { max-width: 250px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+thead th { white-space: nowrap; }
+.actions { white-space: nowrap; display: flex; gap: 0.3rem; }
+.count { opacity: 0.6; font-weight: 400; }
+dialog { max-height: 95vh; }
+.fk-dropdown { position: absolute; z-index: 10; left: 0; right: 0; max-height: 200px;
+  overflow-y: auto; list-style: none; margin: 0; padding: 0;
+  border: 1px solid var(--border); border-top: none;
+  background: var(--bg, #fff); }
+.fk-dropdown li { padding: 0.35rem 0.6rem; cursor: pointer; font-size: 0.85rem; }
+.fk-dropdown li:hover, .fk-dropdown li.active { background: var(--accent, #e8e8e8); }
+.fk-dropdown li.hidden { display: none; }
+.fk-dropdown mark { background: var(--muted); color: var(--muted-foreground); font-weight: 700; }

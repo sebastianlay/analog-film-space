@@ -6,3 +6,4 @@ _images/*
 node_modules/
 dist/
 .astro/
+.claude/
