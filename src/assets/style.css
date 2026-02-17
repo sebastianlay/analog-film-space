@@ -91,7 +91,7 @@ body {
   overflow-y: scroll;
 }
 
-body, input, button, select, article, label {
+body, input, button, select, article, .label {
   font: 16px/1.5 'Ek Mukta', sans-serif;
   letter-spacing: 0;
 }
@@ -161,7 +161,7 @@ aside > section {
   padding: 5px;
 }
 
-label {
+.label {
   line-height: 36px;
   margin: 2px 5px 0 10px;
 }
@@ -267,6 +267,7 @@ a {
   color: #000;
   text-decoration: underline;
   text-underline-offset: 3px;
+  cursor: pointer;
 }
 
 a:hover, h1 a {
@@ -314,7 +315,7 @@ header a {
   color: #eee;
 }
 
-.dark a, .dark label {
+.dark a, .dark .label {
   color: #eee;
 }
 

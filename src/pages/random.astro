@@ -1,0 +1,52 @@
+---
+import { Image } from 'astro:assets';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import loadFilms from '../scripts/load-films';
+
+import randomFull from '../assets/images/random.avif';
+
+const films = await loadFilms();
+const filmsForAlpine = films.map(f => ({
+  ...f,
+  image: f.image.src,
+  imageSmall: f.imageSmall.src,
+}));
+---
+<BaseLayout
+  title="analog film space - random"
+  description="Get inspired and try out a random film stock"
+  activePage="random"
+>
+  <script is:inline type="application/json" id="films-data" set:html={JSON.stringify(filmsForAlpine)} />
+  <main x-data="randomFilm()" x-cloak>
+    <ul x-show="show">
+      <li>
+        <img :src="film.imageSmall" :srcset="film.imageSmall + ' 1x, ' + film.image + ' 2x'" :alt="film.name" loading="lazy">
+        <h2 x-text="film.name"></h2>
+        <p>
+          <span x-show="film.description" x-text="film.description"></span>
+          <span>
+            <a x-show="film.flickr" :href="film.flickr" target="_blank" rel="noopener" x-text="'flickr'"></a>
+            <a x-show="film.lomography" :href="film.lomography" target="_blank" rel="noopener" x-text="'lomography'"></a>
+            <a x-show="film.datasheet" :href="film.datasheet" target="_blank" rel="noopener" x-text="'datasheet'"></a>
+          </span>
+        </p>
+        <aside>
+          <div title="film type" x-text="film.type"></div>
+          <div title="film format" x-text="film.format"></div>
+          <div x-show="film.launched" title="film launched/updated" x-text="film.launched"></div>
+        </aside>
+      </li>
+    </ul>
+    <ul x-show="!show">
+      <li>
+        <Image src={randomFull} alt="random" format="avif" loading={'eager'} />
+        <h2>Need some inspiration?</h2>
+        <p>Do you have no idea what film to shoot next? Do you want to get out of your comfort zone? Press the button below and try your luck!</p>
+        <aside>
+          <div><a href="" @click.prevent="shuffle()">surprise me!</a></div>
+        </aside>
+      </li>
+    </ul>
+  </main>
+</BaseLayout>

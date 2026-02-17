@@ -1,0 +1,65 @@
+---
+import { Image } from 'astro:assets';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import FilmCard from '../components/FilmCard.astro';
+import loadFilms from '../scripts/load-films';
+
+import randomFull from '../assets/images/random.avif';
+import randomSmall from '../assets/images/small/random.avif';
+
+const films = await loadFilms();
+---
+<BaseLayout
+  title="analog film space"
+  description="A database of currently available 35mm, 110 and medium format film stocks"
+  activePage="overview"
+>
+  <main x-data="filmList()">
+    <aside>
+      <section>
+        <input placeholder="search" x-model="search" aria-label="search" class="search" />
+        <select x-model="type" aria-label="film type">
+          <option value="all">all types</option>
+          <option value="black & white">black & white</option>
+          <option value="color (C-41)">color negative (C-41)</option>
+          <option value="color (E-6)">color slide (E-6)</option>
+          <option value="color (ECN-2)">color cinema (ECN-2)</option>
+        </select>
+        <select x-model="format" aria-label="film format">
+          <option value="all">all formats</option>
+          <option value="110">110 - pocket film</option>
+          <option value="120">120 - medium format</option>
+          <option value="135">135 - 35mm film</option>
+        </select>
+      </section>
+      <section>
+        <span class="label">sort by</span>
+        <button @click="sortBy('popularity')" :class="[currentSort === 'popularity' ? 'active' : '', currentSort === 'popularity' ? currentDir : '']" :aria-pressed="currentSort === 'popularity'" :aria-label="currentSort === 'popularity' ? 'sort by popularity, ' + currentDir + 'ending' : 'sort by popularity'">popularity</button>
+        <button @click="sortBy('name')" :class="[currentSort === 'name' ? 'active' : '', currentSort === 'name' ? currentDir : '']" :aria-pressed="currentSort === 'name'" :aria-label="currentSort === 'name' ? 'sort by name, ' + currentDir + 'ending' : 'sort by name'">name</button>
+        <button @click="sortBy('date')" :class="[currentSort === 'date' ? 'active' : '', currentSort === 'date' ? currentDir : '']" :aria-pressed="currentSort === 'date'" :aria-label="currentSort === 'date' ? 'sort by date, ' + currentDir + 'ending' : 'sort by date'">date</button>
+        <button @click="sortBy('iso')" :class="[currentSort === 'iso' ? 'active' : '', currentSort === 'iso' ? currentDir : '']" :aria-pressed="currentSort === 'iso'" :aria-label="currentSort === 'iso' ? 'sort by ISO, ' + currentDir + 'ending' : 'sort by ISO'">ISO</button>
+      </section>
+    </aside>
+    <ul x-ref="list">
+      {films.map((film, index) => (
+        <FilmCard film={film} index={index} />
+      ))}
+      <li x-show="matchCount === 0" x-cloak>
+        <Image
+          src={randomSmall}
+          srcset={`${randomSmall.src} 1x, ${randomFull.src} 2x`}
+          alt="Nothing found"
+          format="avif"
+        />
+        <h2>Nothing found :(</h2>
+        <p>
+          <span>None of the films match the selected criteria.</span>
+          <span>Adjust the search term or filters to find any results.</span>
+        </p>
+        <aside>
+          <div><a href="" @click.prevent="reset()">Clear all filters</a></div>
+        </aside>
+      </li>
+    </ul>
+  </main>
+</BaseLayout>

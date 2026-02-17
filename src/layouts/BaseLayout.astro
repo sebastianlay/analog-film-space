@@ -1,0 +1,65 @@
+---
+import { ClientRouter } from 'astro:transitions';
+import ThemeToggle from '../components/ThemeToggle.astro';
+import '../assets/style.css';
+import favicon from '../assets/favicon.svg?url';
+import preview from '../assets/preview.avif?url';
+import appleTouchIcon from '../assets/apple-touch-icon-precomposed.avif?url';
+import font400 from '../assets/fonts/ek-mukta-400-latin.woff2?url';
+import font700 from '../assets/fonts/ek-mukta-700-latin.woff2?url';
+
+interface Props {
+  title: string;
+  description: string;
+  activePage: 'overview' | 'faq' | 'random';
+}
+
+const { title, description, activePage } = Astro.props;
+const url = Astro.url.href;
+const previewUrl = new URL(preview, Astro.site).href;
+---
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{title}</title>
+  <meta name="description" content={description}>
+
+  <meta property="og:type" content="website">
+  <meta property="og:url" content={url}>
+  <meta property="og:title" content={title}>
+  <meta property="og:description" content={description}>
+  <meta property="og:image" content={previewUrl}>
+  <meta property="og:image:secure_url" content={previewUrl}>
+  <meta property="og:image:width" content="640">
+  <meta property="og:image:height" content="320">
+
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content={url}>
+  <meta property="twitter:title" content={title}>
+  <meta property="twitter:description" content={description}>
+  <meta property="twitter:image" content={previewUrl}>
+
+  <link href="/manifest.webmanifest" rel="manifest">
+  <link href={favicon} rel="icon">
+  <link href={favicon} rel="shortcut icon">
+  <link href={appleTouchIcon} rel="apple-touch-icon-precomposed">
+  <link href={font400} rel="preload" as="font" type="font/woff2" crossorigin>
+  <link href={font700} rel="preload" as="font" type="font/woff2" crossorigin>
+  <ClientRouter />
+</head>
+<body class="dark">
+  <header>
+    <ThemeToggle />
+    <h1><a href="/">analog film<span>.space</span></a></h1>
+    <p>a database of currently available 35mm, 110 and medium format film stocks</p>
+    <nav>
+      <a href="/" class:list={[{ active: activePage === 'overview' }]}>overview</a> /
+      <a href="/faq" class:list={[{ active: activePage === 'faq' }]}>frequently asked questions</a> /
+      <a href="/random" class:list={[{ active: activePage === 'random' }]}>random film</a>
+    </nav>
+  </header>
+  <slot />
+</body>
+</html>

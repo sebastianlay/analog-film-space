@@ -1,0 +1,24 @@
+<script is:inline>
+  function applyTheme() {
+    var saved = localStorage.getItem('theme');
+    var prefersDark = saved ? saved === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (!prefersDark) document.body.classList.remove('dark');
+  }
+  applyTheme();
+  document.addEventListener('astro:after-swap', applyTheme);
+</script>
+<div class="switch" id="theme-toggle" role="button" tabindex="0" aria-label="Toggle dark mode" transition:persist></div>
+<script>
+  const toggle = document.getElementById('theme-toggle')!;
+  function toggleTheme() {
+    document.body.classList.toggle('dark');
+    localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+  }
+  toggle.addEventListener('click', toggleTheme);
+  toggle.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      toggleTheme();
+    }
+  });
+</script>

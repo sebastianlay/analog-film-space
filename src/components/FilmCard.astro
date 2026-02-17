@@ -1,0 +1,42 @@
+---
+import { Image } from 'astro:assets';
+import type { Film } from '../scripts/load-films';
+
+interface Props {
+  film: Film;
+  index: number;
+}
+
+const { film, index } = Astro.props;
+---
+<li
+  data-name={film.name.toLowerCase()}
+  data-description={film.description.toLowerCase()}
+  data-type={film.type}
+  data-format={film.format}
+  data-iso={film.iso}
+  data-popularity={film.popularity}
+  data-launched={film.launched}
+>
+  <Image
+    src={film.imageSmall}
+    srcset={`${film.imageSmall.src} 1x, ${film.image.src} 2x`}
+    alt={film.name}
+    format="avif"
+    loading={index > 9 ? 'lazy' : 'eager'}
+  />
+  <h2>{film.name}</h2>
+  <p>
+    {film.description && <span>{film.description}</span>}
+    <span>
+      {film.flickr && <a href={film.flickr} target="_blank" rel="noopener">flickr</a>}
+      {film.lomography && <a href={film.lomography} target="_blank" rel="noopener">lomography</a>}
+      {film.datasheet && <a href={film.datasheet} target="_blank" rel="noopener">datasheet</a>}
+    </span>
+  </p>
+  <aside>
+    <div title="film type">{film.type}</div>
+    <div title="film format">{film.format}</div>
+    {film.launched && <div title="film launched/updated">{film.launched}</div>}
+  </aside>
+</li>

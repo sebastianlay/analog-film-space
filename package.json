@@ -1,0 +1,19 @@
+{
+  "name": "analog-film-space",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/alpinejs": "^0.4.9",
+    "@astrojs/sitemap": "^3.7.0",
+    "alpinejs": "^3.15.8",
+    "astro": "^5.17.2",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/alpinejs": "^3.13.11"
+  }
+}

@@ -1,42 +1,13 @@
-<!DOCTYPE html>
-<html lang="en" prefix="og: http://ogp.me/ns#">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>analog film space - faq</title>
-  <meta name="description" content="Frequently asked questions about this site">
-
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://analogfilm.space/faq">
-  <meta property="og:title" content="analog film space - faq">
-  <meta property="og:description" content="Frequently asked questions about this site">
-  <meta property="og:image" content="https://analogfilm.space/preview.avif">
-  <meta property="og:image:secure_url" content="https://analogfilm.space/preview.avif">
-  <meta property="og:image:width" content="640"> 
-  <meta property="og:image:height" content="320">
-
-  <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://analogfilm.space/faq">
-  <meta property="twitter:title" content="analog film space - faq">
-  <meta property="twitter:description" content="Frequently asked questions about this site">
-  <meta property="twitter:image" content="https://analogfilm.space/preview.avif">
-
-  <link href="manifest.webmanifest" rel="manifest">
-  <link href="favicon.svg" rel="icon">
-  <link href="favicon.svg" rel="shortcut icon">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="fonts/ek-mukta-400-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin>
-  <link href="fonts/ek-mukta-700-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin>
-</head>
-<body class="dark">
-  <div id="faq">
-    <header>
-      <div class="switch" v-on:click="toggle"></div>
-      <h1><a href="/">analog film<span>.space</span></a></h1>
-      <p>a database of currently available 35mm, 110 and medium format film stocks</p>
-      <nav><a href="/">overview</a> / <a href="/faq" class="active">frequently asked questions</a> / <a href="/guide">film guide</a> / <a href="/random">random film</a></nav>
-    </header>
-    <main>
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="analog film space - faq"
+  description="Frequently asked questions about this site"
+  activePage="faq"
+>
+  <main>
+    <div id="faq">
       <ul>
         <li>
           <h2>What should I look out for when buying film?</h2>
@@ -72,7 +43,7 @@
           <h2>What about other film formats and processes?</h2>
           <p>If this site generates enough interest, I’ll add these in the future. For now I only added film formats and processes I use myself.<br>If you would like to contribute to this site, contact me via the issues in the repository on GitHub:</p>
           <aside>
-            <div><a href="https://github.com/sebastianlay/analog-film-space/issues" target="_blank" rel="noopener noreferrer">GitHub repository</a></div>
+            <div><a href="https://github.com/analog-photography-space/analog-film-space/issues" target="_blank" rel="noopener noreferrer">GitHub repository</a></div>
           </aside>
         </li>
         <li>
@@ -97,7 +68,7 @@
           <h2>How is the popularity measured?</h2>
           <p>It’s not easy to measure this. Currently it’s just the number of search results on a popular photo site. I’m very open to alternative ideas! Please let me know via the issues in the repository on GitHub if you have an idea:</p>
           <aside>
-            <div><a href="https://github.com/sebastianlay/analog-film-space/issues" target="_blank" rel="noopener noreferrer">GitHub repository</a></div>
+            <div><a href="https://github.com/analog-photography-space/analog-film-space/issues" target="_blank" rel="noopener noreferrer">GitHub repository</a></div>
           </aside>
         </li>
         <li>
@@ -116,9 +87,6 @@
           </aside>
         </li>
       </ul>
-    </main>
-  </div>
-  <script src="js/vue.global.prod.js?d=20260209"></script>
-  <script src="js/script-faq.js?d=20260209"></script>
-</body>
-</html>
+    </div>
+  </main>
+</BaseLayout>
