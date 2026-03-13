@@ -57,7 +57,7 @@ const films = await loadFilms();
           <span>Adjust the search term or filters to find any results.</span>
         </p>
         <aside>
-          <div><a href="" @click.prevent="reset()">Clear all filters</a></div>
+          <div><button class="link" @click="reset()">Clear all filters</button></div>
         </aside>
       </li>
     </ul>

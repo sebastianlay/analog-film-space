@@ -221,6 +221,16 @@ li aside div, .link {
   flex-grow: 1;
 }
 
+button.link {
+  background: none;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+
 li aside div:last-child {
   border-right: none;
 }
@@ -313,6 +323,11 @@ header a {
   background: #555;
   color: #eee;
   border-color: #222;
+}
+
+.dark button.link {
+  background: none;
+  border-right: none;
 }
 
 .dark button:active, .dark button.active {
