@@ -27,10 +27,11 @@ const sizes = defineCollection({
     film: reference('films'),
     size_format: z.enum(['110', '120', '135']),
     size_year: z.number().int().min(1950).max(new Date().getFullYear()),
-  }).refine(
-    (data) => data.size_id === `${data.film.id}-${data.size_format}`,
-    (data) => ({ message: `expected "${data.film.id}-${data.size_format}", got "${data.size_id}"`, path: ['size_id'] }),
-  ),
+  }).superRefine((data, ctx) => {
+    if (data.size_id !== `${data.film.id}-${data.size_format}`) {
+      ctx.addIssue({ code: 'custom', message: `expected "${data.film.id}-${data.size_format}", got "${data.size_id}"`, path: ['size_id'] });
+    }
+  }),
 });
 
 export const collections = { films, sizes };

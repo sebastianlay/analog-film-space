@@ -7,10 +7,10 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "@astrojs/alpinejs": "^0.4.9",
-    "@astrojs/sitemap": "^3.7.0",
+    "@astrojs/alpinejs": "^0.5.0",
+    "@astrojs/sitemap": "^3.7.1",
     "alpinejs": "^3.15.8",
-    "astro": "^5.18.0",
+    "astro": "^6.0.4",
     "typescript": "^5.9.3"
   },
   "devDependencies": {
