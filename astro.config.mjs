@@ -6,7 +6,6 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://analogfilm.space',
-  trailingSlash: 'never',
   output: 'static',
   compressHTML: false,
   prefetch: true,
@@ -18,8 +17,30 @@ export default defineConfig({
 
   vite: {
     build: {
-      assetsInlineLimit: 0
-    }
+      assetsInlineLimit: 0,
+      rollupOptions: {
+        output: {
+          assetFileNames: (assetInfo) => {
+            if (assetInfo.names?.some(n => n.endsWith('.css'))) {
+              return 'assets/style.[hash][extname]';
+            }
+            return 'assets/[name].[hash][extname]';
+          },
+        },
+      },
+    },
+    environments: {
+      client: {
+        build: {
+          rollupOptions: {
+            output: {
+              manualChunks: () => 'main',
+              entryFileNames: 'assets/script.[hash].js',
+            },
+          },
+        },
+      },
+    },
   },
 
   fonts: [{

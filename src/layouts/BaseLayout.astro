@@ -44,6 +44,7 @@ const previewUrl = new URL(preview, Astro.site).href;
   <link href={favicon} rel="icon">
   <link href={favicon} rel="shortcut icon">
   <link href={appleTouchIcon} rel="apple-touch-icon-precomposed">
+
   <Font cssVariable="--font-ek-mukta" preload />
   <ClientRouter />
 </head>
@@ -54,8 +55,8 @@ const previewUrl = new URL(preview, Astro.site).href;
     <p>a database of currently available 35mm, 110 and medium format film stocks</p>
     <nav>
       <a href="/" class:list={[{ active: activePage === 'overview' }]}>overview</a> /
-      <a href="/faq" class:list={[{ active: activePage === 'faq' }]}>frequently asked questions</a> /
-      <a href="/random" class:list={[{ active: activePage === 'random' }]}>random film</a>
+      <a href="/faq/" class:list={[{ active: activePage === 'faq' }]}>frequently asked questions</a> /
+      <a href="/random/" class:list={[{ active: activePage === 'random' }]}>random film</a>
     </nav>
   </header>
   <slot />

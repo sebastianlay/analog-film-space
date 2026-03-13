@@ -24,6 +24,7 @@ const { film, index } = Astro.props;
     alt={film.name}
     format="avif"
     loading={index > 9 ? 'lazy' : 'eager'}
+    fetchpriority={index > 9 ? 'auto' : 'high'}
   />
   <h2>{film.name}</h2>
   <p>
