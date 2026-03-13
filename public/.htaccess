@@ -13,7 +13,8 @@
 <IfModule mod_headers.c>
 
   # hashed assets: immutable, 1 year cache
-  <filesMatch "^.+\.[a-zA-Z0-9_-]{8,}\..+$">
+  # matches both Vite assets (name.hash.ext) and Astro font files (hash.woff2)
+  <filesMatch "^.+\.[a-zA-Z0-9_-]{8,}\..+$|^[a-f0-9]{16}\.woff2$">
     Header set Cache-Control "max-age=31536000, public, immutable"
   </filesMatch>
 

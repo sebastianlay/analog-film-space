@@ -1,12 +1,11 @@
 ---
 import { ClientRouter } from 'astro:transitions';
+import { Font } from 'astro:assets';
 import ThemeToggle from '../components/ThemeToggle.astro';
 import '../assets/style.css';
 import favicon from '../assets/favicon.svg?url';
 import preview from '../assets/preview.avif?url';
 import appleTouchIcon from '../assets/apple-touch-icon-precomposed.avif?url';
-import font400 from '../assets/fonts/ek-mukta-400-latin.woff2?url';
-import font700 from '../assets/fonts/ek-mukta-700-latin.woff2?url';
 
 interface Props {
   title: string;
@@ -45,8 +44,7 @@ const previewUrl = new URL(preview, Astro.site).href;
   <link href={favicon} rel="icon">
   <link href={favicon} rel="shortcut icon">
   <link href={appleTouchIcon} rel="apple-touch-icon-precomposed">
-  <link href={font400} rel="preload" as="font" type="font/woff2" crossorigin>
-  <link href={font700} rel="preload" as="font" type="font/woff2" crossorigin>
+  <Font cssVariable="--font-ek-mukta" preload />
   <ClientRouter />
 </head>
 <body class="dark">

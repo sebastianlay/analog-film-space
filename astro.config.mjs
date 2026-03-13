@@ -1,4 +1,4 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig, fontProviders } from 'astro/config';
 
 import alpinejs from '@astrojs/alpinejs';
 
@@ -21,6 +21,17 @@ export default defineConfig({
       assetsInlineLimit: 0
     }
   },
+
+  fonts: [{
+    provider: fontProviders.google(),
+    name: 'Mukta',
+    cssVariable: '--font-ek-mukta',
+    weights: [400, 700],
+    styles: ['normal'],
+    subsets: ['latin'],
+    display: 'swap',
+    fallbacks: ['sans-serif'],
+  }],
 
   integrations: [alpinejs({ entrypoint: '/src/scripts/alpine.ts' }), sitemap()]
 });
