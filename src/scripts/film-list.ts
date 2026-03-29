@@ -45,30 +45,30 @@ export const filmList = () => ({
     const dir = this.currentDir === 'asc' ? 1 : -1;
     const list = this.$refs.list;
 
-    let count = 0;
+    const visible: HTMLLIElement[] = [];
     for (const li of this.items) {
       const name = li.dataset.name!;
       const desc = li.dataset.description!;
       const type = li.dataset.type!;
       const format = li.dataset.format!;
 
-      let visible = true;
+      let match = true;
       if (terms.length) {
-        visible = terms.every(t => name.includes(t) || desc.includes(t));
+        match = terms.every(t => name.includes(t) || desc.includes(t));
       }
-      if (visible && typeFilter !== 'all') {
-        visible = type === typeFilter;
+      if (match && typeFilter !== 'all') {
+        match = type === typeFilter;
       }
-      if (visible && formatFilter !== 'all') {
-        visible = format === formatFilter;
+      if (match && formatFilter !== 'all') {
+        match = format === formatFilter;
       }
 
-      li.style.display = visible ? '' : 'none';
-      if (visible) count++;
+      li.style.display = match ? '' : 'none';
+      if (match) visible.push(li);
     }
-    this.matchCount = count;
+    this.matchCount = visible.length;
 
-    const sorted = this.items.filter(li => li.style.display !== 'none').sort((a, b) => {
+    const sorted = visible.sort((a, b) => {
       const nameA = a.dataset.name! + a.dataset.format!;
       const nameB = b.dataset.name! + b.dataset.format!;
       switch (sortKey) {
