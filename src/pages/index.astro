@@ -40,6 +40,7 @@ const films = await loadFilms();
         <button @click="sortBy('iso')" :class="[currentSort === 'iso' ? 'active' : '', currentSort === 'iso' ? currentDir : '']" :aria-pressed="currentSort === 'iso'" :aria-label="currentSort === 'iso' ? 'sort by ISO, ' + currentDir + 'ending' : 'sort by ISO'">ISO</button>
       </section>
     </aside>
+    <p aria-live="polite" class="sr-only" x-text="matchCount + ' films found'"></p>
     <ul x-ref="list">
       {films.map((film, index) => (
         <FilmCard film={film} index={index} />
@@ -56,9 +57,9 @@ const films = await loadFilms();
           <span>None of the films match the selected criteria.</span>
           <span>Adjust the search term or filters to find any results.</span>
         </p>
-        <aside>
+        <footer>
           <div><button class="link" @click="reset()">Clear all filters</button></div>
-        </aside>
+        </footer>
       </li>
     </ul>
   </main>

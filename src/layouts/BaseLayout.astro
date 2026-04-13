@@ -24,6 +24,7 @@ const previewUrl = new URL(preview, Astro.site).href;
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{title}</title>
   <meta name="description" content={description}>
+  <link rel="canonical" href={url}>
 
   <meta property="og:type" content="website">
   <meta property="og:url" content={url}>
@@ -34,11 +35,11 @@ const previewUrl = new URL(preview, Astro.site).href;
   <meta property="og:image:width" content="640">
   <meta property="og:image:height" content="320">
 
-  <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content={url}>
-  <meta property="twitter:title" content={title}>
-  <meta property="twitter:description" content={description}>
-  <meta property="twitter:image" content={previewUrl}>
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content={url}>
+  <meta name="twitter:title" content={title}>
+  <meta name="twitter:description" content={description}>
+  <meta name="twitter:image" content={previewUrl}>
 
   <link href="/manifest.webmanifest" rel="manifest">
   <link href={favicon} rel="icon">

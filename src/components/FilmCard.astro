@@ -35,9 +35,9 @@ const { film, index } = Astro.props;
       {film.datasheet && <a href={film.datasheet} target="_blank" rel="noopener">datasheet</a>}
     </span>
   </p>
-  <aside>
+  <footer>
     <div title="film type">{film.type}</div>
     <div title="film format">{film.format}</div>
     {film.launched && <div title="film launched/updated">{film.launched}</div>}
-  </aside>
+  </footer>
 </li>

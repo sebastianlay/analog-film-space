@@ -16,13 +16,14 @@ export const randomFilm = () => {
     tick: 0,
     show: false,
     shuffle(this: RandomFilmData) {
+      this.film = this.films[Math.floor(Math.random() * this.films.length)];
+      this.show = true;
+      if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
       if (this.tick++ < 25) {
-        this.film = this.films[Math.floor(Math.random() * this.films.length)];
         setTimeout(() => this.shuffle(), 10 + (this.tick * this.tick) / 2);
       } else {
         this.tick = 0;
       }
-      this.show = true;
     }
   };
 };

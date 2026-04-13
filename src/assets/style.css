@@ -1,29 +1,9 @@
 /* reset */
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
+*, *::before, *::after {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
-
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-  display: block;
 }
 
 body {
@@ -34,12 +14,38 @@ ol, ul {
   list-style: none;
 }
 
-html {
-  box-sizing: border-box;
+/* theme */
+
+:root {
+  --color-bg: #ccc;
+  --color-text: #000;
+  --color-link-hover: #aaa;
+  --color-muted: #666;
+  --color-input-bg: #fff;
+  --color-input-border: #bbb;
+  --color-button-active-bg: #eee;
+  --color-card-bg: #fff;
+  --color-card-border: #bbb;
+  --color-card-shadow: #bbb;
+  --color-footer-bg: #f3f3f3;
+  --color-footer-border: #ddd;
+  --color-icon-filter: none;
 }
 
-*, *:before, *:after {
-  box-sizing: inherit;
+.dark {
+  --color-bg: #333;
+  --color-text: #eee;
+  --color-link-hover: #aaa;
+  --color-muted: #eee;
+  --color-input-bg: #555;
+  --color-input-border: #222;
+  --color-button-active-bg: #666;
+  --color-card-bg: #555;
+  --color-card-border: #333;
+  --color-card-shadow: #222;
+  --color-footer-bg: #444;
+  --color-footer-border: #333;
+  --color-icon-filter: invert();
 }
 
 /* main styles */
@@ -47,8 +53,8 @@ html {
 body {
   padding: 50px 75px;
   min-width: 360px;
-  background: #ccc;
-  color: #000;
+  background: var(--color-bg);
+  color: var(--color-text);
   text-align: left;
   overflow-y: scroll;
 }
@@ -65,9 +71,10 @@ em {
 input, button, select {
   margin: 0 5px;
   padding: 5px 10px;
-  border: 1px solid #bbb;
+  border: 1px solid var(--color-input-border);
   border-radius: 5px;
-  background: #fff;
+  background: var(--color-input-bg);
+  color: var(--color-text);
 }
 
 .search {
@@ -80,16 +87,22 @@ input, button, select {
   right: 0;
   width: 24px;
   height: 24px;
+  padding: 0;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  background: transparent;
   background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNSIvPjxwYXRoIGQ9Ik0xMiAxdjJNMTIgMjF2Mk00LjIyIDQuMjJsMS40MiAxLjQyTTE4LjM2IDE4LjM2bDEuNDIgMS40Mk0xIDEyaDJNMjEgMTJoMk00LjIyIDE5Ljc4bDEuNDItMS40Mk0xOC4zNiA1LjY0bDEuNDItMS40MiIvPjwvc3ZnPg==');
   cursor: pointer;
+  filter: var(--color-icon-filter);
 }
 
 button {
   cursor: pointer;
 }
 
-button:active, button.active {
-  background: #eee;
+button:active:not(.switch), button.active:not(.switch) {
+  background-color: var(--color-button-active-bg);
 }
 
 .asc:after, .desc:after {
@@ -101,6 +114,7 @@ button:active, button.active {
   position: relative;
   top: -2px;
   margin: 0 0 0 4px;
+  filter: var(--color-icon-filter);
 }
 
 .asc:after {
@@ -149,27 +163,22 @@ header {
   position: relative;
 }
 
-main {
-  font-size: 0;
-}
-
 ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  font-size: 0;
 }
 
 li {
-  border: 1px solid #bbb;
+  border: 1px solid var(--color-card-border);
   border-radius: 5px;
-  box-shadow: 1px 1px 2px #bbb;
+  box-shadow: 1px 1px 2px var(--color-card-shadow);
   margin: 120px 10px 10px 10px;
   padding: 19px;
   width: 330px;
   height: 370px;
   position: relative;
-  background: #fff;
+  background: var(--color-card-bg);
   text-align: center;
 }
 
@@ -188,7 +197,7 @@ li img {
   height: 200px;
   margin: -120px 0 -20px 0;
   display: inline-block;
-  filter: drop-shadow(1px 1px 2px #bbb);
+  filter: drop-shadow(1px 1px 2px var(--color-card-shadow));
 }
 
 li p {
@@ -201,23 +210,23 @@ li p span {
   justify-content: center;
 }
 
-li aside {
+li footer {
   position: absolute;
   right: 0;
   bottom: 0;
   left: 0;
-  border-top: 1px solid #ddd;
-  background: #f3f3f3;
+  border-top: 1px solid var(--color-footer-border);
+  background: var(--color-footer-bg);
   border-radius: 0 0 5px 5px;
   display: flex;
 }
 
-li aside div, .link {
+li footer div, .link {
   text-align: center;
   font-size: 16px;
-  color: #666;
+  color: var(--color-muted);
   padding: 13px 15px;
-  border-right: 1px solid #ddd;
+  border-right: 1px solid var(--color-footer-border);
   flex-grow: 1;
 }
 
@@ -231,12 +240,12 @@ button.link {
   cursor: pointer;
 }
 
-li aside div:last-child {
+li footer div:last-child {
   border-right: none;
 }
 
 a {
-  color: #000;
+  color: var(--color-text);
   text-decoration: underline;
   text-underline-offset: 3px;
   cursor: pointer;
@@ -253,7 +262,7 @@ a.active {
 }
 
 h1 a:hover {
-  color: #aaa;
+  color: var(--color-link-hover);
 }
 
 strong {
@@ -280,62 +289,14 @@ header a {
   display: none;
 }
 
-/* dark mode */
-
-.dark {
-  background: #333;
-  color: #eee;
-}
-
-.dark a, .dark .label {
-  color: #eee;
-}
-
-.dark .switch {
-  filter: invert();
-}
-
-.dark li {
-  border: 1px solid #333;
-  box-shadow: 1px 1px 2px #222;
-  background: #555;
-}
-
-.dark li img {
-  filter: drop-shadow(1px 1px 2px #222);
-}
-
-.dark li aside {
-  background: #444;
-  border-top: 1px solid #333;
-}
-
-.dark li aside div, .dark .link {
-  border-right: 1px solid #333;
-  color: #eee;
-}
-
-.dark li aside div:last-child {
-  border-right: none;
-}
-
-.dark input, .dark button, .dark select {
-  background: #555;
-  color: #eee;
-  border-color: #222;
-}
-
-.dark button.link {
-  background: none;
-  border-right: none;
-}
-
-.dark button:active, .dark button.active {
-  background: #666;
-}
-
-.dark .asc:after, .dark .desc:after {
-  filter: invert();
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 /* media queries */

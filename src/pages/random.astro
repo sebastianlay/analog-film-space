@@ -13,7 +13,7 @@ const filmsForAlpine = films.map(f => ({
 }));
 ---
 <BaseLayout
-  title="analog film space - random"
+  title="random film - analog film space"
   description="Get inspired and try out a random film stock"
   activePage="random"
 >
@@ -31,11 +31,11 @@ const filmsForAlpine = films.map(f => ({
             <a x-show="film.datasheet" :href="film.datasheet" target="_blank" rel="noopener" x-text="'datasheet'"></a>
           </span>
         </p>
-        <aside>
-          <div title="film type" x-text="film.type"></div>
-          <div title="film format" x-text="film.format"></div>
-          <div x-show="film.launched" title="film launched/updated" x-text="film.launched"></div>
-        </aside>
+        <footer>
+          <div aria-label="film type" x-text="film.type"></div>
+          <div aria-label="film format" x-text="film.format"></div>
+          <div x-show="film.launched" aria-label="film launched/updated" x-text="film.launched"></div>
+        </footer>
       </li>
     </ul>
     <ul x-show="!show">
@@ -43,9 +43,9 @@ const filmsForAlpine = films.map(f => ({
         <Image src={randomFull} alt="random" format="avif" loading={'eager'} />
         <h2>Need some inspiration?</h2>
         <p>Do you have no idea what film to shoot next? Do you want to get out of your comfort zone? Press the button below and try your luck!</p>
-        <aside>
+        <footer>
           <div><button class="link" @click="shuffle()">surprise me!</button></div>
-        </aside>
+        </footer>
       </li>
     </ul>
   </main>

@@ -3,22 +3,21 @@
     var saved = localStorage.getItem('theme');
     var prefersDark = saved ? saved === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
     if (!prefersDark) document.body.classList.remove('dark');
+    var toggle = document.getElementById('theme-toggle');
+    if (toggle) toggle.setAttribute('aria-pressed', String(document.body.classList.contains('dark')));
   }
   applyTheme();
   document.addEventListener('astro:after-swap', applyTheme);
 </script>
-<div class="switch" id="theme-toggle" role="button" tabindex="0" aria-label="Toggle dark mode" transition:persist></div>
+<button type="button" class="switch" id="theme-toggle" aria-label="Toggle dark mode" aria-pressed="true" transition:persist></button>
 <script>
   const toggle = document.getElementById('theme-toggle')!;
+  toggle.setAttribute('aria-pressed', String(document.body.classList.contains('dark')));
   function toggleTheme() {
     document.body.classList.toggle('dark');
-    localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+    const isDark = document.body.classList.contains('dark');
+    localStorage.setItem('theme', isDark ? 'dark' : 'light');
+    toggle.setAttribute('aria-pressed', String(isDark));
   }
   toggle.addEventListener('click', toggleTheme);
-  toggle.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter' || e.key === ' ') {
-      e.preventDefault();
-      toggleTheme();
-    }
-  });
 </script>
