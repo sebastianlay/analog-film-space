@@ -68,7 +68,7 @@ export const filmList = () => ({
     }
     this.matchCount = visible.length;
 
-    const sorted = visible.sort((a, b) => {
+    visible.sort((a, b) => {
       const nameA = a.dataset.name! + a.dataset.format!;
       const nameB = b.dataset.name! + b.dataset.format!;
       switch (sortKey) {
@@ -80,9 +80,11 @@ export const filmList = () => ({
       }
     });
 
-    for (const li of sorted) {
-      list.appendChild(li);
+    const fragment = document.createDocumentFragment();
+    for (const li of visible) {
+      fragment.appendChild(li);
     }
+    list.appendChild(fragment);
   },
 
   sortBy(this: FilmList, field: string) {

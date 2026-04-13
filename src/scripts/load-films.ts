@@ -15,8 +15,10 @@ export default async function loadFilms(): Promise<Film[]> {
   const films = await getCollection('films');
   const sizes = await getCollection('sizes');
 
+  const filmMap = new Map(films.map(f => [f.id, f]));
+
   return sizes.map<Film>(size => {
-    const film = films.find(f => f.id === size.data.film.id)!;
+    const film = filmMap.get(size.data.film.id)!;
     const filename = `${size.data.size_id}.avif`;
     return {
       name: film.data.film_name,
