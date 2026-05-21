@@ -1,23 +1,19 @@
 ---
 import { Image } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import loadFilms from '../scripts/load-films';
+import loadFilms, { serializeFilm } from '../lib/films';
 
 import randomFull from '../assets/images/random.avif';
 
 const films = await loadFilms();
-const filmsForAlpine = films.map(f => ({
-  ...f,
-  image: f.image.src,
-  imageSmall: f.imageSmall.src,
-}));
+const serializedFilms = films.map(serializeFilm);
 ---
 <BaseLayout
   title="random film - analog film space"
   description="Get inspired and try out a random film stock"
   activePage="random"
 >
-  <script is:inline type="application/json" id="films-data" set:html={JSON.stringify(filmsForAlpine)} />
+  <script is:inline type="application/json" id="films-data" set:html={JSON.stringify(serializedFilms)} />
   <main x-data="randomFilm()" x-cloak>
     <ul x-show="show">
       <li>

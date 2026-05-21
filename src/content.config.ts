@@ -1,5 +1,6 @@
-import { defineCollection, reference, z } from 'astro:content';
+import { defineCollection, reference } from 'astro:content';
 import { file } from 'astro/loaders';
+import { z } from 'astro/zod';
 
 const films = defineCollection({
   loader: file('data/films.json', {

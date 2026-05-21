@@ -1,12 +1,25 @@
+// Runs at BUILD TIME only (Astro frontmatter / SSG).
+// Reads the content collections and bundles image + datasheet assets via Vite.
+// Do not import from `src/client/` — those modules run in the browser.
+
 import { getCollection } from 'astro:content';
+import type { SerializedFilm } from '../client/types';
 
 const fullImages = import.meta.glob<{ default: ImageMetadata }>('/src/assets/images/*.avif', { eager: true });
 const smallImages = import.meta.glob<{ default: ImageMetadata }>('/src/assets/images/small/*.avif', { eager: true });
 const datasheets = import.meta.glob<string>('/src/assets/datasheets/*.pdf', { eager: true, query: '?url', import: 'default' });
 
-import type { BaseFilm } from './types';
-
-export interface Film extends BaseFilm {
+export interface Film {
+  name: string;
+  iso: number;
+  format: string;
+  type: string;
+  popularity: number;
+  description: string;
+  launched: number;
+  datasheet: string | null;
+  lomography: string | null;
+  flickr: string | null;
   image: ImageMetadata;
   imageSmall: ImageMetadata;
 }
@@ -35,4 +48,14 @@ export default async function loadFilms(): Promise<Film[]> {
       imageSmall: smallImages[`/src/assets/images/small/${filename}`].default,
     };
   }).sort((a, b) => b.popularity - a.popularity || (a.name.toLowerCase() + a.format).localeCompare(b.name.toLowerCase() + b.format));
+}
+
+// Canonical conversion to the shape the browser receives. Keep all
+// build → client field mapping here so the boundary stays type-checked.
+export function serializeFilm(film: Film): SerializedFilm {
+  return {
+    ...film,
+    image: film.image.src,
+    imageSmall: film.imageSmall.src,
+  };
 }

@@ -1,7 +1,5 @@
 import { defineConfig, fontProviders } from 'astro/config';
-
 import alpinejs from '@astrojs/alpinejs';
-
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
@@ -54,5 +52,5 @@ export default defineConfig({
     fallbacks: ['sans-serif'],
   }],
 
-  integrations: [alpinejs({ entrypoint: '/src/scripts/alpine.ts' }), sitemap()]
+  integrations: [alpinejs({ entrypoint: '/src/client/entry.ts' }), sitemap()]
 });

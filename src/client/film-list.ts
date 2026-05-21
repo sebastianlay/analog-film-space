@@ -1,3 +1,7 @@
+// Runs in the BROWSER only. Alpine component for the filterable film list.
+// Reads film data from `data-*` attributes on the rendered <li> elements
+// (no JSON payload needed).
+
 import type { Magics } from 'alpinejs';
 
 interface FilmListData {

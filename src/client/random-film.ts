@@ -1,15 +1,19 @@
-import type { Film } from './types';
+// Runs in the BROWSER only. Alpine component for the "random film" page.
+// Hydrates from a <script type="application/json" id="films-data"> blob
+// that the page emitted at build time (see src/pages/random.astro).
+
+import type { SerializedFilm } from './types';
 
 interface RandomFilmData {
-  films: Film[];
-  film: Film;
+  films: SerializedFilm[];
+  film: SerializedFilm;
   tick: number;
   show: boolean;
   shuffle(): void;
 }
 
 export const randomFilm = () => {
-  const films: Film[] = JSON.parse(document.getElementById('films-data')!.textContent!);
+  const films: SerializedFilm[] = JSON.parse(document.getElementById('films-data')!.textContent!);
   return {
     films,
     film: films[0],
