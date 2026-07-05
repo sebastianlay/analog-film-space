@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import favicon from '../assets/favicon.svg?url';
-import appleTouchIcon from '../assets/apple-touch-icon-precomposed.avif?url';
+import icon192 from '../assets/icon-192.png?url';
+import icon256 from '../assets/icon-256.png?url';
 
 export const GET: APIRoute = () => {
   const manifest = {
@@ -15,12 +16,20 @@ export const GET: APIRoute = () => {
       {
         src: favicon,
         sizes: 'any',
-        purpose: 'any maskable',
+        type: 'image/svg+xml',
+        purpose: 'any',
       },
       {
-        src: appleTouchIcon,
+        src: icon192,
+        sizes: '192x192',
+        type: 'image/png',
+        purpose: 'any',
+      },
+      {
+        src: icon256,
         sizes: '256x256',
-        type: 'image/avif',
+        type: 'image/png',
+        purpose: 'any',
       },
     ],
   };

@@ -1,6 +1,6 @@
 # analogfilm.space
 
-![Preview](src/assets/preview.avif)
+![Preview](src/assets/preview.png)
 
 A database of currently available 35mm, 110 and medium format film stocks.
 

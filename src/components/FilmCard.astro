@@ -1,6 +1,6 @@
 ---
 import { Image } from 'astro:assets';
-import type { Film } from '../lib/films';
+import { IMAGE_WIDTH, IMAGE_DENSITIES, IMAGE_FORMAT, type Film } from '../lib/films';
 
 interface Props {
   film: Film;
@@ -19,10 +19,11 @@ const { film, index } = Astro.props;
   data-launched={film.launched}
 >
   <Image
-    src={film.imageSmall}
-    srcset={`${film.imageSmall.src} 1x, ${film.image.src} 2x`}
+    src={film.image}
     alt={film.name}
-    format="avif"
+    width={IMAGE_WIDTH}
+    densities={IMAGE_DENSITIES}
+    format={IMAGE_FORMAT}
     loading={index > 9 ? 'lazy' : 'eager'}
     fetchpriority={index > 9 ? 'auto' : 'high'}
   />

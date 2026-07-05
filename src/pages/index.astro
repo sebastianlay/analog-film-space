@@ -2,10 +2,9 @@
 import { Image } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import FilmCard from '../components/FilmCard.astro';
-import loadFilms from '../lib/films';
+import loadFilms, { IMAGE_WIDTH, IMAGE_DENSITIES, IMAGE_FORMAT } from '../lib/films';
 
-import randomFull from '../assets/images/random.avif';
-import randomSmall from '../assets/images/small/random.avif';
+import randomImage from '../assets/images/random.avif';
 
 const films = await loadFilms();
 ---
@@ -47,10 +46,11 @@ const films = await loadFilms();
       ))}
       <li x-show="matchCount === 0" x-cloak>
         <Image
-          src={randomSmall}
-          srcset={`${randomSmall.src} 1x, ${randomFull.src} 2x`}
+          src={randomImage}
           alt="Nothing found"
-          format="avif"
+          width={IMAGE_WIDTH}
+          densities={IMAGE_DENSITIES}
+          format={IMAGE_FORMAT}
         />
         <h2>Nothing found :(</h2>
         <p>

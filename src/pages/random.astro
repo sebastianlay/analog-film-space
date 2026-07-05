@@ -1,12 +1,12 @@
 ---
 import { Image } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import loadFilms, { serializeFilm } from '../lib/films';
+import loadFilms, { serializeFilm, IMAGE_WIDTH, IMAGE_DENSITIES, IMAGE_FORMAT } from '../lib/films';
 
-import randomFull from '../assets/images/random.avif';
+import randomImage from '../assets/images/random.avif';
 
 const films = await loadFilms();
-const serializedFilms = films.map(serializeFilm);
+const serializedFilms = await Promise.all(films.map(serializeFilm));
 ---
 <BaseLayout
   title="random film - analog film space"
@@ -36,7 +36,7 @@ const serializedFilms = films.map(serializeFilm);
     </ul>
     <ul x-show="!show">
       <li>
-        <Image src={randomFull} alt="random" format="avif" loading={'eager'} />
+        <Image src={randomImage} alt="random" width={IMAGE_WIDTH} densities={IMAGE_DENSITIES} format={IMAGE_FORMAT} loading="eager" />
         <h2>Need some inspiration?</h2>
         <p>Do you have no idea what film to shoot next? Do you want to get out of your comfort zone? Press the button below and try your luck!</p>
         <footer>
