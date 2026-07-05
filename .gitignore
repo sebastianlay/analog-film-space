@@ -1,8 +1,3 @@
-*.exe
-*.psd
-_images/*
-!_images/.gitkeep
-.venv
 node_modules/
 dist/
 .astro/
